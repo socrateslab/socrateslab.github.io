@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on Computational Communication Collaboratroy</title>
-    <link>https://computational-communication.com/collaboratory/tags/hugo/index.xml</link>
+    <link>https://computational-communication.com/tags/hugo/index.xml</link>
     <description>Recent content in Hugo on Computational Communication Collaboratroy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2015 - 2017, Computational Communication Collaboratory; all rights reserved.</copyright>
-    <atom:link href="https://computational-communication.com/collaboratory/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://computational-communication.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>418博士之家学术午餐会第四季第11期(总第81期)</title>
-      <link>https://computational-communication.com/collaboratory/blog/2017/03/17/20170317-418phd/</link>
+      <link>https://computational-communication.com/blog/2017/03/17/20170317-418phd/</link>
       <pubDate>Fri, 17 Mar 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://computational-communication.com/collaboratory/blog/2017/03/17/20170317-418phd/</guid>
+      <guid>https://computational-communication.com/blog/2017/03/17/20170317-418phd/</guid>
       <description>&lt;p&gt;2017年3月10日，王成军博士主持了费彝民楼A座418的博士之家，本期的主讲人是南京大学社会学院的吴俞晓教授。本期的沙龙主题：《Women in the Labor Market: Cohort Effects, Period Effects, and Life-Course Effects upon Women’s Employment in the United States, 1975-2002》&lt;/p&gt;
 
 &lt;p&gt;博士论文摘要：&lt;/p&gt;
@@ -29,10 +29,10 @@
     
     <item>
       <title>创享沙龙：对话音乐与虚拟现实技术</title>
-      <link>https://computational-communication.com/collaboratory/blog/2017/02/26/20170226-music/</link>
+      <link>https://computational-communication.com/blog/2017/02/26/20170226-music/</link>
       <pubDate>Sun, 26 Feb 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://computational-communication.com/collaboratory/blog/2017/02/26/20170226-music/</guid>
+      <guid>https://computational-communication.com/blog/2017/02/26/20170226-music/</guid>
       <description>&lt;p&gt;创享沙龙：对话音乐与虚拟现实技术&lt;/p&gt;
 
 &lt;ul&gt;
@@ -47,30 +47,30 @@
     
     <item>
       <title>王成军参加网络传播动力学青年学者论坛2016</title>
-      <link>https://computational-communication.com/collaboratory/blog/2016/12/22/20161222-netsci2016-hangzhou/</link>
+      <link>https://computational-communication.com/blog/2016/12/22/20161222-netsci2016-hangzhou/</link>
       <pubDate>Thu, 22 Dec 2016 21:49:20 +0200</pubDate>
       
-      <guid>https://computational-communication.com/collaboratory/blog/2016/12/22/20161222-netsci2016-hangzhou/</guid>
+      <guid>https://computational-communication.com/blog/2016/12/22/20161222-netsci2016-hangzhou/</guid>
       <description>&lt;p&gt;王成军参加在杭州师范大学举行的网络传播动力学青年学者论坛2016。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>硕士之家：网络异质性可以促进人类公平</title>
-      <link>https://computational-communication.com/collaboratory/blog/2016/12/14/20161214-hanxiao/</link>
+      <link>https://computational-communication.com/blog/2016/12/14/20161214-hanxiao/</link>
       <pubDate>Wed, 14 Dec 2016 21:49:20 +0200</pubDate>
       
-      <guid>https://computational-communication.com/collaboratory/blog/2016/12/14/20161214-hanxiao/</guid>
+      <guid>https://computational-communication.com/blog/2016/12/14/20161214-hanxiao/</guid>
       <description>&lt;p&gt;王成军主持硕士之家讲座《网络异质性可以促进人类公平》，主讲者为来自北京师范大学的韩晓博士。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>陈飚讲解Cloudera</title>
-      <link>https://computational-communication.com/collaboratory/blog/2016/11/25/20161125-cloudera/</link>
+      <link>https://computational-communication.com/blog/2016/11/25/20161125-cloudera/</link>
       <pubDate>Fri, 25 Nov 2016 21:49:20 +0200</pubDate>
       
-      <guid>https://computational-communication.com/collaboratory/blog/2016/11/25/20161125-cloudera/</guid>
+      <guid>https://computational-communication.com/blog/2016/11/25/20161125-cloudera/</guid>
       <description>&lt;p&gt;2016年11月23日下午，Cloudera成员陈飚访问实验中心，并就Cloudera Enterprise为主题分享了Cloudera所提供的从Hadoop到企业级的数据中心服务。&lt;/p&gt;
 
 &lt;p&gt;陈飚，Cloudera售前技术经理、行业领域顾问、资深方案架构师，原Intel Hadoop发行版核心开发人员。2006年加入Intel编译器部门从事服务器中间件软件开发，擅长服务器软件调试与优化，与团队一起开发出世界上性能领先的XSLT 语言处理器。2010 年后开始Hadoop 产品开发及方案顾问，先后负责Hadoop 产品化、HBase 性能调优，以及行业解决方案顾问，已成功实施并运维多个上百节点Hadoop大数据集群。&lt;/p&gt;
@@ -81,20 +81,20 @@
     
     <item>
       <title>讲座：计算传播学的起源、概念与应用</title>
-      <link>https://computational-communication.com/collaboratory/blog/2016/11/21/20161121-cc-intro/</link>
+      <link>https://computational-communication.com/blog/2016/11/21/20161121-cc-intro/</link>
       <pubDate>Mon, 21 Nov 2016 21:49:20 +0200</pubDate>
       
-      <guid>https://computational-communication.com/collaboratory/blog/2016/11/21/20161121-cc-intro/</guid>
+      <guid>https://computational-communication.com/blog/2016/11/21/20161121-cc-intro/</guid>
       <description>&lt;p&gt;王成军在北京大学汇丰商学院为财经传媒硕士介绍了《计算传播学的起源、概念与应用》&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>百度paddlepaddle深度学习平台南大宣讲</title>
-      <link>https://computational-communication.com/collaboratory/blog/2016/11/11/20161101-paddlepaddle/</link>
+      <link>https://computational-communication.com/blog/2016/11/11/20161101-paddlepaddle/</link>
       <pubDate>Fri, 11 Nov 2016 21:49:20 +0200</pubDate>
       
-      <guid>https://computational-communication.com/collaboratory/blog/2016/11/11/20161101-paddlepaddle/</guid>
+      <guid>https://computational-communication.com/blog/2016/11/11/20161101-paddlepaddle/</guid>
       <description>&lt;p&gt;《如何用人工智能征服用户》&lt;/p&gt;
 
 &lt;p&gt;百度开放了人工智能开源平台paddlepaddle（&lt;a href=&#34;http://www.paddlepaddle.org/），可用于大数据研究、机器学习、深度学习等多领域，开放后受到业内好评。特邀百度科学家周杰讲解相关内容。&#34;&gt;http://www.paddlepaddle.org/），可用于大数据研究、机器学习、深度学习等多领域，开放后受到业内好评。特邀百度科学家周杰讲解相关内容。&lt;/a&gt;&lt;/p&gt;
@@ -127,20 +127,20 @@
     
     <item>
       <title>中国传播学大会计算传播学工作坊</title>
-      <link>https://computational-communication.com/collaboratory/blog/2016/10/15/20161015-ccr-workshop/</link>
+      <link>https://computational-communication.com/blog/2016/10/15/20161015-ccr-workshop/</link>
       <pubDate>Sat, 15 Oct 2016 21:49:20 +0200</pubDate>
       
-      <guid>https://computational-communication.com/collaboratory/blog/2016/10/15/20161015-ccr-workshop/</guid>
+      <guid>https://computational-communication.com/blog/2016/10/15/20161015-ccr-workshop/</guid>
       <description>&lt;p&gt;计算传播学实验中心组织了中国传播学大会计算传播学工作坊， 张子柯、温乃楠、周葆华、秦强、陈志聪、巢乃鹏、王成军分享了各自的研究成果，巢乃鹏老师对以上研究进行了精彩点评。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>计算传播时代: 第一届计算传播学论坛成功召开</title>
-      <link>https://computational-communication.com/collaboratory/blog/2016/09/28/20160928-ccr-conference/</link>
+      <link>https://computational-communication.com/blog/2016/09/28/20160928-ccr-conference/</link>
       <pubDate>Wed, 28 Sep 2016 21:49:20 +0200</pubDate>
       
-      <guid>https://computational-communication.com/collaboratory/blog/2016/09/28/20160928-ccr-conference/</guid>
+      <guid>https://computational-communication.com/blog/2016/09/28/20160928-ccr-conference/</guid>
       <description>&lt;p&gt;寻找传播学可计算化的基因，在9月的南京迈出了重要的一步！&lt;/p&gt;
 
 &lt;p&gt;9月25日，第一届计算传播学论坛在南京大学费彝民楼成功召开。此次计算传播学论坛由百度与南京大学联合主办，南京大学双创示范基地国际合作“创新创业支持平台”、南京大学计算传播实验中心、南京大学新闻传播学院共同承办。为期一天的论坛，多项主题活动密集上演，四十多位国内以及海外专家学者积极发言、数百名莘莘学子热情参与。&lt;/p&gt;
@@ -171,10 +171,10 @@
     
     <item>
       <title>李海容：品牌传播的发展趋势</title>
-      <link>https://computational-communication.com/collaboratory/blog/2016/09/23/20160923-hairong/</link>
+      <link>https://computational-communication.com/blog/2016/09/23/20160923-hairong/</link>
       <pubDate>Fri, 23 Sep 2016 21:49:20 +0200</pubDate>
       
-      <guid>https://computational-communication.com/collaboratory/blog/2016/09/23/20160923-hairong/</guid>
+      <guid>https://computational-communication.com/blog/2016/09/23/20160923-hairong/</guid>
       <description>
 
 &lt;p&gt;2016年9月23日，密歇根州立大学李海容教授作客南京大学新闻传播学院硕士之家费彝民楼A409，向硕士生分享了《品牌传播的发展趋势》的演讲。移动互联网的广泛普及和大数据应用的日益兴起，不仅改变了消费者的信息获取方式，而且重塑着消费者与众多品牌的关系。适应这种新的市场环境，品牌传播的范式也在发生着根本的转变。本讲座将从品牌传播的目的、内容、 形态、方式和策略等方面，结合国内外案例，探讨创新的实践如何颠覆传统的做法，从而展示品牌传播的发展趋势。&lt;/p&gt;
@@ -195,34 +195,34 @@
     
     <item>
       <title>第一届计算传播学论坛会议议程（2016-09-25， 南京）</title>
-      <link>https://computational-communication.com/collaboratory/blog/2016/09/22/20160922-schedule-ccr-conference/</link>
+      <link>https://computational-communication.com/blog/2016/09/22/20160922-schedule-ccr-conference/</link>
       <pubDate>Thu, 22 Sep 2016 21:49:20 +0200</pubDate>
       
-      <guid>https://computational-communication.com/collaboratory/blog/2016/09/22/20160922-schedule-ccr-conference/</guid>
+      <guid>https://computational-communication.com/blog/2016/09/22/20160922-schedule-ccr-conference/</guid>
       <description>&lt;p&gt;第一届计算传播学论坛将于2016年9月25日本周日在南京大学新闻传播学院举行，本文为会议日程，欢迎分享扩散，会议对外开放，欢迎参加。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://computational-communication.com/collaboratory/wp-content/uploads/2016/09/Snip20160922_49-762x1024.png&#34; alt=&#34;Snip20160922_49&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://computational-communication.com/wp-content/uploads/2016/09/Snip20160922_49-762x1024.png&#34; alt=&#34;Snip20160922_49&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://computational-communication.com/collaboratory/wp-content/uploads/2016/09/Snip20160922_50-700x1024.png&#34; alt=&#34;Snip20160922_50&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://computational-communication.com/wp-content/uploads/2016/09/Snip20160922_50-700x1024.png&#34; alt=&#34;Snip20160922_50&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://computational-communication.com/collaboratory/wp-content/uploads/2016/09/Snip20160922_51-694x1024.png&#34; alt=&#34;Snip20160922_51&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://computational-communication.com/wp-content/uploads/2016/09/Snip20160922_51-694x1024.png&#34; alt=&#34;Snip20160922_51&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://computational-communication.com/collaboratory/wp-content/uploads/2016/09/Snip20160922_52-703x1024.png&#34; alt=&#34;Snip20160922_52&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://computational-communication.com/wp-content/uploads/2016/09/Snip20160922_52-703x1024.png&#34; alt=&#34;Snip20160922_52&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://computational-communication.com/collaboratory/wp-content/uploads/2016/09/Snip20160922_53-699x1024.png&#34; alt=&#34;Snip20160922_53&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://computational-communication.com/wp-content/uploads/2016/09/Snip20160922_53-699x1024.png&#34; alt=&#34;Snip20160922_53&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://computational-communication.com/collaboratory/wp-content/uploads/2016/09/Snip20160922_54-691x1024.png&#34; alt=&#34;Snip20160922_54&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://computational-communication.com/wp-content/uploads/2016/09/Snip20160922_54-691x1024.png&#34; alt=&#34;Snip20160922_54&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://computational-communication.com/collaboratory/wp-content/uploads/2016/09/Snip20160922_55-700x1024.png&#34; alt=&#34;Snip20160922_55&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://computational-communication.com/wp-content/uploads/2016/09/Snip20160922_55-700x1024.png&#34; alt=&#34;Snip20160922_55&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>计算传播学实验中心在Scientific Reports发表论文</title>
-      <link>https://computational-communication.com/collaboratory/blog/2016/09/09/20160909-ccc-sr/</link>
+      <link>https://computational-communication.com/blog/2016/09/09/20160909-ccc-sr/</link>
       <pubDate>Fri, 09 Sep 2016 21:49:20 +0200</pubDate>
       
-      <guid>https://computational-communication.com/collaboratory/blog/2016/09/09/20160909-ccc-sr/</guid>
+      <guid>https://computational-communication.com/blog/2016/09/09/20160909-ccc-sr/</guid>
       <description>
 
 &lt;p&gt;日前，南京大学新闻传播学院助理研究员、计算传播学实验中心成员王成军博士（通讯作者）和兼职研究员吴令飞博士（第一作者）在自然出版集团旗下国际主流科学期刊Scientific Reports上发表了题为《Tracing the Attention of Moving Citizens》的研究成果（Scientific Reports, 2016 doi:10.1038/srep33103）。基于大规模的匿名智能手机数据和网络科学的研究方法，该研究发现虽然人类在虚拟空间的注意力流动和现实空间的人类移动行为具有相关性，但是二者属于两类不同的人类行为:物理世界的人类移动行为具有明显小世界特征，而虚拟世界的注意力流动则具有分形特征。在此基础上，研究者基于人类在物理世界的移动网络将城市划分为不同的功能区域，发现了基于空间位置的在线行为，如网络购物、在线约会、手机打车。通过改进现有的几何网络模型，这个研究较好揭示了线上注意力流动和线下移动行为的机制。因采用大规模的手机通信数据同时构建注意力网络和移动网络、发现并分析二者在标度特征和自相似特性方面存在明显差异，该研究结果获得了本领域内知名学者的高度评价。&lt;/p&gt;
@@ -245,10 +245,10 @@
     
     <item>
       <title>巢乃鹏等关于互联网生态认知的研究发表于Telematics and Informatics</title>
-      <link>https://computational-communication.com/collaboratory/blog/2016/08/30/20160830-informatics/</link>
+      <link>https://computational-communication.com/blog/2016/08/30/20160830-informatics/</link>
       <pubDate>Tue, 30 Aug 2016 21:49:20 +0200</pubDate>
       
-      <guid>https://computational-communication.com/collaboratory/blog/2016/08/30/20160830-informatics/</guid>
+      <guid>https://computational-communication.com/blog/2016/08/30/20160830-informatics/</guid>
       <description>
 
 &lt;p&gt;计算传播学实验中心主任巢乃鹏老师关于中国网民政治认知的研究2016年发表于Telematics and Informatics。作为一个SSCI索引的重要期刊，&lt;a href=&#34;http://www.journals.elsevier.com/telematics-and-informatics&#34;&gt;Telematics and Informatics&lt;/a&gt;的影响因子2015年为2.261，主要发表分析信息和传播技术在社会、政治、经济、政治和文化多个维度影响力的实证研究。&lt;/p&gt;
@@ -265,20 +265,20 @@
     
     <item>
       <title>王成军介绍基于浏览器的可视化基础</title>
-      <link>https://computational-communication.com/collaboratory/blog/2016/08/20/20160820-vis-intro/</link>
+      <link>https://computational-communication.com/blog/2016/08/20/20160820-vis-intro/</link>
       <pubDate>Sat, 20 Aug 2016 21:49:20 +0200</pubDate>
       
-      <guid>https://computational-communication.com/collaboratory/blog/2016/08/20/20160820-vis-intro/</guid>
+      <guid>https://computational-communication.com/blog/2016/08/20/20160820-vis-intro/</guid>
       <description>&lt;p&gt;2016年8月20日，实验中心成员王成军为我院传媒实验班同学讲解《基于浏览器的可视化基础》，内容涵盖了html、css、javascript、svg四个主要的方面。并通过一个设计个人CV页面的练习贯穿始终。课程从计算传播的视角讨论了基于浏览器的可视化对于传媒产业的重要性。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>讲座：走近2050，如何应对机器的觉醒</title>
-      <link>https://computational-communication.com/collaboratory/blog/2016/08/02/20160802-2050-ai/</link>
+      <link>https://computational-communication.com/blog/2016/08/02/20160802-2050-ai/</link>
       <pubDate>Tue, 02 Aug 2016 21:49:20 +0200</pubDate>
       
-      <guid>https://computational-communication.com/collaboratory/blog/2016/08/02/20160802-2050-ai/</guid>
+      <guid>https://computational-communication.com/blog/2016/08/02/20160802-2050-ai/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;随着人工智能程序AlphaGo以4:1的大比分战胜人类围棋世界冠军李世石，机器将征服人类的担忧正在甚嚣尘上。《走近2050》则为我们描绘了一幅人机和谐共生、协同演化的全新场景。在看得见的未来，人类将越来越多地沉浸于五花八门的虚拟世界以获取各式体验，与此同时，我们将心甘情愿地将自己的注意力源源不断地输入给机器世界以促使它们进化。&lt;/p&gt;
 &lt;/blockquote&gt;
