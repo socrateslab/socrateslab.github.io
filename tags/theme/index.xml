@@ -20,266 +20,1123 @@
     </item>
     
     <item>
-      <title>418博士之家学术午餐会第四季第11期(总第81期)</title>
-      <link>https://computational-communication.com/collaboratory/blog/2017/03/17/20170317-418phd/</link>
-      <pubDate>Fri, 17 Mar 2017 21:49:20 +0200</pubDate>
+      <title>Linked post</title>
+      <link>https://computational-communication.com/collaboratory/blog/2015/10/02/linked-post/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>https://computational-communication.com/collaboratory/blog/2017/03/17/20170317-418phd/</guid>
-      <description>&lt;p&gt;2017年3月10日，王成军博士主持了费彝民楼A座418的博士之家，本期的主讲人是南京大学社会学院的吴俞晓教授。本期的沙龙主题：《Women in the Labor Market: Cohort Effects, Period Effects, and Life-Course Effects upon Women’s Employment in the United States, 1975-2002》&lt;/p&gt;
+      <guid>https://computational-communication.com/collaboratory/blog/2015/10/02/linked-post/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:&lt;/p&gt;
 
-&lt;p&gt;博士论文摘要：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;menu = &amp;quot;main&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;Using data from the Current Population Survey (CPS), General Social Survey (GSS), and government statistics, this dissertation investigates the factors that led to the historical transformation of women’s employment in the United States during 1975-2002.Employing Tobit models within the Age-Period-Cohort analytical framework, I demonstrate that there are strong life-course effects, period effects, and cohort effects upon American women’s employment during the period examined. I find that, for single childless women, there are only cohort effects but almost no period effects upon their employment. Such cohort effects can be explained by their educational attainment and relative cohort size. Unlike the patterns of single childless women, the historical transformation of single mothers’ employment is due to the period effects which can be accounted for mainly by their educational attainment and the fluctuation of the unemployment rates over time. For married women, there are both strong period effects and cohort effects and a large share of these effects can be explained by educational attainment, hourly wage, unemployment rates, relative cohort size, and husband’s annual incomes. Besides these factors, two other factors that contribute to the changes of married women’s employment are relative female labor demand (which explains the period effects) and shifts in attitudes towards women’s roles (which explains the cohort effects). Using the most updated data, my findings shed light on the representative theories in sociology and economics that explain women’s increasing employment. Therefore, my dissertation contributes to the field by advancing our understandings of the historical changes of American women’s employment for the last 30 years. I suggest that future study should devote more efforts to the studies on married women’s employment since it is a more complicated process with more profound implications for changes of the American society.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim. Ut ante turpis, tristique vitae sagittis quis, sagittis nec diam. Fusce pulvinar cursus porta. Vivamus maximus leo dolor, ut pellentesque lorem fringilla nec. Mauris faucibus turpis posuere sapien euismod, a ullamcorper mi maximus.&lt;/p&gt;
 
-&lt;p&gt;嘉宾简介：&lt;/p&gt;
+&lt;p&gt;Morbi varius ex vel justo dictum placerat. Sed ac arcu pretium, varius elit eget, gravida purus. Fusce sit amet massa mollis eros tincidunt sollicitudin. Suspendisse iaculis cursus mauris ut sagittis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas elit ligula, molestie quis magna eu, semper posuere lorem. Mauris a justo pharetra, congue ex eget, tincidunt massa. Maecenas sit amet neque lorem.&lt;/p&gt;
 
-&lt;p&gt;吴愈晓，男，1974年生，现为南京大学社会学院教授。教育背景：2006年，博士，美国西北大学社会学系；1999年，硕士，北京大学社会学系；1996年，学士，中国人民大学社会学系。 工作经历：2014&amp;ndash;，南京大学社会学院，副院长；2013&amp;ndash;，南京大学社会学院社会学系，教授；2011-2013年，山东大学哲学与社会发展学院社会学系，教授；2008-2010年，山东大学哲学与社会发展学院社会学系，副教授；2006-2008年，香港科技大学社会科学部，博士后研究员；1999-2001年，上海社会科学院社会学研究所，研究实习员。&lt;/p&gt;
+&lt;p&gt;Curabitur at elementum quam. Curabitur tristique elit non sapien aliquam vulputate. Vivamus in odio tincidunt, tempor sem quis, tincidunt lacus. Mauris pulvinar nunc sed tempus dictum. Nam vel arcu quis mi fermentum ullamcorper non ac lacus. Donec aliquet vitae ante at imperdiet. Aenean scelerisque venenatis urna, eget elementum risus convallis ac. Nullam gravida arcu lacus, non consectetur augue pretium non. Duis dignissim eros id urna pretium congue. Nullam eu magna in sem sollicitudin tempor. Pellentesque vel convallis ligula. Quisque semper, turpis a rhoncus efficitur, magna nibh iaculis elit, eget tempor dolor eros ut mi. Maecenas eu placerat lacus. Praesent congue pretium nulla, sed suscipit metus rutrum vel.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>创享沙龙：对话音乐与虚拟现实技术</title>
-      <link>https://computational-communication.com/collaboratory/blog/2017/02/26/20170226-music/</link>
-      <pubDate>Sun, 26 Feb 2017 21:49:20 +0200</pubDate>
+      <title>Creating a new theme</title>
+      <link>https://computational-communication.com/collaboratory/blog/2015/06/24/creating-a-new-theme/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>https://computational-communication.com/collaboratory/blog/2017/02/26/20170226-music/</guid>
-      <description>&lt;p&gt;创享沙龙：对话音乐与虚拟现实技术&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;地点：南京大学（仙林校区） 大学生活动中心南花园206&lt;/li&gt;
-&lt;li&gt;时间：2017年2月27日 18：30-19：30&lt;/li&gt;
-&lt;li&gt;讲者：向雪怀、王成军&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;向雪怀，原名陈剑和，从事音乐行业超过二十年。向雪怀于一九九八年至二零零零年间，曾出任香港BMG音乐出版有限公司之董事总经理。一九八五年至一九九七年，向雪怀先生服务于宝丽金唱片有限公司，期间由唱片监制晋升为艺员制作部主管，专责公司旗下歌手之制作方案及发掘有潜质的新艺人。代表作品：关淑怡《难得有情人》、黎明《哪有一天不想你》、谭咏麟《朋友》、李克勤《月半小夜曲》&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>王成军参加网络传播动力学青年学者论坛2016</title>
-      <link>https://computational-communication.com/collaboratory/blog/2016/12/22/20161222-netsci2016-hangzhou/</link>
-      <pubDate>Thu, 22 Dec 2016 21:49:20 +0200</pubDate>
-      
-      <guid>https://computational-communication.com/collaboratory/blog/2016/12/22/20161222-netsci2016-hangzhou/</guid>
-      <description>&lt;p&gt;王成军参加在杭州师范大学举行的网络传播动力学青年学者论坛2016。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>硕士之家：网络异质性可以促进人类公平</title>
-      <link>https://computational-communication.com/collaboratory/blog/2016/12/14/20161214-hanxiao/</link>
-      <pubDate>Wed, 14 Dec 2016 21:49:20 +0200</pubDate>
-      
-      <guid>https://computational-communication.com/collaboratory/blog/2016/12/14/20161214-hanxiao/</guid>
-      <description>&lt;p&gt;王成军主持硕士之家讲座《网络异质性可以促进人类公平》，主讲者为来自北京师范大学的韩晓博士。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>陈飚讲解Cloudera</title>
-      <link>https://computational-communication.com/collaboratory/blog/2016/11/25/20161125-cloudera/</link>
-      <pubDate>Fri, 25 Nov 2016 21:49:20 +0200</pubDate>
-      
-      <guid>https://computational-communication.com/collaboratory/blog/2016/11/25/20161125-cloudera/</guid>
-      <description>&lt;p&gt;2016年11月23日下午，Cloudera成员陈飚访问实验中心，并就Cloudera Enterprise为主题分享了Cloudera所提供的从Hadoop到企业级的数据中心服务。&lt;/p&gt;
-
-&lt;p&gt;陈飚，Cloudera售前技术经理、行业领域顾问、资深方案架构师，原Intel Hadoop发行版核心开发人员。2006年加入Intel编译器部门从事服务器中间件软件开发，擅长服务器软件调试与优化，与团队一起开发出世界上性能领先的XSLT 语言处理器。2010 年后开始Hadoop 产品开发及方案顾问，先后负责Hadoop 产品化、HBase 性能调优，以及行业解决方案顾问，已成功实施并运维多个上百节点Hadoop大数据集群。&lt;/p&gt;
-
-&lt;p&gt;Cloudera创立成立于2008,企业级Hadoop产品供商。作为开源领导者 Hadoop及其相关生态项目最大贡献者,和Intel合作加速企业数据中心的革新。Cloudera中国2014年9月成立,上海是大中华区总部,负责产品培训、专业技术服务和产品支持,在北京和广州有本地支持。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>讲座：计算传播学的起源、概念与应用</title>
-      <link>https://computational-communication.com/collaboratory/blog/2016/11/21/20161121-cc-intro/</link>
-      <pubDate>Mon, 21 Nov 2016 21:49:20 +0200</pubDate>
-      
-      <guid>https://computational-communication.com/collaboratory/blog/2016/11/21/20161121-cc-intro/</guid>
-      <description>&lt;p&gt;王成军在北京大学汇丰商学院为财经传媒硕士介绍了《计算传播学的起源、概念与应用》&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>百度paddlepaddle深度学习平台南大宣讲</title>
-      <link>https://computational-communication.com/collaboratory/blog/2016/11/11/20161101-paddlepaddle/</link>
-      <pubDate>Fri, 11 Nov 2016 21:49:20 +0200</pubDate>
-      
-      <guid>https://computational-communication.com/collaboratory/blog/2016/11/11/20161101-paddlepaddle/</guid>
-      <description>&lt;p&gt;《如何用人工智能征服用户》&lt;/p&gt;
-
-&lt;p&gt;百度开放了人工智能开源平台paddlepaddle（&lt;a href=&#34;http://www.paddlepaddle.org/），可用于大数据研究、机器学习、深度学习等多领域，开放后受到业内好评。特邀百度科学家周杰讲解相关内容。&#34;&gt;http://www.paddlepaddle.org/），可用于大数据研究、机器学习、深度学习等多领域，开放后受到业内好评。特邀百度科学家周杰讲解相关内容。&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;百度深度学习平台Paddle是一个云端托管的分布式深度学习平台，对于序列输入、稀疏输入和大规模数据的模型训练有着良好的支持，支持GPU运算，支持数据并行和模型并行，仅需少量代码就能训练深度学习模型，大大降低了用户使用深度学习技术的成本。2016年9月27日，百度宣布其全新的深度学习开源平台PaddlePaddle在开源社区Github及百度大脑平台开放，供广大开发者下载使用。百度成为继Google、Facebook、IBM后另一个将人工智能技术开源的科技巨头，同时也是国内首个开源深度学习平台的科技公司。&lt;/p&gt;
-
-&lt;p&gt;PaddlePaddle的前身是百度于2013年自主研发的深度学习平台Paddle(Parallel Distributed Deep Learning，并行分布式深度学习)，且一直为百度内部工程师研发使用。全球各大科技巨头开源的深度学习平台都极具各自技术特点，对于百度，由于其自身在搜索、图像识别、语音语义识别理解、情感分析、机器翻译、用户画像推荐等多领域的业务和技术方向，PaddlePaddle则表现更加全面，是一个相对全功能的深度学习框架。2016年9月1日百度世界大会上，百度首席科学家Andrew Ng(吴恩达)首次宣布将百度深度学习平台对外开放，命名PaddlePaddle。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;使用简单：仅需少量代码，定义好网络配置即可进行模型训练。&lt;/li&gt;
-&lt;li&gt;灵活的网络结构：支持CNN、RNN、LSTM等复杂网络，满足语音、图像、自然语言和CTR等多种业务场景的需求。&lt;/li&gt;
-&lt;li&gt;支持数据并行和模型并行：可以处理千亿样本、千亿特征、PB级别数据的模型训练。&lt;/li&gt;
-&lt;li&gt;支持GPU运算：可以选择使用GPU来进行模型训练，提高模型训练的效率。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;周杰：百度深度学习实验室科学家 ，深度学习技术组负责人。周杰，中科院理论物理研究所博士， 当前工作于北京的百度深度学习实验室， 深度学习技术组负责人， 主要研究方向为自然语言理解， 大规模机器学习算法和 深度学习算法， 以及推动这些算法在产品领域的应用。 喜欢钻研和探索未知领域， 希望投身于利用人工智能技术来引领社会变革。 对传统的各种机器学习技术以及深度学习技术有着深入的了解， 同时在互联网产业界拥有多年将技术与产品相结合的经验。 希望能够通过对新技术的不断探索和和理解， 将他们的社会影响力最大的发挥， 造福于社会。 闲暇时间爱好户外旅游和摄影， 享受大自然带来的美， 喜欢在冥想中获得灵感， 帮助自己不断的超越。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;主讲人：百度AI专家 周杰&lt;/li&gt;
-&lt;li&gt;主持人：王成军&lt;/li&gt;
-&lt;li&gt;时间：11月10日 周四 晚上7：00-9：00&lt;/li&gt;
-&lt;li&gt;地点：仙林校区 仙2-405&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>中国传播学大会计算传播学工作坊</title>
-      <link>https://computational-communication.com/collaboratory/blog/2016/10/15/20161015-ccr-workshop/</link>
-      <pubDate>Sat, 15 Oct 2016 21:49:20 +0200</pubDate>
-      
-      <guid>https://computational-communication.com/collaboratory/blog/2016/10/15/20161015-ccr-workshop/</guid>
-      <description>&lt;p&gt;计算传播学实验中心组织了中国传播学大会计算传播学工作坊， 张子柯、温乃楠、周葆华、秦强、陈志聪、巢乃鹏、王成军分享了各自的研究成果，巢乃鹏老师对以上研究进行了精彩点评。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>计算传播时代: 第一届计算传播学论坛成功召开</title>
-      <link>https://computational-communication.com/collaboratory/blog/2016/09/28/20160928-ccr-conference/</link>
-      <pubDate>Wed, 28 Sep 2016 21:49:20 +0200</pubDate>
-      
-      <guid>https://computational-communication.com/collaboratory/blog/2016/09/28/20160928-ccr-conference/</guid>
-      <description>&lt;p&gt;寻找传播学可计算化的基因，在9月的南京迈出了重要的一步！&lt;/p&gt;
-
-&lt;p&gt;9月25日，第一届计算传播学论坛在南京大学费彝民楼成功召开。此次计算传播学论坛由百度与南京大学联合主办，南京大学双创示范基地国际合作“创新创业支持平台”、南京大学计算传播实验中心、南京大学新闻传播学院共同承办。为期一天的论坛，多项主题活动密集上演，四十多位国内以及海外专家学者积极发言、数百名莘莘学子热情参与。&lt;/p&gt;
-
-&lt;p&gt;本届论坛将主题定为“计算传播时代”，旨在让人们认识到基于互联网传播产生的数据和互动性正在变革我们对人类传播行为的认知，传播学研究面临着新的问题与挑战，以人类传播行为的可计算性基础为研究中心的计算传播学为传播学的发展提供了更广阔的空间与可能性。&lt;/p&gt;
-
-&lt;p&gt;25日上午，论坛开幕式由南京大学新闻传播学院的巢乃鹏教授主持，南京大学党委副书记朱庆葆教授、百度校园品牌部高级经理李轩涯博士、新闻传播学院执行院长杜骏飞教授分别做了讲话，三位嘉宾对计算传播学论坛的举办均表示了高度的认可，并对会议的成功举办送上了诚挚的祝福。&lt;/p&gt;
-
-&lt;p&gt;开幕式后的Keynote speaking环节，五位学者专家依次做了主题发言，五位嘉宾的讲话可以用主题鲜明，内容丰富，富有新意来概括。&lt;/p&gt;
-
-&lt;p&gt;首先，本次论坛的会议主席、香港城市大学媒体与传播系的祝建华教授进行了题为《计算传播学中的“新瓶旧酒”与“新瓶新酒”》的主题演讲。他表示，现如今的计算传播学研究仍处于“新瓶旧酒”的阶段，即“当下的计算传播学大部分的研究仍停留在“新瓶装旧酒”的阶段，存在着重复研究的问题，但我们依然要肯定“新瓶旧酒”有其阶段性的价值。”同时祝建华教授也指出，在新瓶装旧酒的过程中，也许会涌现、转化出新酒，激发出崭新的前沿知识，计算传播学的研究最终还是要向酿造“新瓶新酒”而努力。&lt;/p&gt;
-
-&lt;p&gt;随后来自北京大学新媒体研究院的刘德寰教授也做了《有效大数据运算的两个路径假说》的主题演讲。刘德寰教授提出了针对如何实现数据有效运算，提出了两个路径假说：第一个路径是分析人，完善人的维度；另一个路径则是基于人的认知与习惯，对物的维度进行探测。刘教授强调道：“未来数据分析的核心是分析人，完善人的维度，积累性的知识会不断完善，效率也会不断地提高；另外，对物的探测，必须基于人可认知的知识，而不是计算机能认知的知识。否则就会像Google大数据中的流感预测一样，今天正确，明天失败，后天失败，未来十年继续失败。”&lt;/p&gt;
-
-&lt;p&gt;第三位演讲嘉宾是来自百度研究院大数据实验室的高级科学家夏粉，他进行了主题为《计算广告中的大规模机器学习》的演讲。拥有十年机器学习研究经验的他，深入浅出地为大家介绍了百度是如何将计算广告学应用到实际业务中的，并以切身经历为大家解读了在工业界和学术界做计算传播学研究的不同。&lt;/p&gt;
-
-&lt;p&gt;同样针对计算广告，随后，远在美国的刘鹏博士向会场老师同学进行了主题为《计算广告的问题与挑战》的远程发言。刘鹏博士认为，计算广告的核心挑战，是为一系列用户与环境的组合找到最合适的广告投放策略以优化整体广告活动的利润。这其中就涉及到广告业务的转化到广告目标的实现。随之，刘博士阐述了计算广告的六大算法问题，包括特征提取、微观优化、宏观优化、受限优化、强化学习以及重定向问题。&lt;/p&gt;
-
-&lt;p&gt;本次论坛主题演讲的最后部分是由来自大连民族大学信息与通信工程学院的许小可教授所做的《在线社交网络中计算传播学的现状与挑战》。许教授首先开宗明义地讲到社交网络和社交媒体中进行信息传播研究的必要性，其次，他从网络结构的观点说明了社交网络中计算传播学研究的现状，并提出“大而精致”才是大规模社交网络中信息传播研究的要求，而后他举例了利用复杂网络对社交网络的研究与传统传播学研究的不同，随之提出只有学科融合与合作才能对认识现象整体提供更多有说服力的阐释、解读。最后，许小可教授提出解决社交网络中计算传播学面临的挑战的关键就在于——大数据。而具体的解决方案就在于要把社交网络与算法、传播学理论与算法、自然语言理论与算法、机器学习理论与算法等等的深度融合起来。&lt;/p&gt;
-
-&lt;p&gt;25日下午，在经过了论坛的Keynote speaking 环节后，本次论坛设有“计算传播学：概念与实践”、“计算传播学实证研究：复杂网络角度”、“计算传播学实证研究：传播学视野”三大分论坛。在大会的论坛讨论环节，各分论坛观点独到、精彩纷呈，每一位与会者都为大家带来了自己计算传播学方向上的新近研究，为现场带来此起彼伏的热点高潮。&lt;/p&gt;
-
-&lt;p&gt;分论坛讨论环节后，是由祝建华教授主持的为期两个小时的圆桌对话，也是本次论坛的最后环节。在圆桌对话中，与会各代表围绕计算传播学学科定位、追溯了学科命名以及当下学科融合过程中研究者如何定位自己的学术理想、学术目标等议题纷纷谈了自己的想法。&lt;/p&gt;
-
-&lt;p&gt;为期一天的第一届计算传播学论坛是学科思想的一次解放，是跨学科理论的一次碰撞。相聚南京，体现的是中国现如今计算传播学者对学科发展的使命感、担当感、责任感。正如本次论坛的主题“计算传播时代”所想说明的，第一届计算传播学论坛的成功举办为计算传播学的学科发展搭建了业界与学界间的交流平台，也为该学科的专业发展开辟了崭新的路径，在这次思想激荡的盛会下，愿我们可以见证一个属于计算传播的时代。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>李海容：品牌传播的发展趋势</title>
-      <link>https://computational-communication.com/collaboratory/blog/2016/09/23/20160923-hairong/</link>
-      <pubDate>Fri, 23 Sep 2016 21:49:20 +0200</pubDate>
-      
-      <guid>https://computational-communication.com/collaboratory/blog/2016/09/23/20160923-hairong/</guid>
+      <guid>https://computational-communication.com/collaboratory/blog/2015/06/24/creating-a-new-theme/</guid>
       <description>
 
-&lt;p&gt;2016年9月23日，密歇根州立大学李海容教授作客南京大学新闻传播学院硕士之家费彝民楼A409，向硕士生分享了《品牌传播的发展趋势》的演讲。移动互联网的广泛普及和大数据应用的日益兴起，不仅改变了消费者的信息获取方式，而且重塑着消费者与众多品牌的关系。适应这种新的市场环境，品牌传播的范式也在发生着根本的转变。本讲座将从品牌传播的目的、内容、 形态、方式和策略等方面，结合国内外案例，探讨创新的实践如何颠覆传统的做法，从而展示品牌传播的发展趋势。&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 
-&lt;p&gt;讲演嘉宾简介：传播界著名学者，战略传播项目负责人，重点研究新兴的数字技术在广告、传播与营销领域的应用与效果。先后发表了上百篇书章、期刊文章和年会论文，被美国四篇索引分析文章列为高产作者。美国《互动广告学刊》创始人，《广告学刊》、《当代广告问题与研究学刊》和英国《国际广告学刊》编委，以及全球多家学术期刊评审专家。曾任香港城市大学访问教授、美国广告学会2014年大数据论坛主席、泛媒研究院院长、清华大学新闻与传播学院高级访问学者、美国广告学会2009年北京亚太会议联席主席、美国广告学会出版委员会主席、新加坡南洋理工大学富布莱特学者。&lt;/p&gt;
+&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;
 
-&lt;h1 id=&#34;hairong-li&#34;&gt;Hairong Li&lt;/h1&gt;
+&lt;p&gt;We&amp;rsquo;ll start with creating a new site with a very basic template. Then we&amp;rsquo;ll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.&lt;/p&gt;
 
-&lt;p&gt;Hairong Li is a professor of advertising, core faculty member for the Asian Studies Center, and an expert on China at Michigan State University.&lt;/p&gt;
+&lt;p&gt;In this tutorial, commands that you enter will start with the &amp;ldquo;$&amp;rdquo; prompt. The output will follow. Lines that start with &amp;ldquo;#&amp;rdquo; are comments that I&amp;rsquo;ve added to explain a point. When I show updates to a file, the &amp;ldquo;:wq&amp;rdquo; on the last line means to save the file.&lt;/p&gt;
 
-&lt;p&gt;His research covers the uses, effects and implications of digital technologies in advertising, communication and marketing. He has received research grants from Marketing Science Institute, Google, WPP, Microsoft, American Academy of Advertising, MSU Foundation, and other sources in recent years. He has published extensively and been rated a productive scholar in advertising, communication and marketing by three recently published citation studies in the United States.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s an example:&lt;/p&gt;
 
-&lt;p&gt;Dr. Li co-founded the Journal of Interactive Advertising in 2000 and served as its editor until 2011. He is an editorial board member of several academic journals in the United States, Europe, and Asia. He is a frequent speaker at the academic conferences and trade forums. He was a senior visiting scholar at Tsinghua University, co-chair of the American Academy of Advertising 2009 Asia-Pacific Conference in Beijing, chair of the AAA 2004 Publications Committee, and Fulbright Scholar at Nanyang Technological University in Singapore. He has consulted for firms in the areas of advertising, media and branding.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;## this is a comment
+$ echo this is a command
+this is a command
 
-&lt;p&gt;&lt;a href=&#34;http://cas.msu.edu/people/faculty-staff/staff-listing/name/hairong-li/&#34;&gt;http://cas.msu.edu/people/faculty-staff/staff-listing/name/hairong-li/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>第一届计算传播学论坛会议议程（2016-09-25， 南京）</title>
-      <link>https://computational-communication.com/collaboratory/blog/2016/09/22/20160922-schedule-ccr-conference/</link>
-      <pubDate>Thu, 22 Sep 2016 21:49:20 +0200</pubDate>
-      
-      <guid>https://computational-communication.com/collaboratory/blog/2016/09/22/20160922-schedule-ccr-conference/</guid>
-      <description>&lt;p&gt;第一届计算传播学论坛将于2016年9月25日本周日在南京大学新闻传播学院举行，本文为会议日程，欢迎分享扩散，会议对外开放，欢迎参加。&lt;/p&gt;
+## edit the file
+$vi foo.md
++++
+date = &amp;quot;2014-09-28&amp;quot;
+title = &amp;quot;creating a new theme&amp;quot;
++++
 
-&lt;p&gt;&lt;img src=&#34;../../wp-content/uploads/2016/09/Snip20160922_49-762x1024.png&#34; alt=&#34;Snip20160922_49&#34; /&gt;&lt;/p&gt;
+bah and humbug
+:wq
 
-&lt;p&gt;&lt;img src=&#34;../../wp-content/uploads/2016/09/Snip20160922_50-700x1024.png&#34; alt=&#34;Snip20160922_50&#34; /&gt;&lt;/p&gt;
+## show it
+$ cat foo.md
++++
+date = &amp;quot;2014-09-28&amp;quot;
+title = &amp;quot;creating a new theme&amp;quot;
++++
 
-&lt;p&gt;&lt;img src=&#34;../../wp-content/uploads/2016/09/Snip20160922_51-694x1024.png&#34; alt=&#34;Snip20160922_51&#34; /&gt;&lt;/p&gt;
+bah and humbug
+$
+&lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;&lt;img src=&#34;../../wp-content/uploads/2016/09/Snip20160922_52-703x1024.png&#34; alt=&#34;Snip20160922_52&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;some-definitions&#34;&gt;Some Definitions&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;../../wp-content/uploads/2016/09/Snip20160922_53-699x1024.png&#34; alt=&#34;Snip20160922_53&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;There are a few concepts that you need to understand before creating a theme.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;../../wp-content/uploads/2016/09/Snip20160922_54-691x1024.png&#34; alt=&#34;Snip20160922_54&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;skins&#34;&gt;Skins&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&#34;../../wp-content/uploads/2016/09/Snip20160922_55-700x1024.png&#34; alt=&#34;Snip20160922_55&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>计算传播学实验中心在Scientific Reports发表论文</title>
-      <link>https://computational-communication.com/collaboratory/blog/2016/09/09/20160909-ccc-sr/</link>
-      <pubDate>Fri, 09 Sep 2016 21:49:20 +0200</pubDate>
-      
-      <guid>https://computational-communication.com/collaboratory/blog/2016/09/09/20160909-ccc-sr/</guid>
-      <description>
+&lt;p&gt;Skins are the files responsible for the look and feel of your site. It’s the CSS that controls colors and fonts, it’s the Javascript that determines actions and reactions. It’s also the rules that Hugo uses to transform your content into the HTML that the site will serve to visitors.&lt;/p&gt;
 
-&lt;p&gt;日前，南京大学新闻传播学院助理研究员、计算传播学实验中心成员王成军博士（通讯作者）和兼职研究员吴令飞博士（第一作者）在自然出版集团旗下国际主流科学期刊Scientific Reports上发表了题为《Tracing the Attention of Moving Citizens》的研究成果（Scientific Reports, 2016 doi:10.1038/srep33103）。基于大规模的匿名智能手机数据和网络科学的研究方法，该研究发现虽然人类在虚拟空间的注意力流动和现实空间的人类移动行为具有相关性，但是二者属于两类不同的人类行为:物理世界的人类移动行为具有明显小世界特征，而虚拟世界的注意力流动则具有分形特征。在此基础上，研究者基于人类在物理世界的移动网络将城市划分为不同的功能区域，发现了基于空间位置的在线行为，如网络购物、在线约会、手机打车。通过改进现有的几何网络模型，这个研究较好揭示了线上注意力流动和线下移动行为的机制。因采用大规模的手机通信数据同时构建注意力网络和移动网络、发现并分析二者在标度特征和自相似特性方面存在明显差异，该研究结果获得了本领域内知名学者的高度评价。&lt;/p&gt;
+&lt;p&gt;You have two ways to create a skin. The simplest way is to create it in the &lt;code&gt;layouts/&lt;/code&gt; directory. If you do, then you don’t have to worry about configuring Hugo to recognize it. The first place that Hugo will look for rules and files is in the &lt;code&gt;layouts/&lt;/code&gt; directory so it will always find the skin.&lt;/p&gt;
 
-&lt;p&gt;据统计，该研究成果是国内新闻传播学者在注意力网络方向上的第一篇正式研究成果，引领了国内新闻传播学界在本领域/方向的研究趋势。同时，该论文也是南大新闻传播学院在自然出版集团旗下刊物首次发表工作。2015年南京大学新闻传播学院建立了计算传播学实验中心（&lt;a href=&#34;http://ccc.nju.edu.cn）。实验中心致力于采用计算社会科学的理论视角和方法分析人类传播行为，关于计算传播学的一系列研究成果发表于Scientific&#34;&gt;http://ccc.nju.edu.cn）。实验中心致力于采用计算社会科学的理论视角和方法分析人类传播行为，关于计算传播学的一系列研究成果发表于Scientific&lt;/a&gt; Reports、PloS ONE、Physica A、Journal of Social and Personal Relationship、Telematics and Informatics等国际期刊。这项针对注意力网络的研究不仅是计算传播学实验中心在国际主流学术舞台的一次成功亮相，也是南大新闻传播学科的一次有意义的突破。近年来，南京大学人文社会学者主动融入国际学术主流，用世界通行的学术语言和标准与国外同行平等有效对话。新闻学院在自然出版集团旗下刊物发表论文，是南大各人文学科跨学科国际化努力的又一例证。&lt;/p&gt;
+&lt;p&gt;Your second choice is to create it in a sub-directory of the &lt;code&gt;themes/&lt;/code&gt; directory. If you do, then you must always tell Hugo where to search for the skin. It’s extra work, though, so why bother with it?&lt;/p&gt;
 
-&lt;h2 id=&#34;tracing-the-attention-of-moving-citizens&#34;&gt;Tracing the Attention of Moving Citizens&lt;/h2&gt;
+&lt;p&gt;The difference between creating a skin in &lt;code&gt;layouts/&lt;/code&gt; and creating it in &lt;code&gt;themes/&lt;/code&gt; is very subtle. A skin in &lt;code&gt;layouts/&lt;/code&gt; can’t be customized without updating the templates and static files that it is built from. A skin created in &lt;code&gt;themes/&lt;/code&gt;, on the other hand, can be and that makes it easier for other people to use it.&lt;/p&gt;
 
-&lt;p&gt;Lingfei Wu &amp;amp; Cheng-Jun Wang*&lt;/p&gt;
+&lt;p&gt;The rest of this tutorial will call a skin created in the &lt;code&gt;themes/&lt;/code&gt; directory a theme.&lt;/p&gt;
 
-&lt;p&gt;With the widespread use of mobile computing devices in contemporary society, our trajectories in the physical space and virtual world are increasingly closely connected. Using the anonymous smartphone data of 1 × 10^5 users in a major city of China, we study the interplay between online and offline human behaviors by constructing the mobility network (offline) and the attention network (online). Using the network renormalization technique, we find that they belong to two different classes: the mobility network is small-world, whereas the attention network is fractal. We then divide the city into different areas based on the features of the mobility network discovered under renormalization. Interestingly, this spatial division manifests the location-based online behaviors, for example shopping, dating, and taxi-requesting. Finally, we offer a geometric network model to help us understand the relationship between small-world and fractal networks.&lt;/p&gt;
+&lt;p&gt;Note that you can use this tutorial to create a skin in the &lt;code&gt;layouts/&lt;/code&gt; directory if you wish to. The main difference will be that you won’t need to update the site’s configuration file to use a theme.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.nature.com/articles/srep33103&#34;&gt;http://www.nature.com/articles/srep33103&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;the-home-page&#34;&gt;The Home Page&lt;/h3&gt;
 
-&lt;h2 id=&#34;参考文献&#34;&gt;参考文献&lt;/h2&gt;
+&lt;p&gt;The home page, or landing page, is the first page that many visitors to a site see. It is the index.html file in the root directory of the web site. Since Hugo writes files to the public/ directory, our home page is public/index.html.&lt;/p&gt;
 
-&lt;p&gt;Wu, L., Wang, C.J.* (2016) Tracing the Attention of Moving Citizens. Scientific Reports. 6, 33103. doi: 10.1038/srep33103&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>巢乃鹏等关于互联网生态认知的研究发表于Telematics and Informatics</title>
-      <link>https://computational-communication.com/collaboratory/blog/2016/08/30/20160830-informatics/</link>
-      <pubDate>Tue, 30 Aug 2016 21:49:20 +0200</pubDate>
-      
-      <guid>https://computational-communication.com/collaboratory/blog/2016/08/30/20160830-informatics/</guid>
-      <description>
+&lt;h3 id=&#34;site-configuration-file&#34;&gt;Site Configuration File&lt;/h3&gt;
 
-&lt;p&gt;计算传播学实验中心主任巢乃鹏老师关于中国网民政治认知的研究2016年发表于Telematics and Informatics。作为一个SSCI索引的重要期刊，&lt;a href=&#34;http://www.journals.elsevier.com/telematics-and-informatics&#34;&gt;Telematics and Informatics&lt;/a&gt;的影响因子2015年为2.261，主要发表分析信息和传播技术在社会、政治、经济、政治和文化多个维度影响力的实证研究。&lt;/p&gt;
+&lt;p&gt;When Hugo runs, it looks for a configuration file that contains settings that override default values for the entire site. The file can use TOML, YAML, or JSON. I prefer to use TOML for my configuration files. If you prefer to use JSON or YAML, you’ll need to translate my examples. You’ll also need to change the name of the file since Hugo uses the extension to determine how to process it.&lt;/p&gt;
 
-&lt;p&gt;这个研究采用问卷调查的方法，分析了中国网民在因特网生态认知、政治信任、政治效能等方面的模式。研究发现中国网民的言论尺度和政治参与方式在很大程度上依赖于其对中国互联网生态的认知，后者对于网民的政治信任和外部政治效能具有显著影响，而政治信任对于内部和外部政治效能均具有显著影响。&lt;/p&gt;
+&lt;p&gt;Hugo translates Markdown files into HTML. By default, Hugo expects to find Markdown files in your &lt;code&gt;content/&lt;/code&gt; directory and template files in your &lt;code&gt;themes/&lt;/code&gt; directory. It will create HTML files in your &lt;code&gt;public/&lt;/code&gt; directory. You can change this by specifying alternate locations in the configuration file.&lt;/p&gt;
 
-&lt;p&gt;Naipeng Chao, Guangfeng Yuan, Yonggang Li, Qian Yao. (2016) The internet ecological perception, political trust and political efficacy of Chinese netizens. Telematics and Informatics. doi: 10.1016/j.tele.2016.05.014&lt;/p&gt;
+&lt;h3 id=&#34;content&#34;&gt;Content&lt;/h3&gt;
 
-&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Content is stored in text files that contain two sections. The first section is the “front matter,” which is the meta-information on the content. The second section contains Markdown that will be converted to HTML.&lt;/p&gt;
 
-&lt;p&gt;Political efficacy is an important indicator of political democracy. As the Internet, especially social media, has grown and evolved, it has greatly changed the Chinese public’s political perceptions. Chinese Internet governance has shifted the mode of “vague governance” and “subsequent punishment” from traditional political governance into the Internet ecology. Chinese citizens’ speech criteria and means of political participation depend largely on their perceptions of the political ecology. Based on a questionnaire survey conducted in Jiangsu Province (N = 1558) in 2013, this paper discusses the impact of Internet ecological perception and political trust on netizens’ political efficacy. The results show that netizens’ perceptions of Internet ecology had significantly positive effects on external political efficacy but no significant effects on internal political efficacy. Netizens’ perceptions of Internet ecology positively affected their political trust, which in turn had significant, positive effects on both internal and external political efficacies.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>王成军介绍基于浏览器的可视化基础</title>
-      <link>https://computational-communication.com/collaboratory/blog/2016/08/20/20160820-vis-intro/</link>
-      <pubDate>Sat, 20 Aug 2016 21:49:20 +0200</pubDate>
-      
-      <guid>https://computational-communication.com/collaboratory/blog/2016/08/20/20160820-vis-intro/</guid>
-      <description>&lt;p&gt;2016年8月20日，实验中心成员王成军为我院传媒实验班同学讲解《基于浏览器的可视化基础》，内容涵盖了html、css、javascript、svg四个主要的方面。并通过一个设计个人CV页面的练习贯穿始终。课程从计算传播的视角讨论了基于浏览器的可视化对于传媒产业的重要性。&lt;/p&gt;
+&lt;h4 id=&#34;front-matter&#34;&gt;Front Matter&lt;/h4&gt;
+
+&lt;p&gt;The front matter is information about the content. Like the configuration file, it can be written in TOML, YAML, or JSON. Unlike the configuration file, Hugo doesn’t use the file’s extension to know the format. It looks for markers to signal the type. TOML is surrounded by “&lt;code&gt;+++&lt;/code&gt;”, YAML by “&lt;code&gt;---&lt;/code&gt;”, and JSON is enclosed in curly braces. I prefer to use TOML, so you’ll need to translate my examples if you prefer YAML or JSON.&lt;/p&gt;
+
+&lt;p&gt;The information in the front matter is passed into the template before the content is rendered into HTML.&lt;/p&gt;
+
+&lt;h4 id=&#34;markdown&#34;&gt;Markdown&lt;/h4&gt;
+
+&lt;p&gt;Content is written in Markdown which makes it easier to create the content. Hugo runs the content through a Markdown engine to create the HTML which will be written to the output file.&lt;/p&gt;
+
+&lt;h3 id=&#34;template-files&#34;&gt;Template Files&lt;/h3&gt;
+
+&lt;p&gt;Hugo uses template files to render content into HTML. Template files are a bridge between the content and presentation. Rules in the template define what content is published, where it&amp;rsquo;s published to, and how it will rendered to the HTML file. The template guides the presentation by specifying the style to use.&lt;/p&gt;
+
+&lt;p&gt;There are three types of templates: single, list, and partial. Each type takes a bit of content as input and transforms it based on the commands in the template.&lt;/p&gt;
+
+&lt;p&gt;Hugo uses its knowledge of the content to find the template file used to render the content. If it can’t find a template that is an exact match for the content, it will shift up a level and search from there. It will continue to do so until it finds a matching template or runs out of templates to try. If it can’t find a template, it will use the default template for the site.&lt;/p&gt;
+
+&lt;p&gt;Please note that you can use the front matter to influence Hugo’s choice of templates.&lt;/p&gt;
+
+&lt;h4 id=&#34;single-template&#34;&gt;Single Template&lt;/h4&gt;
+
+&lt;p&gt;A single template is used to render a single piece of content. For example, an article or post would be a single piece of content and use a single template.&lt;/p&gt;
+
+&lt;h4 id=&#34;list-template&#34;&gt;List Template&lt;/h4&gt;
+
+&lt;p&gt;A list template renders a group of related content. That could be a summary of recent postings or all articles in a category. List templates can contain multiple groups.&lt;/p&gt;
+
+&lt;p&gt;The homepage template is a special type of list template. Hugo assumes that the home page of your site will act as the portal for the rest of the content in the site.&lt;/p&gt;
+
+&lt;h4 id=&#34;partial-template&#34;&gt;Partial Template&lt;/h4&gt;
+
+&lt;p&gt;A partial template is a template that can be included in other templates. Partial templates must be called using the “partial” template command. They are very handy for rolling up common behavior. For example, your site may have a banner that all pages use. Instead of copying the text of the banner into every single and list template, you could create a partial with the banner in it. That way if you decide to change the banner, you only have to change the partial template.&lt;/p&gt;
+
+&lt;h2 id=&#34;create-a-new-site&#34;&gt;Create a New Site&lt;/h2&gt;
+
+&lt;p&gt;Let&amp;rsquo;s use Hugo to create a new web site. I&amp;rsquo;m a Mac user, so I&amp;rsquo;ll create mine in my home directory, in the Sites folder. If you&amp;rsquo;re using Linux, you might have to create the folder first.&lt;/p&gt;
+
+&lt;p&gt;The &amp;ldquo;new site&amp;rdquo; command will create a skeleton of a site. It will give you the basic directory structure and a useable configuration file.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ hugo new site ~/Sites/zafta
+$ cd ~/Sites/zafta
+$ ls -l
+total 8
+drwxr-xr-x  7 quoha  staff  238 Sep 29 16:49 .
+drwxr-xr-x  3 quoha  staff  102 Sep 29 16:49 ..
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 archetypes
+-rw-r--r--  1 quoha  staff   82 Sep 29 16:49 config.toml
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 content
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 layouts
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 static
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Take a look in the content/ directory to confirm that it is empty.&lt;/p&gt;
+
+&lt;p&gt;The other directories (archetypes/, layouts/, and static/) are used when customizing a theme. That&amp;rsquo;s a topic for a different tutorial, so please ignore them for now.&lt;/p&gt;
+
+&lt;h3 id=&#34;generate-the-html-for-the-new-site&#34;&gt;Generate the HTML For the New Site&lt;/h3&gt;
+
+&lt;p&gt;Running the &lt;code&gt;hugo&lt;/code&gt; command with no options will read all the available content and generate the HTML files. It will also copy all static files (that&amp;rsquo;s everything that&amp;rsquo;s not content). Since we have an empty site, it won&amp;rsquo;t do much, but it will do it very quickly.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ hugo --verbose
+INFO: 2014/09/29 Using config file: config.toml
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
+WARN: 2014/09/29 Unable to locate layout: [index.html _default/list.html _default/single.html]
+WARN: 2014/09/29 Unable to locate layout: [404.html]
+0 draft content
+0 future content
+0 pages created
+0 tags created
+0 categories created
+in 2 ms
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The &amp;ldquo;&lt;code&gt;--verbose&lt;/code&gt;&amp;rdquo; flag gives extra information that will be helpful when we build the template. Every line of the output that starts with &amp;ldquo;INFO:&amp;rdquo; or &amp;ldquo;WARN:&amp;rdquo; is present because we used that flag. The lines that start with &amp;ldquo;WARN:&amp;rdquo; are warning messages. We&amp;rsquo;ll go over them later.&lt;/p&gt;
+
+&lt;p&gt;We can verify that the command worked by looking at the directory again.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ ls -l
+total 8
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 archetypes
+-rw-r--r--  1 quoha  staff   82 Sep 29 16:49 config.toml
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 content
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 layouts
+drwxr-xr-x  4 quoha  staff  136 Sep 29 17:02 public
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 static
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;See that new public/ directory? Hugo placed all generated content there. When you&amp;rsquo;re ready to publish your web site, that&amp;rsquo;s the place to start. For now, though, let&amp;rsquo;s just confirm that we have what we&amp;rsquo;d expect from a site with no content.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ ls -l public
+total 16
+-rw-r--r--  1 quoha  staff  416 Sep 29 17:02 index.xml
+-rw-r--r--  1 quoha  staff  262 Sep 29 17:02 sitemap.xml
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Hugo created two XML files, which is standard, but there are no HTML files.&lt;/p&gt;
+
+&lt;h3 id=&#34;test-the-new-site&#34;&gt;Test the New Site&lt;/h3&gt;
+
+&lt;p&gt;Verify that you can run the built-in web server. It will dramatically shorten your development cycle if you do. Start it by running the &amp;ldquo;server&amp;rdquo; command. If it is successful, you will see output similar to the following:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ hugo server --verbose
+INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
+WARN: 2014/09/29 Unable to locate layout: [index.html _default/list.html _default/single.html]
+WARN: 2014/09/29 Unable to locate layout: [404.html]
+0 draft content
+0 future content
+0 pages created
+0 tags created
+0 categories created
+in 2 ms
+Serving pages from /Users/quoha/Sites/zafta/public
+Web Server is available at http://localhost:1313
+Press Ctrl+C to stop
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Connect to the listed URL (it&amp;rsquo;s on the line that starts with &amp;ldquo;Web Server&amp;rdquo;). If everything is working correctly, you should get a page that shows the following:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;index.xml
+sitemap.xml
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;That&amp;rsquo;s a listing of your public/ directory. Hugo didn&amp;rsquo;t create a home page because our site has no content. When there&amp;rsquo;s no index.html file in a directory, the server lists the files in the directory, which is what you should see in your browser.&lt;/p&gt;
+
+&lt;p&gt;Let’s go back and look at those warnings again.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;WARN: 2014/09/29 Unable to locate layout: [index.html _default/list.html _default/single.html]
+WARN: 2014/09/29 Unable to locate layout: [404.html]
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;That second warning is easier to explain. We haven’t created a template to be used to generate “page not found errors.” The 404 message is a topic for a separate tutorial.&lt;/p&gt;
+
+&lt;p&gt;Now for the first warning. It is for the home page. You can tell because the first layout that it looked for was “index.html.” That’s only used by the home page.&lt;/p&gt;
+
+&lt;p&gt;I like that the verbose flag causes Hugo to list the files that it&amp;rsquo;s searching for. For the home page, they are index.html, _default/list.html, and _default/single.html. There are some rules that we&amp;rsquo;ll cover later that explain the names and paths. For now, just remember that Hugo couldn&amp;rsquo;t find a template for the home page and it told you so.&lt;/p&gt;
+
+&lt;p&gt;At this point, you&amp;rsquo;ve got a working installation and site that we can build upon. All that’s left is to add some content and a theme to display it.&lt;/p&gt;
+
+&lt;h2 id=&#34;create-a-new-theme&#34;&gt;Create a New Theme&lt;/h2&gt;
+
+&lt;p&gt;Hugo doesn&amp;rsquo;t ship with a default theme. There are a few available (I counted a dozen when I first installed Hugo) and Hugo comes with a command to create new themes.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;re going to create a new theme called &amp;ldquo;zafta.&amp;rdquo; Since the goal of this tutorial is to show you how to fill out the files to pull in your content, the theme will not contain any CSS. In other words, ugly but functional.&lt;/p&gt;
+
+&lt;p&gt;All themes have opinions on content and layout. For example, Zafta uses &amp;ldquo;post&amp;rdquo; over &amp;ldquo;blog&amp;rdquo;. Strong opinions make for simpler templates but differing opinions make it tougher to use themes. When you build a theme, consider using the terms that other themes do.&lt;/p&gt;
+
+&lt;h3 id=&#34;create-a-skeleton&#34;&gt;Create a Skeleton&lt;/h3&gt;
+
+&lt;p&gt;Use the hugo &amp;ldquo;new&amp;rdquo; command to create the skeleton of a theme. This creates the directory structure and places empty files for you to fill out.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ hugo new theme zafta
+
+$ ls -l
+total 8
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 archetypes
+-rw-r--r--  1 quoha  staff   82 Sep 29 16:49 config.toml
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 content
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 layouts
+drwxr-xr-x  4 quoha  staff  136 Sep 29 17:02 public
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 static
+drwxr-xr-x  3 quoha  staff  102 Sep 29 17:31 themes
+
+$ find themes -type f | xargs ls -l
+-rw-r--r--  1 quoha  staff  1081 Sep 29 17:31 themes/zafta/LICENSE.md
+-rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/archetypes/default.md
+-rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/layouts/_default/list.html
+-rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/layouts/_default/single.html
+-rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/layouts/index.html
+-rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/layouts/partials/footer.html
+-rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/layouts/partials/header.html
+-rw-r--r--  1 quoha  staff    93 Sep 29 17:31 themes/zafta/theme.toml
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The skeleton includes templates (the files ending in .html), license file, a description of your theme (the theme.toml file), and an empty archetype.&lt;/p&gt;
+
+&lt;p&gt;Please take a minute to fill out the theme.toml and LICENSE.md files. They&amp;rsquo;re optional, but if you&amp;rsquo;re going to be distributing your theme, it tells the world who to praise (or blame). It&amp;rsquo;s also nice to declare the license so that people will know how they can use the theme.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ vi themes/zafta/theme.toml
+author = &amp;quot;michael d henderson&amp;quot;
+description = &amp;quot;a minimal working template&amp;quot;
+license = &amp;quot;MIT&amp;quot;
+name = &amp;quot;zafta&amp;quot;
+source_repo = &amp;quot;&amp;quot;
+tags = [&amp;quot;tags&amp;quot;, &amp;quot;categories&amp;quot;]
+:wq
+
+## also edit themes/zafta/LICENSE.md and change
+## the bit that says &amp;quot;YOUR_NAME_HERE&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Note that the the skeleton&amp;rsquo;s template files are empty. Don&amp;rsquo;t worry, we&amp;rsquo;ll be changing that shortly.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ find themes/zafta -name &#39;*.html&#39; | xargs ls -l
+-rw-r--r--  1 quoha  staff  0 Sep 29 17:31 themes/zafta/layouts/_default/list.html
+-rw-r--r--  1 quoha  staff  0 Sep 29 17:31 themes/zafta/layouts/_default/single.html
+-rw-r--r--  1 quoha  staff  0 Sep 29 17:31 themes/zafta/layouts/index.html
+-rw-r--r--  1 quoha  staff  0 Sep 29 17:31 themes/zafta/layouts/partials/footer.html
+-rw-r--r--  1 quoha  staff  0 Sep 29 17:31 themes/zafta/layouts/partials/header.html
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;update-the-configuration-file-to-use-the-theme&#34;&gt;Update the Configuration File to Use the Theme&lt;/h3&gt;
+
+&lt;p&gt;Now that we&amp;rsquo;ve got a theme to work with, it&amp;rsquo;s a good idea to add the theme name to the configuration file. This is optional, because you can always add &amp;ldquo;-t zafta&amp;rdquo; on all your commands. I like to put it the configuration file because I like shorter command lines. If you don&amp;rsquo;t put it in the configuration file or specify it on the command line, you won&amp;rsquo;t use the template that you&amp;rsquo;re expecting to.&lt;/p&gt;
+
+&lt;p&gt;Edit the file to add the theme, add a title for the site, and specify that all of our content will use the TOML format.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ vi config.toml
+theme = &amp;quot;zafta&amp;quot;
+baseurl = &amp;quot;&amp;quot;
+languageCode = &amp;quot;en-us&amp;quot;
+title = &amp;quot;zafta - totally refreshing&amp;quot;
+MetaDataFormat = &amp;quot;toml&amp;quot;
+:wq
+
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;generate-the-site&#34;&gt;Generate the Site&lt;/h3&gt;
+
+&lt;p&gt;Now that we have an empty theme, let&amp;rsquo;s generate the site again.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ hugo --verbose
+INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /Users/quoha/Sites/zafta/public/
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
+WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
+0 draft content
+0 future content
+0 pages created
+0 tags created
+0 categories created
+in 2 ms
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Did you notice that the output is different? The warning message for the home page has disappeared and we have an additional information line saying that Hugo is syncing from the theme&amp;rsquo;s directory.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s check the public/ directory to see what Hugo&amp;rsquo;s created.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ ls -l public
+total 16
+drwxr-xr-x  2 quoha  staff   68 Sep 29 17:56 css
+-rw-r--r--  1 quoha  staff    0 Sep 29 17:56 index.html
+-rw-r--r--  1 quoha  staff  407 Sep 29 17:56 index.xml
+drwxr-xr-x  2 quoha  staff   68 Sep 29 17:56 js
+-rw-r--r--  1 quoha  staff  243 Sep 29 17:56 sitemap.xml
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Notice four things:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Hugo created a home page. This is the file public/index.html.&lt;/li&gt;
+&lt;li&gt;Hugo created a css/ directory.&lt;/li&gt;
+&lt;li&gt;Hugo created a js/ directory.&lt;/li&gt;
+&lt;li&gt;Hugo claimed that it created 0 pages. It created a file and copied over static files, but didn&amp;rsquo;t create any pages. That&amp;rsquo;s because it considers a &amp;ldquo;page&amp;rdquo; to be a file created directly from a content file. It doesn&amp;rsquo;t count things like the index.html files that it creates automatically.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;the-home-page-1&#34;&gt;The Home Page&lt;/h4&gt;
+
+&lt;p&gt;Hugo supports many different types of templates. The home page is special because it gets its own type of template and its own template file. The file, layouts/index.html, is used to generate the HTML for the home page. The Hugo documentation says that this is the only required template, but that depends. Hugo&amp;rsquo;s warning message shows that it looks for three different templates:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;WARN: 2014/09/29 Unable to locate layout: [index.html _default/list.html _default/single.html]
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;If it can&amp;rsquo;t find any of these, it completely skips creating the home page. We noticed that when we built the site without having a theme installed.&lt;/p&gt;
+
+&lt;p&gt;When Hugo created our theme, it created an empty home page template. Now, when we build the site, Hugo finds the template and uses it to generate the HTML for the home page. Since the template file is empty, the HTML file is empty, too. If the template had any rules in it, then Hugo would have used them to generate the home page.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ find . -name index.html | xargs ls -l
+-rw-r--r--  1 quoha  staff  0 Sep 29 20:21 ./public/index.html
+-rw-r--r--  1 quoha  staff  0 Sep 29 17:31 ./themes/zafta/layouts/index.html
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&#34;the-magic-of-static&#34;&gt;The Magic of Static&lt;/h4&gt;
+
+&lt;p&gt;Hugo does two things when generating the site. It uses templates to transform content into HTML and it copies static files into the site. Unlike content, static files are not transformed. They are copied exactly as they are.&lt;/p&gt;
+
+&lt;p&gt;Hugo assumes that your site will use both CSS and JavaScript, so it creates directories in your theme to hold them. Remember opinions? Well, Hugo&amp;rsquo;s opinion is that you&amp;rsquo;ll store your CSS in a directory named css/ and your JavaScript in a directory named js/. If you don&amp;rsquo;t like that, you can change the directory names in your theme directory or even delete them completely. Hugo&amp;rsquo;s nice enough to offer its opinion, then behave nicely if you disagree.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ find themes/zafta -type d | xargs ls -ld
+drwxr-xr-x  7 quoha  staff  238 Sep 29 17:38 themes/zafta
+drwxr-xr-x  3 quoha  staff  102 Sep 29 17:31 themes/zafta/archetypes
+drwxr-xr-x  5 quoha  staff  170 Sep 29 17:31 themes/zafta/layouts
+drwxr-xr-x  4 quoha  staff  136 Sep 29 17:31 themes/zafta/layouts/_default
+drwxr-xr-x  4 quoha  staff  136 Sep 29 17:31 themes/zafta/layouts/partials
+drwxr-xr-x  4 quoha  staff  136 Sep 29 17:31 themes/zafta/static
+drwxr-xr-x  2 quoha  staff   68 Sep 29 17:31 themes/zafta/static/css
+drwxr-xr-x  2 quoha  staff   68 Sep 29 17:31 themes/zafta/static/js
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;the-theme-development-cycle&#34;&gt;The Theme Development Cycle&lt;/h2&gt;
+
+&lt;p&gt;When you&amp;rsquo;re working on a theme, you will make changes in the theme&amp;rsquo;s directory, rebuild the site, and check your changes in the browser. Hugo makes this very easy:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Purge the public/ directory.&lt;/li&gt;
+&lt;li&gt;Run the built in web server in watch mode.&lt;/li&gt;
+&lt;li&gt;Open your site in a browser.&lt;/li&gt;
+&lt;li&gt;Update the theme.&lt;/li&gt;
+&lt;li&gt;Glance at your browser window to see changes.&lt;/li&gt;
+&lt;li&gt;Return to step 4.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I’ll throw in one more opinion: never work on a theme on a live site. Always work on a copy of your site. Make changes to your theme, test them, then copy them up to your site. For added safety, use a tool like Git to keep a revision history of your content and your theme. Believe me when I say that it is too easy to lose both your mind and your changes.&lt;/p&gt;
+
+&lt;p&gt;Check the main Hugo site for information on using Git with Hugo.&lt;/p&gt;
+
+&lt;h3 id=&#34;purge-the-public-directory&#34;&gt;Purge the public/ Directory&lt;/h3&gt;
+
+&lt;p&gt;When generating the site, Hugo will create new files and update existing ones in the &lt;code&gt;public/&lt;/code&gt; directory. It will not delete files that are no longer used. For example, files that were created in the wrong directory or with the wrong title will remain. If you leave them, you might get confused by them later. I recommend cleaning out your site prior to generating it.&lt;/p&gt;
+
+&lt;p&gt;Note: If you&amp;rsquo;re building on an SSD, you should ignore this. Churning on a SSD can be costly.&lt;/p&gt;
+
+&lt;h3 id=&#34;hugo-s-watch-option&#34;&gt;Hugo&amp;rsquo;s Watch Option&lt;/h3&gt;
+
+&lt;p&gt;Hugo&amp;rsquo;s &amp;ldquo;&lt;code&gt;--watch&lt;/code&gt;&amp;rdquo; option will monitor the content/ and your theme directories for changes and rebuild the site automatically.&lt;/p&gt;
+
+&lt;h3 id=&#34;live-reload&#34;&gt;Live Reload&lt;/h3&gt;
+
+&lt;p&gt;Hugo&amp;rsquo;s built in web server supports live reload. As pages are saved on the server, the browser is told to refresh the page. Usually, this happens faster than you can say, &amp;ldquo;Wow, that&amp;rsquo;s totally amazing.&amp;rdquo;&lt;/p&gt;
+
+&lt;h3 id=&#34;development-commands&#34;&gt;Development Commands&lt;/h3&gt;
+
+&lt;p&gt;Use the following commands as the basis for your workflow.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;## purge old files. hugo will recreate the public directory.
+##
+$ rm -rf public
+##
+## run hugo in watch mode
+##
+$ hugo server --watch --verbose
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Here&amp;rsquo;s sample output showing Hugo detecting a change to the template for the home page. Once generated, the web browser automatically reloaded the page. I&amp;rsquo;ve said this before, it&amp;rsquo;s amazing.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ rm -rf public
+$ hugo server --watch --verbose
+INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /Users/quoha/Sites/zafta/public/
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
+WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
+0 draft content
+0 future content
+0 pages created
+0 tags created
+0 categories created
+in 2 ms
+Watching for changes in /Users/quoha/Sites/zafta/content
+Serving pages from /Users/quoha/Sites/zafta/public
+Web Server is available at http://localhost:1313
+Press Ctrl+C to stop
+INFO: 2014/09/29 File System Event: [&amp;quot;/Users/quoha/Sites/zafta/themes/zafta/layouts/index.html&amp;quot;: MODIFY|ATTRIB]
+Change detected, rebuilding site
+
+WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
+0 draft content
+0 future content
+0 pages created
+0 tags created
+0 categories created
+in 1 ms
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;update-the-home-page-template&#34;&gt;Update the Home Page Template&lt;/h2&gt;
+
+&lt;p&gt;The home page is one of a few special pages that Hugo creates automatically. As mentioned earlier, it looks for one of three files in the theme&amp;rsquo;s layout/ directory:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;index.html&lt;/li&gt;
+&lt;li&gt;_default/list.html&lt;/li&gt;
+&lt;li&gt;_default/single.html&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We could update one of the default templates, but a good design decision is to update the most specific template available. That&amp;rsquo;s not a hard and fast rule (in fact, we&amp;rsquo;ll break it a few times in this tutorial), but it is a good generalization.&lt;/p&gt;
+
+&lt;h3 id=&#34;make-a-static-home-page&#34;&gt;Make a Static Home Page&lt;/h3&gt;
+
+&lt;p&gt;Right now, that page is empty because we don&amp;rsquo;t have any content and we don&amp;rsquo;t have any logic in the template. Let&amp;rsquo;s change that by adding some text to the template.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ vi themes/zafta/layouts/index.html
+&amp;lt;!DOCTYPE html&amp;gt;
+&amp;lt;html&amp;gt;
+&amp;lt;body&amp;gt;
+  &amp;lt;p&amp;gt;hugo says hello!&amp;lt;/p&amp;gt;
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+:wq
+
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Build the web site and then verify the results.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ hugo --verbose
+INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /Users/quoha/Sites/zafta/public/
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
+WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
+0 draft content
+0 future content
+0 pages created
+0 tags created
+0 categories created
+in 2 ms
+
+$ find public -type f -name &#39;*.html&#39; | xargs ls -l
+-rw-r--r--  1 quoha  staff  78 Sep 29 21:26 public/index.html
+
+$ cat public/index.html
+&amp;lt;!DOCTYPE html&amp;gt;
+&amp;lt;html&amp;gt;
+&amp;lt;body&amp;gt;
+  &amp;lt;p&amp;gt;hugo says hello!&amp;lt;/p&amp;gt;
+&amp;lt;/html&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&#34;live-reload-1&#34;&gt;Live Reload&lt;/h4&gt;
+
+&lt;p&gt;Note: If you&amp;rsquo;re running the server with the &lt;code&gt;--watch&lt;/code&gt; option, you&amp;rsquo;ll see different content in the file:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ cat public/index.html
+&amp;lt;!DOCTYPE html&amp;gt;
+&amp;lt;html&amp;gt;
+&amp;lt;body&amp;gt;
+  &amp;lt;p&amp;gt;hugo says hello!&amp;lt;/p&amp;gt;
+&amp;lt;script&amp;gt;document.write(&#39;&amp;lt;script src=&amp;quot;http://&#39;
+        + (location.host || &#39;localhost&#39;).split(&#39;:&#39;)[0]
+    + &#39;:1313/livereload.js?mindelay=10&amp;quot;&amp;gt;&amp;lt;/&#39;
+        + &#39;script&amp;gt;&#39;)&amp;lt;/script&amp;gt;&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;When you use &lt;code&gt;--watch&lt;/code&gt;, the Live Reload script is added by Hugo. Look for live reload in the documentation to see what it does and how to disable it.&lt;/p&gt;
+
+&lt;h3 id=&#34;build-a-dynamic-home-page&#34;&gt;Build a &amp;ldquo;Dynamic&amp;rdquo; Home Page&lt;/h3&gt;
+
+&lt;p&gt;&amp;ldquo;Dynamic home page?&amp;rdquo; Hugo&amp;rsquo;s a static web site generator, so this seems an odd thing to say. I mean let&amp;rsquo;s have the home page automatically reflect the content in the site every time Hugo builds it. We&amp;rsquo;ll use iteration in the template to do that.&lt;/p&gt;
+
+&lt;h4 id=&#34;create-new-posts&#34;&gt;Create New Posts&lt;/h4&gt;
+
+&lt;p&gt;Now that we have the home page generating static content, let&amp;rsquo;s add some content to the site. We&amp;rsquo;ll display these posts as a list on the home page and on their own page, too.&lt;/p&gt;
+
+&lt;p&gt;Hugo has a command to generate a skeleton post, just like it does for sites and themes.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ hugo --verbose new post/first.md
+INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
+INFO: 2014/09/29 attempting to create  post/first.md of post
+INFO: 2014/09/29 curpath: /Users/quoha/Sites/zafta/themes/zafta/archetypes/default.md
+ERROR: 2014/09/29 Unable to Cast &amp;lt;nil&amp;gt; to map[string]interface{}
+
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;That wasn&amp;rsquo;t very nice, was it?&lt;/p&gt;
+
+&lt;p&gt;The &amp;ldquo;new&amp;rdquo; command uses an archetype to create the post file. Hugo created an empty default archetype file, but that causes an error when there&amp;rsquo;s a theme. For me, the workaround was to create an archetypes file specifically for the post type.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ vi themes/zafta/archetypes/post.md
++++
+Description = &amp;quot;&amp;quot;
+Tags = []
+Categories = []
++++
+:wq
+
+$ find themes/zafta/archetypes -type f | xargs ls -l
+-rw-r--r--  1 quoha  staff   0 Sep 29 21:53 themes/zafta/archetypes/default.md
+-rw-r--r--  1 quoha  staff  51 Sep 29 21:54 themes/zafta/archetypes/post.md
+
+$ hugo --verbose new post/first.md
+INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
+INFO: 2014/09/29 attempting to create  post/first.md of post
+INFO: 2014/09/29 curpath: /Users/quoha/Sites/zafta/themes/zafta/archetypes/post.md
+INFO: 2014/09/29 creating /Users/quoha/Sites/zafta/content/post/first.md
+/Users/quoha/Sites/zafta/content/post/first.md created
+
+$ hugo --verbose new post/second.md
+INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
+INFO: 2014/09/29 attempting to create  post/second.md of post
+INFO: 2014/09/29 curpath: /Users/quoha/Sites/zafta/themes/zafta/archetypes/post.md
+INFO: 2014/09/29 creating /Users/quoha/Sites/zafta/content/post/second.md
+/Users/quoha/Sites/zafta/content/post/second.md created
+
+$ ls -l content/post
+total 16
+-rw-r--r--  1 quoha  staff  104 Sep 29 21:54 first.md
+-rw-r--r--  1 quoha  staff  105 Sep 29 21:57 second.md
+
+$ cat content/post/first.md
++++
+Categories = []
+Description = &amp;quot;&amp;quot;
+Tags = []
+date = &amp;quot;2014-09-29T21:54:53-05:00&amp;quot;
+title = &amp;quot;first&amp;quot;
+
++++
+my first post
+
+$ cat content/post/second.md
++++
+Categories = []
+Description = &amp;quot;&amp;quot;
+Tags = []
+date = &amp;quot;2014-09-29T21:57:09-05:00&amp;quot;
+title = &amp;quot;second&amp;quot;
+
++++
+my second post
+
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Build the web site and then verify the results.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ rm -rf public
+$ hugo --verbose
+INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /Users/quoha/Sites/zafta/public/
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
+INFO: 2014/09/29 found taxonomies: map[string]string{&amp;quot;category&amp;quot;:&amp;quot;categories&amp;quot;, &amp;quot;tag&amp;quot;:&amp;quot;tags&amp;quot;}
+WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
+0 draft content
+0 future content
+2 pages created
+0 tags created
+0 categories created
+in 4 ms
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The output says that it created 2 pages. Those are our new posts:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ find public -type f -name &#39;*.html&#39; | xargs ls -l
+-rw-r--r--  1 quoha  staff  78 Sep 29 22:13 public/index.html
+-rw-r--r--  1 quoha  staff   0 Sep 29 22:13 public/post/first/index.html
+-rw-r--r--  1 quoha  staff   0 Sep 29 22:13 public/post/index.html
+-rw-r--r--  1 quoha  staff   0 Sep 29 22:13 public/post/second/index.html
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The new files are empty because because the templates used to generate the content are empty. The homepage doesn&amp;rsquo;t show the new content, either. We have to update the templates to add the posts.&lt;/p&gt;
+
+&lt;h3 id=&#34;list-and-single-templates&#34;&gt;List and Single Templates&lt;/h3&gt;
+
+&lt;p&gt;In Hugo, we have three major kinds of templates. There&amp;rsquo;s the home page template that we updated previously. It is used only by the home page. We also have &amp;ldquo;single&amp;rdquo; templates which are used to generate output for a single content file. We also have &amp;ldquo;list&amp;rdquo; templates that are used to group multiple pieces of content before generating output.&lt;/p&gt;
+
+&lt;p&gt;Generally speaking, list templates are named &amp;ldquo;list.html&amp;rdquo; and single templates are named &amp;ldquo;single.html.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;There are three other types of templates: partials, content views, and terms. We will not go into much detail on these.&lt;/p&gt;
+
+&lt;h3 id=&#34;add-content-to-the-homepage&#34;&gt;Add Content to the Homepage&lt;/h3&gt;
+
+&lt;p&gt;The home page will contain a list of posts. Let&amp;rsquo;s update its template to add the posts that we just created. The logic in the template will run every time we build the site.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ vi themes/zafta/layouts/index.html
+&amp;lt;!DOCTYPE html&amp;gt;
+&amp;lt;html&amp;gt;
+&amp;lt;body&amp;gt;
+  {{ range first 10 .Data.Pages }}
+    &amp;lt;h1&amp;gt;{{ .Title }}&amp;lt;/h1&amp;gt;
+  {{ end }}
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+:wq
+
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Hugo uses the Go template engine. That engine scans the template files for commands which are enclosed between &amp;ldquo;{{&amp;rdquo; and &amp;ldquo;}}&amp;rdquo;. In our template, the commands are:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;range&lt;/li&gt;
+&lt;li&gt;.Title&lt;/li&gt;
+&lt;li&gt;end&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The &amp;ldquo;range&amp;rdquo; command is an iterator. We&amp;rsquo;re going to use it to go through the first ten pages. Every HTML file that Hugo creates is treated as a page, so looping through the list of pages will look at every file that will be created.&lt;/p&gt;
+
+&lt;p&gt;The &amp;ldquo;.Title&amp;rdquo; command prints the value of the &amp;ldquo;title&amp;rdquo; variable. Hugo pulls it from the front matter in the Markdown file.&lt;/p&gt;
+
+&lt;p&gt;The &amp;ldquo;end&amp;rdquo; command signals the end of the range iterator. The engine loops back to the top of the iteration when it finds &amp;ldquo;end.&amp;rdquo; Everything between the &amp;ldquo;range&amp;rdquo; and &amp;ldquo;end&amp;rdquo; is evaluated every time the engine goes through the iteration. In this file, that would cause the title from the first ten pages to be output as heading level one.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s helpful to remember that some variables, like .Data, are created before any output files. Hugo loads every content file into the variable and then gives the template a chance to process before creating the HTML files.&lt;/p&gt;
+
+&lt;p&gt;Build the web site and then verify the results.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ rm -rf public
+$ hugo --verbose
+INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /Users/quoha/Sites/zafta/public/
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
+INFO: 2014/09/29 found taxonomies: map[string]string{&amp;quot;tag&amp;quot;:&amp;quot;tags&amp;quot;, &amp;quot;category&amp;quot;:&amp;quot;categories&amp;quot;}
+WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
+0 draft content
+0 future content
+2 pages created
+0 tags created
+0 categories created
+in 4 ms
+$ find public -type f -name &#39;*.html&#39; | xargs ls -l
+-rw-r--r--  1 quoha  staff  94 Sep 29 22:23 public/index.html
+-rw-r--r--  1 quoha  staff   0 Sep 29 22:23 public/post/first/index.html
+-rw-r--r--  1 quoha  staff   0 Sep 29 22:23 public/post/index.html
+-rw-r--r--  1 quoha  staff   0 Sep 29 22:23 public/post/second/index.html
+$ cat public/index.html
+&amp;lt;!DOCTYPE html&amp;gt;
+&amp;lt;html&amp;gt;
+&amp;lt;body&amp;gt;
+
+    &amp;lt;h1&amp;gt;second&amp;lt;/h1&amp;gt;
+
+    &amp;lt;h1&amp;gt;first&amp;lt;/h1&amp;gt;
+
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Congratulations, the home page shows the title of the two posts. The posts themselves are still empty, but let&amp;rsquo;s take a moment to appreciate what we&amp;rsquo;ve done. Your template now generates output dynamically. Believe it or not, by inserting the range command inside of those curly braces, you&amp;rsquo;ve learned everything you need to know to build a theme. All that&amp;rsquo;s really left is understanding which template will be used to generate each content file and becoming familiar with the commands for the template engine.&lt;/p&gt;
+
+&lt;p&gt;And, if that were entirely true, this tutorial would be much shorter. There are a few things to know that will make creating a new template much easier. Don&amp;rsquo;t worry, though, that&amp;rsquo;s all to come.&lt;/p&gt;
+
+&lt;h3 id=&#34;add-content-to-the-posts&#34;&gt;Add Content to the Posts&lt;/h3&gt;
+
+&lt;p&gt;We&amp;rsquo;re working with posts, which are in the content/post/ directory. That means that their section is &amp;ldquo;post&amp;rdquo; (and if we don&amp;rsquo;t do something weird, their type is also &amp;ldquo;post&amp;rdquo;).&lt;/p&gt;
+
+&lt;p&gt;Hugo uses the section and type to find the template file for every piece of content. Hugo will first look for a template file that matches the section or type name. If it can&amp;rsquo;t find one, then it will look in the _default/ directory. There are some twists that we&amp;rsquo;ll cover when we get to categories and tags, but for now we can assume that Hugo will try post/single.html, then _default/single.html.&lt;/p&gt;
+
+&lt;p&gt;Now that we know the search rule, let&amp;rsquo;s see what we actually have available:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ find themes/zafta -name single.html | xargs ls -l
+-rw-r--r--  1 quoha  staff  132 Sep 29 17:31 themes/zafta/layouts/_default/single.html
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;We could create a new template, post/single.html, or change the default. Since we don&amp;rsquo;t know of any other content types, let&amp;rsquo;s start with updating the default.&lt;/p&gt;
+
+&lt;p&gt;Remember, any content that we haven&amp;rsquo;t created a template for will end up using this template. That can be good or bad. Bad because I know that we&amp;rsquo;re going to be adding different types of content and we&amp;rsquo;re going to end up undoing some of the changes we&amp;rsquo;ve made. It&amp;rsquo;s good because we&amp;rsquo;ll be able to see immediate results. It&amp;rsquo;s also good to start here because we can start to build the basic layout for the site. As we add more content types, we&amp;rsquo;ll refactor this file and move logic around. Hugo makes that fairly painless, so we&amp;rsquo;ll accept the cost and proceed.&lt;/p&gt;
+
+&lt;p&gt;Please see the Hugo documentation on template rendering for all the details on determining which template to use. And, as the docs mention, if you&amp;rsquo;re building a single page application (SPA) web site, you can delete all of the other templates and work with just the default single page. That&amp;rsquo;s a refreshing amount of joy right there.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-the-template-file&#34;&gt;Update the Template File&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code&gt;$ vi themes/zafta/layouts/_default/single.html
+&amp;lt;!DOCTYPE html&amp;gt;
+&amp;lt;html&amp;gt;
+&amp;lt;head&amp;gt;
+  &amp;lt;title&amp;gt;{{ .Title }}&amp;lt;/title&amp;gt;
+&amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
+  &amp;lt;h1&amp;gt;{{ .Title }}&amp;lt;/h1&amp;gt;
+  {{ .Content }}
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+:wq
+
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Build the web site and verify the results.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ rm -rf public
+$ hugo --verbose
+INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /Users/quoha/Sites/zafta/public/
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
+INFO: 2014/09/29 found taxonomies: map[string]string{&amp;quot;tag&amp;quot;:&amp;quot;tags&amp;quot;, &amp;quot;category&amp;quot;:&amp;quot;categories&amp;quot;}
+WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
+0 draft content
+0 future content
+2 pages created
+0 tags created
+0 categories created
+in 4 ms
+
+$ find public -type f -name &#39;*.html&#39; | xargs ls -l
+-rw-r--r--  1 quoha  staff   94 Sep 29 22:40 public/index.html
+-rw-r--r--  1 quoha  staff  125 Sep 29 22:40 public/post/first/index.html
+-rw-r--r--  1 quoha  staff    0 Sep 29 22:40 public/post/index.html
+-rw-r--r--  1 quoha  staff  128 Sep 29 22:40 public/post/second/index.html
+
+$ cat public/post/first/index.html
+&amp;lt;!DOCTYPE html&amp;gt;
+&amp;lt;html&amp;gt;
+&amp;lt;head&amp;gt;
+  &amp;lt;title&amp;gt;first&amp;lt;/title&amp;gt;
+&amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
+  &amp;lt;h1&amp;gt;first&amp;lt;/h1&amp;gt;
+  &amp;lt;p&amp;gt;my first post&amp;lt;/p&amp;gt;
+
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+
+$ cat public/post/second/index.html
+&amp;lt;!DOCTYPE html&amp;gt;
+&amp;lt;html&amp;gt;
+&amp;lt;head&amp;gt;
+  &amp;lt;title&amp;gt;second&amp;lt;/title&amp;gt;
+&amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
+  &amp;lt;h1&amp;gt;second&amp;lt;/h1&amp;gt;
+  &amp;lt;p&amp;gt;my second post&amp;lt;/p&amp;gt;
+
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Notice that the posts now have content. You can go to localhost:1313/post/first to verify.&lt;/p&gt;
+
+&lt;h3 id=&#34;linking-to-content&#34;&gt;Linking to Content&lt;/h3&gt;
+
+&lt;p&gt;The posts are on the home page. Let&amp;rsquo;s add a link from there to the post. Since this is the home page, we&amp;rsquo;ll update its template.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ vi themes/zafta/layouts/index.html
+&amp;lt;!DOCTYPE html&amp;gt;
+&amp;lt;html&amp;gt;
+&amp;lt;body&amp;gt;
+  {{ range first 10 .Data.Pages }}
+    &amp;lt;h1&amp;gt;&amp;lt;a href=&amp;quot;{{ .Permalink }}&amp;quot;&amp;gt;{{ .Title }}&amp;lt;/a&amp;gt;&amp;lt;/h1&amp;gt;
+  {{ end }}
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Build the web site and verify the results.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ rm -rf public
+$ hugo --verbose
+INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /Users/quoha/Sites/zafta/public/
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
+INFO: 2014/09/29 found taxonomies: map[string]string{&amp;quot;tag&amp;quot;:&amp;quot;tags&amp;quot;, &amp;quot;category&amp;quot;:&amp;quot;categories&amp;quot;}
+WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
+0 draft content
+0 future content
+2 pages created
+0 tags created
+0 categories created
+in 4 ms
+
+$ find public -type f -name &#39;*.html&#39; | xargs ls -l
+-rw-r--r--  1 quoha  staff  149 Sep 29 22:44 public/index.html
+-rw-r--r--  1 quoha  staff  125 Sep 29 22:44 public/post/first/index.html
+-rw-r--r--  1 quoha  staff    0 Sep 29 22:44 public/post/index.html
+-rw-r--r--  1 quoha  staff  128 Sep 29 22:44 public/post/second/index.html
+
+$ cat public/index.html
+&amp;lt;!DOCTYPE html&amp;gt;
+&amp;lt;html&amp;gt;
+&amp;lt;body&amp;gt;
+
+    &amp;lt;h1&amp;gt;&amp;lt;a href=&amp;quot;/post/second/&amp;quot;&amp;gt;second&amp;lt;/a&amp;gt;&amp;lt;/h1&amp;gt;
+
+    &amp;lt;h1&amp;gt;&amp;lt;a href=&amp;quot;/post/first/&amp;quot;&amp;gt;first&amp;lt;/a&amp;gt;&amp;lt;/h1&amp;gt;
+
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;create-a-post-listing&#34;&gt;Create a Post Listing&lt;/h3&gt;
+
+&lt;p&gt;We have the posts displaying on the home page and on their own page. We also have a file public/post/index.html that is empty. Let&amp;rsquo;s make it show a list of all posts (not just the first ten).&lt;/p&gt;
+
+&lt;p&gt;We need to decide which template to update. This will be a listing, so it should be a list template. Let&amp;rsquo;s take a quick look and see which list templates are available.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ find themes/zafta -name list.html | xargs ls -l
+-rw-r--r--  1 quoha  staff  0 Sep 29 17:31 themes/zafta/layouts/_default/list.html
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;As with the single post, we have to decide to update _default/list.html or create post/list.html. We still don&amp;rsquo;t have multiple content types, so let&amp;rsquo;s stay consistent and update the default list template.&lt;/p&gt;
+
+&lt;h2 id=&#34;creating-top-level-pages&#34;&gt;Creating Top Level Pages&lt;/h2&gt;
+
+&lt;p&gt;Let&amp;rsquo;s add an &amp;ldquo;about&amp;rdquo; page and display it at the top level (as opposed to a sub-level like we did with posts).&lt;/p&gt;
+
+&lt;p&gt;The default in Hugo is to use the directory structure of the content/ directory to guide the location of the generated html in the public/ directory. Let&amp;rsquo;s verify that by creating an &amp;ldquo;about&amp;rdquo; page at the top level:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ vi content/about.md
++++
+title = &amp;quot;about&amp;quot;
+description = &amp;quot;about this site&amp;quot;
+date = &amp;quot;2014-09-27&amp;quot;
+slug = &amp;quot;about time&amp;quot;
++++
+
+## about us
+
+i&#39;m speechless
+:wq
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Generate the web site and verify the results.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ find public -name &#39;*.html&#39; | xargs ls -l
+-rw-rw-r--  1 mdhender  staff   334 Sep 27 15:08 public/about-time/index.html
+-rw-rw-r--  1 mdhender  staff   527 Sep 27 15:08 public/index.html
+-rw-rw-r--  1 mdhender  staff   358 Sep 27 15:08 public/post/first-post/index.html
+-rw-rw-r--  1 mdhender  staff     0 Sep 27 15:08 public/post/index.html
+-rw-rw-r--  1 mdhender  staff   342 Sep 27 15:08 public/post/second-post/index.html
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Notice that the page wasn&amp;rsquo;t created at the top level. It was created in a sub-directory named &amp;lsquo;about-time/&amp;rsquo;. That name came from our slug. Hugo will use the slug to name the generated content. It&amp;rsquo;s a reasonable default, by the way, but we can learn a few things by fighting it for this file.&lt;/p&gt;
+
+&lt;p&gt;One other thing. Take a look at the home page.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ cat public/index.html
+&amp;lt;!DOCTYPE html&amp;gt;
+&amp;lt;html&amp;gt;
+&amp;lt;body&amp;gt;
+    &amp;lt;h1&amp;gt;&amp;lt;a href=&amp;quot;http://localhost:1313/post/theme/&amp;quot;&amp;gt;creating a new theme&amp;lt;/a&amp;gt;&amp;lt;/h1&amp;gt;
+    &amp;lt;h1&amp;gt;&amp;lt;a href=&amp;quot;http://localhost:1313/about-time/&amp;quot;&amp;gt;about&amp;lt;/a&amp;gt;&amp;lt;/h1&amp;gt;
+    &amp;lt;h1&amp;gt;&amp;lt;a href=&amp;quot;http://localhost:1313/post/second-post/&amp;quot;&amp;gt;second&amp;lt;/a&amp;gt;&amp;lt;/h1&amp;gt;
+    &amp;lt;h1&amp;gt;&amp;lt;a href=&amp;quot;http://localhost:1313/post/first-post/&amp;quot;&amp;gt;first&amp;lt;/a&amp;gt;&amp;lt;/h1&amp;gt;
+&amp;lt;script&amp;gt;document.write(&#39;&amp;lt;script src=&amp;quot;http://&#39;
+        + (location.host || &#39;localhost&#39;).split(&#39;:&#39;)[0]
+    + &#39;:1313/livereload.js?mindelay=10&amp;quot;&amp;gt;&amp;lt;/&#39;
+        + &#39;script&amp;gt;&#39;)&amp;lt;/script&amp;gt;&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Notice that the &amp;ldquo;about&amp;rdquo; link is listed with the posts? That&amp;rsquo;s not desirable, so let&amp;rsquo;s change that first.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ vi themes/zafta/layouts/index.html
+&amp;lt;!DOCTYPE html&amp;gt;
+&amp;lt;html&amp;gt;
+&amp;lt;body&amp;gt;
+  &amp;lt;h1&amp;gt;posts&amp;lt;/h1&amp;gt;
+  {{ range first 10 .Data.Pages }}
+    {{ if eq .Type &amp;quot;post&amp;quot;}}
+      &amp;lt;h2&amp;gt;&amp;lt;a href=&amp;quot;{{ .Permalink }}&amp;quot;&amp;gt;{{ .Title }}&amp;lt;/a&amp;gt;&amp;lt;/h2&amp;gt;
+    {{ end }}
+  {{ end }}
+
+  &amp;lt;h1&amp;gt;pages&amp;lt;/h1&amp;gt;
+  {{ range .Data.Pages }}
+    {{ if eq .Type &amp;quot;page&amp;quot; }}
+      &amp;lt;h2&amp;gt;&amp;lt;a href=&amp;quot;{{ .Permalink }}&amp;quot;&amp;gt;{{ .Title }}&amp;lt;/a&amp;gt;&amp;lt;/h2&amp;gt;
+    {{ end }}
+  {{ end }}
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+:wq
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Generate the web site and verify the results. The home page has two sections, posts and pages, and each section has the right set of headings and links in it.&lt;/p&gt;
+
+&lt;p&gt;But, that about page still renders to about-time/index.html.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ find public -name &#39;*.html&#39; | xargs ls -l
+-rw-rw-r--  1 mdhender  staff    334 Sep 27 15:33 public/about-time/index.html
+-rw-rw-r--  1 mdhender  staff    645 Sep 27 15:33 public/index.html
+-rw-rw-r--  1 mdhender  staff    358 Sep 27 15:33 public/post/first-post/index.html
+-rw-rw-r--  1 mdhender  staff      0 Sep 27 15:33 public/post/index.html
+-rw-rw-r--  1 mdhender  staff    342 Sep 27 15:33 public/post/second-post/index.html
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Knowing that hugo is using the slug to generate the file name, the simplest solution is to change the slug. Let&amp;rsquo;s do it the hard way and change the permalink in the configuration file.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ vi config.toml
+[permalinks]
+  page = &amp;quot;/:title/&amp;quot;
+  about = &amp;quot;/:filename/&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Generate the web site and verify that this didn&amp;rsquo;t work. Hugo lets &amp;ldquo;slug&amp;rdquo; or &amp;ldquo;URL&amp;rdquo; override the permalinks setting in the configuration file. Go ahead and comment out the slug in content/about.md, then generate the web site to get it to be created in the right place.&lt;/p&gt;
+
+&lt;h2 id=&#34;sharing-templates&#34;&gt;Sharing Templates&lt;/h2&gt;
+
+&lt;p&gt;If you&amp;rsquo;ve been following along, you probably noticed that posts have titles in the browser and the home page doesn&amp;rsquo;t. That&amp;rsquo;s because we didn&amp;rsquo;t put the title in the home page&amp;rsquo;s template (layouts/index.html). That&amp;rsquo;s an easy thing to do, but let&amp;rsquo;s look at a different option.&lt;/p&gt;
+
+&lt;p&gt;We can put the common bits into a shared template that&amp;rsquo;s stored in the themes/zafta/layouts/partials/ directory.&lt;/p&gt;
+
+&lt;h3 id=&#34;create-the-header-and-footer-partials&#34;&gt;Create the Header and Footer Partials&lt;/h3&gt;
+
+&lt;p&gt;In Hugo, a partial is a sugar-coated template. Normally a template reference has a path specified. Partials are different. Hugo searches for them along a TODO defined search path. This makes it easier for end-users to override the theme&amp;rsquo;s presentation.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ vi themes/zafta/layouts/partials/header.html
+&amp;lt;!DOCTYPE html&amp;gt;
+&amp;lt;html&amp;gt;
+&amp;lt;head&amp;gt;
+  &amp;lt;title&amp;gt;{{ .Title }}&amp;lt;/title&amp;gt;
+&amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
+:wq
+
+$ vi themes/zafta/layouts/partials/footer.html
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+:wq
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;update-the-home-page-template-to-use-the-partials&#34;&gt;Update the Home Page Template to Use the Partials&lt;/h3&gt;
+
+&lt;p&gt;The most noticeable difference between a template call and a partials call is the lack of path:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{ template &amp;quot;theme/partials/header.html&amp;quot; . }}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;versus&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{ partial &amp;quot;header.html&amp;quot; . }}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Both pass in the context.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s change the home page template to use these new partials.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ vi themes/zafta/layouts/index.html
+{{ partial &amp;quot;header.html&amp;quot; . }}
+
+  &amp;lt;h1&amp;gt;posts&amp;lt;/h1&amp;gt;
+  {{ range first 10 .Data.Pages }}
+    {{ if eq .Type &amp;quot;post&amp;quot;}}
+      &amp;lt;h2&amp;gt;&amp;lt;a href=&amp;quot;{{ .Permalink }}&amp;quot;&amp;gt;{{ .Title }}&amp;lt;/a&amp;gt;&amp;lt;/h2&amp;gt;
+    {{ end }}
+  {{ end }}
+
+  &amp;lt;h1&amp;gt;pages&amp;lt;/h1&amp;gt;
+  {{ range .Data.Pages }}
+    {{ if or (eq .Type &amp;quot;page&amp;quot;) (eq .Type &amp;quot;about&amp;quot;) }}
+      &amp;lt;h2&amp;gt;&amp;lt;a href=&amp;quot;{{ .Permalink }}&amp;quot;&amp;gt;{{ .Type }} - {{ .Title }} - {{ .RelPermalink }}&amp;lt;/a&amp;gt;&amp;lt;/h2&amp;gt;
+    {{ end }}
+  {{ end }}
+
+{{ partial &amp;quot;footer.html&amp;quot; . }}
+:wq
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Generate the web site and verify the results. The title on the home page is now &amp;ldquo;your title here&amp;rdquo;, which comes from the &amp;ldquo;title&amp;rdquo; variable in the config.toml file.&lt;/p&gt;
+
+&lt;h3 id=&#34;update-the-default-single-template-to-use-the-partials&#34;&gt;Update the Default Single Template to Use the Partials&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;$ vi themes/zafta/layouts/_default/single.html
+{{ partial &amp;quot;header.html&amp;quot; . }}
+
+  &amp;lt;h1&amp;gt;{{ .Title }}&amp;lt;/h1&amp;gt;
+  {{ .Content }}
+
+{{ partial &amp;quot;footer.html&amp;quot; . }}
+:wq
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Generate the web site and verify the results. The title on the posts and the about page should both reflect the value in the markdown file.&lt;/p&gt;
+
+&lt;h2 id=&#34;add-date-published-to-posts&#34;&gt;Add “Date Published” to Posts&lt;/h2&gt;
+
+&lt;p&gt;It&amp;rsquo;s common to have posts display the date that they were written or published, so let&amp;rsquo;s add that. The front matter of our posts has a variable named &amp;ldquo;date.&amp;rdquo; It&amp;rsquo;s usually the date the content was created, but let&amp;rsquo;s pretend that&amp;rsquo;s the value we want to display.&lt;/p&gt;
+
+&lt;h3 id=&#34;add-date-published-to-the-template&#34;&gt;Add “Date Published” to the Template&lt;/h3&gt;
+
+&lt;p&gt;We&amp;rsquo;ll start by updating the template used to render the posts. The template code will look like:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{ .Date.Format &amp;quot;Mon, Jan 2, 2006&amp;quot; }}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Posts use the default single template, so we&amp;rsquo;ll change that file.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ vi themes/zafta/layouts/_default/single.html
+{{ partial &amp;quot;header.html&amp;quot; . }}
+
+  &amp;lt;h1&amp;gt;{{ .Title }}&amp;lt;/h1&amp;gt;
+  &amp;lt;h2&amp;gt;{{ .Date.Format &amp;quot;Mon, Jan 2, 2006&amp;quot; }}&amp;lt;/h2&amp;gt;
+  {{ .Content }}
+
+{{ partial &amp;quot;footer.html&amp;quot; . }}
+:wq
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Generate the web site and verify the results. The posts now have the date displayed in them. There&amp;rsquo;s a problem, though. The &amp;ldquo;about&amp;rdquo; page also has the date displayed.&lt;/p&gt;
+
+&lt;p&gt;As usual, there are a couple of ways to make the date display only on posts. We could do an &amp;ldquo;if&amp;rdquo; statement like we did on the home page. Another way would be to create a separate template for posts.&lt;/p&gt;
+
+&lt;p&gt;The &amp;ldquo;if&amp;rdquo; solution works for sites that have just a couple of content types. It aligns with the principle of &amp;ldquo;code for today,&amp;rdquo; too.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s assume, though, that we&amp;rsquo;ve made our site so complex that we feel we have to create a new template type. In Hugo-speak, we&amp;rsquo;re going to create a section template.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s restore the default single template before we forget.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ mkdir themes/zafta/layouts/post
+$ vi themes/zafta/layouts/_default/single.html
+{{ partial &amp;quot;header.html&amp;quot; . }}
+
+  &amp;lt;h1&amp;gt;{{ .Title }}&amp;lt;/h1&amp;gt;
+  {{ .Content }}
+
+{{ partial &amp;quot;footer.html&amp;quot; . }}
+:wq
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Now we&amp;rsquo;ll update the post&amp;rsquo;s version of the single template. If you remember Hugo&amp;rsquo;s rules, the template engine will use this version over the default.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ vi themes/zafta/layouts/post/single.html
+{{ partial &amp;quot;header.html&amp;quot; . }}
+
+  &amp;lt;h1&amp;gt;{{ .Title }}&amp;lt;/h1&amp;gt;
+  &amp;lt;h2&amp;gt;{{ .Date.Format &amp;quot;Mon, Jan 2, 2006&amp;quot; }}&amp;lt;/h2&amp;gt;
+  {{ .Content }}
+
+{{ partial &amp;quot;footer.html&amp;quot; . }}
+:wq
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Note that we removed the date logic from the default template and put it in the post template. Generate the web site and verify the results. Posts have dates and the about page doesn&amp;rsquo;t.&lt;/p&gt;
+
+&lt;h3 id=&#34;don-t-repeat-yourself&#34;&gt;Don&amp;rsquo;t Repeat Yourself&lt;/h3&gt;
+
+&lt;p&gt;DRY is a good design goal and Hugo does a great job supporting it. Part of the art of a good template is knowing when to add a new template and when to update an existing one. While you&amp;rsquo;re figuring that out, accept that you&amp;rsquo;ll be doing some refactoring. Hugo makes that easy and fast, so it&amp;rsquo;s okay to delay splitting up a template.&lt;/p&gt;
 </description>
     </item>
     
