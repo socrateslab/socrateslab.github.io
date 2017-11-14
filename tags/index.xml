@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Computational Communication Collaboratroy</title>
+    <link>https://computational-communication.com/collaboratory/tags/</link>
+    <description>Recent content in Tags on Computational Communication Collaboratroy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2015 - 2017, Computational Communication Collaboratory; all rights reserved.</copyright>
+    
+	<atom:link href="https://computational-communication.com/collaboratory/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>全国社会媒体处理大会</title>
+      <link>https://computational-communication.com/collaboratory/tags/%E5%85%A8%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%AA%92%E4%BD%93%E5%A4%84%E7%90%86%E5%A4%A7%E4%BC%9A/</link>
+      <pubDate>Fri, 15 Sep 2017 13:50:46 +0200</pubDate>
+      
+      <guid>https://computational-communication.com/collaboratory/tags/%E5%85%A8%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%AA%92%E4%BD%93%E5%A4%84%E7%90%86%E5%A4%A7%E4%BC%9A/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>团队</title>
+      <link>https://computational-communication.com/collaboratory/tags/%E5%9B%A2%E9%98%9F/</link>
+      <pubDate>Sat, 01 Jul 2017 13:50:46 +0200</pubDate>
+      
+      <guid>https://computational-communication.com/collaboratory/tags/%E5%9B%A2%E9%98%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>数字人文</title>
+      <link>https://computational-communication.com/collaboratory/tags/%E6%95%B0%E5%AD%97%E4%BA%BA%E6%96%87/</link>
+      <pubDate>Mon, 03 Jul 2017 13:50:46 +0200</pubDate>
+      
+      <guid>https://computational-communication.com/collaboratory/tags/%E6%95%B0%E5%AD%97%E4%BA%BA%E6%96%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>数据与网络科学论坛</title>
+      <link>https://computational-communication.com/collaboratory/tags/%E6%95%B0%E6%8D%AE%E4%B8%8E%E7%BD%91%E7%BB%9C%E7%A7%91%E5%AD%A6%E8%AE%BA%E5%9D%9B/</link>
+      <pubDate>Tue, 14 Nov 2017 13:50:46 +0200</pubDate>
+      
+      <guid>https://computational-communication.com/collaboratory/tags/%E6%95%B0%E6%8D%AE%E4%B8%8E%E7%BD%91%E7%BB%9C%E7%A7%91%E5%AD%A6%E8%AE%BA%E5%9D%9B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>计算传播学</title>
+      <link>https://computational-communication.com/collaboratory/tags/%E8%AE%A1%E7%AE%97%E4%BC%A0%E6%92%AD%E5%AD%A6/</link>
+      <pubDate>Sun, 24 Sep 2017 13:50:46 +0200</pubDate>
+      
+      <guid>https://computational-communication.com/collaboratory/tags/%E8%AE%A1%E7%AE%97%E4%BC%A0%E6%92%AD%E5%AD%A6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>集智</title>
+      <link>https://computational-communication.com/collaboratory/tags/%E9%9B%86%E6%99%BA/</link>
+      <pubDate>Thu, 20 Jul 2017 13:50:46 +0200</pubDate>
+      
+      <guid>https://computational-communication.com/collaboratory/tags/%E9%9B%86%E6%99%BA/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>计算传播学 on Computational Communication Collaboratroy</title>
-    <link>https://computational-communication.com/collaboratory/tags/%E8%AE%A1%E7%AE%97%E4%BC%A0%E6%92%AD%E5%AD%A6/index.xml</link>
+    <link>https://computational-communication.com/collaboratory/tags/%E8%AE%A1%E7%AE%97%E4%BC%A0%E6%92%AD%E5%AD%A6/</link>
     <description>Recent content in 计算传播学 on Computational Communication Collaboratroy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2015 - 2017, Computational Communication Collaboratory; all rights reserved.</copyright>
-    <atom:link href="https://computational-communication.com/collaboratory/tags/%E8%AE%A1%E7%AE%97%E4%BC%A0%E6%92%AD%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Sep 2017 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://computational-communication.com/collaboratory/tags/%E8%AE%A1%E7%AE%97%E4%BC%A0%E6%92%AD%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>第二届计算传播学论坛</title>
@@ -17,9 +20,7 @@
       <guid>https://computational-communication.com/collaboratory/blog/2017/09/24/20170924-ccc/</guid>
       <description>&lt;p&gt;南京大学新闻传播学院、百度、社会媒体处理专业委员会以及香港城市大学传播研究中心/互联网挖掘实验室拟共同举办2017年计算传播学年会暨工作坊（南京，9月22-9月24日），包括一天半工作坊 + 一天会议。&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;../../img/ccc2017.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
