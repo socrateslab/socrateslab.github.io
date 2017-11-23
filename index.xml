@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2015 - 2017, Computational Communication Collaboratory; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 14 Nov 2017 13:50:46 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 22 Nov 2017 13:50:46 +0200</lastBuildDate>
     
 	<atom:link href="https://computational-communication.com/collaboratory/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>王成军参与组织南京大学新闻传播学院第一届青椒论坛</title>
+      <link>https://computational-communication.com/collaboratory/blog/2017/11/22/20171130-young-teachers/</link>
+      <pubDate>Wed, 22 Nov 2017 13:50:46 +0200</pubDate>
+      
+      <guid>https://computational-communication.com/collaboratory/blog/2017/11/22/20171130-young-teachers/</guid>
+      <description>&lt;p&gt;南京大学新闻传播学院2017年11月30日在鼓楼校区费彝民楼A409举办第一届青椒论坛。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>王成军参加2017年数据与网络科学前沿论坛</title>
@@ -1113,7 +1124,7 @@ Contact  Email: computational.communication@gmail.com  </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://computational-communication.com/collaboratory/people/</guid>
-      <description> 现任成员  巢乃鹏, 教授， 南京大学新闻传播学院 王成军, 助理研究员，南京大学新闻传播学院 吴令飞, 兼职研究员，芝加哥大学计算所知识实验室 党明辉, 高级工程师，西北大学新闻传播学院 陈志聪, 学生研究员， 南京大学新闻传播学院 秦强, 学生研究员, 南京大学新闻传播学院  往期成员  周纬， 学生研究员， 南京大学新闻传播学院 刘磊， 学生研究员， 南京大学软件学院 朱静怡， 学生研究员，南京大学软件学院   不管时代的潮流和社会的风尚怎样，人总可以凭着自己高贵的品质，超脱时代和社会，走自己正确的道路。现在，大家都为了电冰箱、汽车、房子而奔波、追逐、竞争。这是我们这个时代的特征了。但是也还有不少人，他们不追求这些物质的东西，他们追求理想和真理，得到了内心的自由和安宁。 —— 爱因斯坦
+      <description> 现任成员  巢乃鹏, 教授， 南京大学新闻传播学院 王成军, 副教授，南京大学新闻传播学院 吴令飞, 兼职研究员，芝加哥大学计算所知识实验室 党明辉, 高级工程师，西北大学新闻传播学院 陈志聪, 学生研究员， 南京大学新闻传播学院 秦强, 学生研究员, 南京大学新闻传播学院 张晓雨，学生研究员，南京大学新闻传播学院 李铁薇，学生研究员，南京大学新闻传播学院  往期成员  周纬， 学生研究员， 南京大学新闻传播学院 刘磊， 学生研究员， 南京大学软件学院 朱静怡， 学生研究员，南京大学软件学院  学术委员会  学术委员会主席：祝建华，计算社会科学讲座教授，香港城市大学；南京大学新闻传播学院兼职教授。   不管时代的潮流和社会的风尚怎样，人总可以凭着自己高贵的品质，超脱时代和社会，走自己正确的道路。现在，大家都为了电冰箱、汽车、房子而奔波、追逐、竞争。这是我们这个时代的特征了。但是也还有不少人，他们不追求这些物质的东西，他们追求理想和真理，得到了内心的自由和安宁。 —— 爱因斯坦
  </description>
     </item>
     
@@ -1123,7 +1134,7 @@ Contact  Email: computational.communication@gmail.com  </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://computational-communication.com/collaboratory/publication/</guid>
-      <description>Journal Articles  Wang, C.J., Wu, L*, Zhang, J., Janssen, M. (2016) The Collective Direction of Attention Diffusion. Scientific Reports. 6: 34059. doi:10.1038/srep34059 Naipeng Chao, Guangfeng Yuan, Yonggang Li, Qian Yao. (2016) The internet ecological perception, political trust and political efficacy of Chinese netizens. Telematics and Informatics. doi:10.1016/j.tele.2016.05.014 Wu, L., Wang, C.J. *(2016) Tracing the Attention of Moving Citizens. Scientific Reports. 6, 33103. doi: 10.1038/srep33103 Chandra, Y., Jiang, C.L., Wang, C.</description>
+      <description>Journal Articles 英文论文  Wang, C.J., Wu, L*, Zhang, J., Janssen, M. (2016) The Collective Direction of Attention Diffusion. Scientific Reports. 6: 34059. doi:10.1038/srep34059 Naipeng Chao, Guangfeng Yuan, Yonggang Li, Qian Yao. (2016) The internet ecological perception, political trust and political efficacy of Chinese netizens. Telematics and Informatics. doi:10.1016/j.tele.2016.05.014 Wu, L., Wang, C.J. *(2016) Tracing the Attention of Moving Citizens. Scientific Reports. 6, 33103. doi: 10.1038/srep33103 Chandra, Y., Jiang, C.</description>
     </item>
     
   </channel>
