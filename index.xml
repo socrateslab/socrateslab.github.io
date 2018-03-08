@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2015 - 2017, Computational Communication Collaboratory; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 17 Jan 2018 13:50:46 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 07 Mar 2018 13:50:46 +0200</lastBuildDate>
     
 	<atom:link href="https://computational-communication.com/collaboratory/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AI&amp;Society系列沙龙活动（南京站）：社会阶层与数字媒体中的注意力流动</title>
+      <link>https://computational-communication.com/collaboratory/blog/2018/03/07/20180307-aisociety/</link>
+      <pubDate>Wed, 07 Mar 2018 13:50:46 +0200</pubDate>
+      
+      <guid>https://computational-communication.com/collaboratory/blog/2018/03/07/20180307-aisociety/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;题目：社会阶层与数字媒体中的注意力流动&lt;/li&gt;
+&lt;li&gt;时间：2018年3月25日14:00-17:30&lt;/li&gt;
+&lt;li&gt;地点：南京大学&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Two Papers Accepted by the ic2s2 Conference</title>
+      <link>https://computational-communication.com/collaboratory/blog/2018/03/06/20180306-ic2s2/</link>
+      <pubDate>Tue, 06 Mar 2018 13:50:46 +0200</pubDate>
+      
+      <guid>https://computational-communication.com/collaboratory/blog/2018/03/06/20180306-ic2s2/</guid>
+      <description>&lt;p&gt;Two papers coauthored by the lab members have been accepted by the &lt;a href=&#34;https://www.kellogg.northwestern.edu/news-events/conference/ic2s2/2018.aspx/&#34;&gt;4th Annual International Conference on Computational Social Science&lt;/a&gt; (ic2s2) to be presented as a Poster, July 12–15, 2018. Evanston, Illinois, United States.
+&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>One Paper Accepted by the 68th Annual ICA Conference</title>
@@ -1179,6 +1204,18 @@ Contact  Email: computational.communication@gmail.com  </description>
       
       <guid>https://computational-communication.com/collaboratory/publication/</guid>
       <description>Journal Articles 英文论文  Wang, C.J., Wu, L*, Zhang, J., Janssen, M. (2016) The Collective Direction of Attention Diffusion. Scientific Reports. 6: 34059. doi:10.1038/srep34059 Naipeng Chao, Guangfeng Yuan, Yonggang Li, Qian Yao. (2016) The internet ecological perception, political trust and political efficacy of Chinese netizens. Telematics and Informatics. doi:10.1016/j.tele.2016.05.014 Wu, L., Wang, C.J. *(2016) Tracing the Attention of Moving Citizens. Scientific Reports. 6, 33103. doi: 10.1038/srep33103 Chandra, Y., Jiang, C.</description>
+    </item>
+    
+    <item>
+      <title>ROC分析与统计检验</title>
+      <link>https://computational-communication.com/collaboratory/blog/1/01/01/2017-11-05-roc-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://computational-communication.com/collaboratory/blog/1/01/01/2017-11-05-roc-analysis/</guid>
+      <description>{% include toc title=&amp;ldquo;Table&amp;rdquo; icon=&amp;ldquo;file-text&amp;rdquo; %}
+ pROC is a R package for visualizing, smoothing and comparing receiver operating characteristic (ROC) curves.1 2
+ The (Partial) area under the curve (AUC) can be compared with statistical tests based on U-statistics or bootstrap. 3 Confidence intervals can be computed for (p)AUC or ROC curves. Sample size / power computation for one or two ROC curves are available.
+百度百科：敏感度、特异度 考虑一个二分问题，即将实例分成正类（positive）或负类（negative）。对一个二分问题来说，会出现四种情况。如果一个实例是正类并且也被 预测成正类，即为真正类（True positive）,如果实例是负类被预测成正类，称之为假正类（False positive）。相应地，如果实例是负类被预测成负类，称之为真负类（True negative）,正类被预测成负类则为假负类（false negative）。</description>
     </item>
     
   </channel>

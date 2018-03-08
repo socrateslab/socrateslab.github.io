@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2015 - 2017, Computational Communication Collaboratory; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 17 Jan 2018 13:50:46 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 06 Mar 2018 13:50:46 +0200</lastBuildDate>
     
 	<atom:link href="https://computational-communication.com/collaboratory/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ic2s2</title>
+      <link>https://computational-communication.com/collaboratory/tags/ic2s2/</link>
+      <pubDate>Tue, 06 Mar 2018 13:50:46 +0200</pubDate>
+      
+      <guid>https://computational-communication.com/collaboratory/tags/ic2s2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ica</title>
@@ -81,6 +90,15 @@
       <pubDate>Thu, 20 Jul 2017 13:50:46 +0200</pubDate>
       
       <guid>https://computational-communication.com/collaboratory/tags/%E9%9B%86%E6%99%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>集智俱乐部</title>
+      <link>https://computational-communication.com/collaboratory/tags/%E9%9B%86%E6%99%BA%E4%BF%B1%E4%B9%90%E9%83%A8/</link>
+      <pubDate>Wed, 07 Mar 2018 13:50:46 +0200</pubDate>
+      
+      <guid>https://computational-communication.com/collaboratory/tags/%E9%9B%86%E6%99%BA%E4%BF%B1%E4%B9%90%E9%83%A8/</guid>
       <description></description>
     </item>
     

@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://computational-communication.com/collaboratory/blog/2018/03/07/20180307-aisociety/</loc>
+    <lastmod>2018-03-07T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://computational-communication.com/collaboratory/blog/2018/03/06/20180306-ic2s2/</loc>
+    <lastmod>2018-03-06T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://computational-communication.com/collaboratory/blog/2018/01/17/20180118-ica2018/</loc>
     <lastmod>2018-01-17T13:50:46+02:00</lastmod>
   </url>
@@ -417,7 +427,7 @@
   
   <url>
     <loc>https://computational-communication.com/collaboratory/blog/</loc>
-    <lastmod>2018-01-17T13:50:46+02:00</lastmod>
+    <lastmod>2018-03-07T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -428,12 +438,18 @@
   
   <url>
     <loc>https://computational-communication.com/collaboratory/</loc>
-    <lastmod>2018-01-17T13:50:46+02:00</lastmod>
+    <lastmod>2018-03-07T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://computational-communication.com/collaboratory/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://computational-communication.com/collaboratory/tags/ic2s2/</loc>
+    <lastmod>2018-03-06T13:50:46+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -451,14 +467,19 @@
   </url>
   
   <url>
+    <loc>https://computational-communication.com/collaboratory/blog/1/01/01/2017-11-05-roc-analysis/</loc>
+    <lastmod>2017-11-05T11:55:22-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://computational-communication.com/collaboratory/tags/</loc>
-    <lastmod>2018-01-17T13:50:46+02:00</lastmod>
+    <lastmod>2018-03-06T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://computational-communication.com/collaboratory/categories/%E4%BC%9A%E8%AE%AE/</loc>
-    <lastmod>2018-01-17T13:50:46+02:00</lastmod>
+    <lastmod>2018-03-06T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -494,7 +515,7 @@
   
   <url>
     <loc>https://computational-communication.com/collaboratory/categories/%E6%B4%BB%E5%8A%A8/</loc>
-    <lastmod>2017-12-13T13:50:46+02:00</lastmod>
+    <lastmod>2018-03-07T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -525,6 +546,12 @@
   <url>
     <loc>https://computational-communication.com/collaboratory/tags/%E9%9B%86%E6%99%BA/</loc>
     <lastmod>2017-07-20T13:50:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://computational-communication.com/collaboratory/tags/%E9%9B%86%E6%99%BA%E4%BF%B1%E4%B9%90%E9%83%A8/</loc>
+    <lastmod>2018-03-07T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
