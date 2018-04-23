@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://computational-communication.com/collaboratory/blog/2018/04/21/20180421-ccr-society/</loc>
+    <lastmod>2018-04-21T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://computational-communication.com/collaboratory/blog/2018/03/25/20180325-jake-talk/</loc>
     <lastmod>2018-03-25T21:49:20+02:00</lastmod>
   </url>
@@ -432,7 +437,7 @@
   
   <url>
     <loc>https://computational-communication.com/collaboratory/blog/</loc>
-    <lastmod>2018-03-25T21:49:20+02:00</lastmod>
+    <lastmod>2018-04-21T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -443,7 +448,7 @@
   
   <url>
     <loc>https://computational-communication.com/collaboratory/</loc>
-    <lastmod>2018-03-25T21:49:20+02:00</lastmod>
+    <lastmod>2018-04-21T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -497,6 +502,12 @@
   <url>
     <loc>https://computational-communication.com/collaboratory/tags/%E5%9B%A2%E9%98%9F/</loc>
     <lastmod>2017-07-01T13:50:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://computational-communication.com/collaboratory/categories/%E5%AD%A6%E4%BC%9A/</loc>
+    <lastmod>2018-04-21T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
