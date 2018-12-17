@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Computational Communication Collaboratroy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Aug 2018 13:50:46 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 16 Dec 2018 13:07:31 +0200</lastBuildDate>
     
 	<atom:link href="https://computational-communication.com/collaboratory/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ccra</title>
+      <link>https://computational-communication.com/collaboratory/tags/ccra/</link>
+      <pubDate>Sun, 16 Dec 2018 13:07:31 +0200</pubDate>
+      
+      <guid>https://computational-communication.com/collaboratory/tags/ccra/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ic2s2</title>
@@ -89,6 +98,15 @@
       <pubDate>Fri, 05 Jan 2018 13:50:46 +0200</pubDate>
       
       <guid>https://computational-communication.com/collaboratory/tags/%E7%BD%91%E7%BB%9C%E9%A2%9D%E7%A7%91%E5%AD%A6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>腾讯研究院</title>
+      <link>https://computational-communication.com/collaboratory/tags/%E8%85%BE%E8%AE%AF%E7%A0%94%E7%A9%B6%E9%99%A2/</link>
+      <pubDate>Sun, 16 Dec 2018 13:07:31 +0200</pubDate>
+      
+      <guid>https://computational-communication.com/collaboratory/tags/%E8%85%BE%E8%AE%AF%E7%A0%94%E7%A9%B6%E9%99%A2/</guid>
       <description></description>
     </item>
     
