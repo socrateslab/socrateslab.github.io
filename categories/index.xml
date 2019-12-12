@@ -6,36 +6,10 @@
     <description>Recent content in Categories on Computational Communication Collaboratroy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jul 2019 13:07:31 +0200</lastBuildDate>
     
 	<atom:link href="https://computational-communication.com/collaboratory/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>会议</title>
-      <link>https://computational-communication.com/collaboratory/categories/%E4%BC%9A%E8%AE%AE/</link>
-      <pubDate>Wed, 01 Aug 2018 13:50:46 +0200</pubDate>
-      
-      <guid>https://computational-communication.com/collaboratory/categories/%E4%BC%9A%E8%AE%AE/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>学会</title>
-      <link>https://computational-communication.com/collaboratory/categories/%E5%AD%A6%E4%BC%9A/</link>
-      <pubDate>Sun, 16 Dec 2018 13:07:31 +0200</pubDate>
-      
-      <guid>https://computational-communication.com/collaboratory/categories/%E5%AD%A6%E4%BC%9A/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>招聘</title>
-      <link>https://computational-communication.com/collaboratory/categories/%E6%8B%9B%E8%81%98/</link>
-      <pubDate>Sat, 01 Jul 2017 13:50:46 +0200</pubDate>
-      
-      <guid>https://computational-communication.com/collaboratory/categories/%E6%8B%9B%E8%81%98/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>活动</title>
@@ -61,6 +35,33 @@
       <pubDate>Sun, 16 Dec 2018 21:49:20 +0200</pubDate>
       
       <guid>https://computational-communication.com/collaboratory/categories/%E8%AE%BA%E6%96%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>学会</title>
+      <link>https://computational-communication.com/collaboratory/categories/%E5%AD%A6%E4%BC%9A/</link>
+      <pubDate>Sun, 16 Dec 2018 13:07:31 +0200</pubDate>
+      
+      <guid>https://computational-communication.com/collaboratory/categories/%E5%AD%A6%E4%BC%9A/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>会议</title>
+      <link>https://computational-communication.com/collaboratory/categories/%E4%BC%9A%E8%AE%AE/</link>
+      <pubDate>Wed, 01 Aug 2018 13:50:46 +0200</pubDate>
+      
+      <guid>https://computational-communication.com/collaboratory/categories/%E4%BC%9A%E8%AE%AE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>招聘</title>
+      <link>https://computational-communication.com/collaboratory/categories/%E6%8B%9B%E8%81%98/</link>
+      <pubDate>Sat, 01 Jul 2017 13:50:46 +0200</pubDate>
+      
+      <guid>https://computational-communication.com/collaboratory/categories/%E6%8B%9B%E8%81%98/</guid>
       <description></description>
     </item>
     
