@@ -3,7 +3,7 @@ title= "王成军、尚可可参加第四届中国计算传播学年会"
 date = "2021-07-18T13:07:31+02:00"
 tags = ["会议"]
 categories = ["会议"]
-banner = "img/banners/banner-28.jpg"
+banner = "img/banners/banner-11.jpg"
 author = "chengjun"
 +++
 
