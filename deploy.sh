@@ -12,12 +12,13 @@ cd collaboratory
 
 #ssh-add ~/.ssh/id_rsa
 #git remote set-url origin git@github.com:chengjun/chengjun.github.io.git
+#git remote set-url origin git@github.com:data-science-lab/collaboratory.git
 
 #git checkout gh-pages
 
 #cd computational-center.github.io
 
-cp -av /Users/chengjun/github/lab-hugo-source/public/* .
+cp -av /Users/datalab/github/lab-hugo-source/public/* .
 
 # Add changes to git.
 git add -A

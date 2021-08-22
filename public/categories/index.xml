@@ -6,15 +6,51 @@
     <description>Recent content in Categories on Computational Communication Collaboratroy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2015 - 2017, Computational Communication Collaboratory; all rights reserved.</copyright>
+    <lastBuildDate>Mon, 01 Jul 2019 13:07:31 +0200</lastBuildDate>
     
 	<atom:link href="https://computational-communication.com/collaboratory/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>活动</title>
+      <link>https://computational-communication.com/collaboratory/categories/%E6%B4%BB%E5%8A%A8/</link>
+      <pubDate>Mon, 01 Jul 2019 13:07:31 +0200</pubDate>
+      
+      <guid>https://computational-communication.com/collaboratory/categories/%E6%B4%BB%E5%8A%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>讲座</title>
+      <link>https://computational-communication.com/collaboratory/categories/%E8%AE%B2%E5%BA%A7/</link>
+      <pubDate>Fri, 19 Apr 2019 13:07:31 +0200</pubDate>
+      
+      <guid>https://computational-communication.com/collaboratory/categories/%E8%AE%B2%E5%BA%A7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>论文</title>
+      <link>https://computational-communication.com/collaboratory/categories/%E8%AE%BA%E6%96%87/</link>
+      <pubDate>Sun, 16 Dec 2018 21:49:20 +0200</pubDate>
+      
+      <guid>https://computational-communication.com/collaboratory/categories/%E8%AE%BA%E6%96%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>学会</title>
+      <link>https://computational-communication.com/collaboratory/categories/%E5%AD%A6%E4%BC%9A/</link>
+      <pubDate>Sun, 16 Dec 2018 13:07:31 +0200</pubDate>
+      
+      <guid>https://computational-communication.com/collaboratory/categories/%E5%AD%A6%E4%BC%9A/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>会议</title>
       <link>https://computational-communication.com/collaboratory/categories/%E4%BC%9A%E8%AE%AE/</link>
-      <pubDate>Tue, 06 Mar 2018 13:50:46 +0200</pubDate>
+      <pubDate>Wed, 01 Aug 2018 13:50:46 +0200</pubDate>
       
       <guid>https://computational-communication.com/collaboratory/categories/%E4%BC%9A%E8%AE%AE/</guid>
       <description></description>
@@ -26,33 +62,6 @@
       <pubDate>Sat, 01 Jul 2017 13:50:46 +0200</pubDate>
       
       <guid>https://computational-communication.com/collaboratory/categories/%E6%8B%9B%E8%81%98/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>活动</title>
-      <link>https://computational-communication.com/collaboratory/categories/%E6%B4%BB%E5%8A%A8/</link>
-      <pubDate>Wed, 07 Mar 2018 13:50:46 +0200</pubDate>
-      
-      <guid>https://computational-communication.com/collaboratory/categories/%E6%B4%BB%E5%8A%A8/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>讲座</title>
-      <link>https://computational-communication.com/collaboratory/categories/%E8%AE%B2%E5%BA%A7/</link>
-      <pubDate>Thu, 15 Mar 2018 13:50:46 +0200</pubDate>
-      
-      <guid>https://computational-communication.com/collaboratory/categories/%E8%AE%B2%E5%BA%A7/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>论文</title>
-      <link>https://computational-communication.com/collaboratory/categories/%E8%AE%BA%E6%96%87/</link>
-      <pubDate>Fri, 09 Sep 2016 21:49:20 +0200</pubDate>
-      
-      <guid>https://computational-communication.com/collaboratory/categories/%E8%AE%BA%E6%96%87/</guid>
       <description></description>
     </item>
     

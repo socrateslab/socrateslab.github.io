@@ -12,8 +12,6 @@ banner = "img/banners/banner-3.jpg"
 - 地点：南京大学
 
 
-<!--more-->
-
 ## 第四期
 
 ![](/img/blog/aisociety.png)
@@ -38,6 +36,3 @@ banner = "img/banners/banner-3.jpg"
 * 不同传播策略对团队合作产生怎样的影响？
 * 不同传播方式对集体智慧具有怎样的影响？
 * 当数字鸿沟变小或消弭之后，穷人和富人在知识空间游走行为具有怎样的差别？数字媒体如何再生产社会阶层？
-
-
-<img src="/img/blog/ananjing.jpg" width="600" /> 

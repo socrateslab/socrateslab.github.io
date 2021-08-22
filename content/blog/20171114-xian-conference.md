@@ -2,7 +2,7 @@
 title = "王成军参加2017年数据与网络科学前沿论坛"
 date = "2017-11-14T13:50:46+02:00"
 categories = ["会议"]
-tags = ["数据与网络科学论坛"]
+tags = ["网络科学"]
 banner = "img/banners/banner-13.jpg"
 +++
 

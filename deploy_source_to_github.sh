@@ -2,6 +2,10 @@
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
+#ssh-add ~/.ssh/id_rsa
+#git remote set-url origin git@github.com:computational-center/lab-hugo-source.git
+#git checkout gh-pages
+
 
 # Add changes to git.
 git add -A

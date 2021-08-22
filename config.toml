@@ -1,9 +1,12 @@
-baseurl = "https://computational-communication.com/collaboratory/"
+baseurl = "https://computational-communication.com/"
 title = "Computational Communication Collaboratroy"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
+hasCJKLanguage=true
+summaryLength= 70
 relativeURLs = true
 canonifyURLs=true
+
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
@@ -53,7 +56,7 @@ paginate = 20
 [[menu.topbar]]
     weight = 1
     name = "GitHub"
-    url = "https://github.com/computational-center/"
+    url = "https://github.com/socrateslab/"
     pre = "<i class='fa fa-2x fa-github'></i>"
 
 [[menu.topbar]]
@@ -101,21 +104,23 @@ paginate = 20
     # Enable the contact form by entering your Formspree.io email
     email = "computational.communication@gmail.com"
 
-    about_us = "<p>Computational Communication Collaboratory (CCC, C-Cube, or C3) was established in February 2015 by the Department of Journalism and Communication, Nanjing University.</p>"
-    copyright = "Copyright (c) 2015 - 2017, Computational Communication Collaboratory; all rights reserved."
+    about_us = "<p>Computational Communication Collaboratory (CCC, C-Cube, or C3) was established in February 2015 by the School of Journalism and Communication, Nanjing University.</p>"
+    copyright = "Copyright (c) 2015-now, Computational Communication Collaboratory, All rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    address = """<p><strong>Computational Communication Collaboratory.</strong>
-        <br>A307 Feiyimin Building
-        <br>22 Gulou District
+    address = """<p><strong>Computational Communication Collaboratory</strong>
+        <br>307 Zijin Building, Nanjing University (Xianlin Campus)
+        <br>163 Xianlin Road, Qixia District
         <br>Nanjing
         <br>Jiangsu
         <br>
         <strong>China</strong>
+        <br>210023
       </p>
+
       """
     #latitude = ""
     #longitude = ""
@@ -160,7 +165,7 @@ paginate = 20
     subtitle = ""
 
 [params.clients]
-    enable = true
+    enable = false
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
