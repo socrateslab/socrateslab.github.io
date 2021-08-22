@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>论文 on Computational Communication Collaboratroy</title>
+    <link>https://computational-communication.com/collaboratory/categories/%E8%AE%BA%E6%96%87/</link>
+    <description>Recent content in 论文 on Computational Communication Collaboratroy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2015 - 2017, Computational Communication Collaboratory; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 09 Sep 2016 21:49:20 +0200</lastBuildDate>
+    
+	<atom:link href="https://computational-communication.com/collaboratory/categories/%E8%AE%BA%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>计算传播学实验中心在Scientific Reports发表论文</title>
+      <link>https://computational-communication.com/collaboratory/blog/2016/09/09/20160909-ccc-sr/</link>
+      <pubDate>Fri, 09 Sep 2016 21:49:20 +0200</pubDate>
+      
+      <guid>https://computational-communication.com/collaboratory/blog/2016/09/09/20160909-ccc-sr/</guid>
+      <description>日前，南京大学新闻传播学院助理研究员、计算传播学实验中心成员王成军博士（通讯作者）和兼职研究员吴令飞博士（第一作者）在自然出版集团旗下国际主流科学期刊Scientific Reports上发表了题为《Tracing the Attention of Moving Citizens》的研究成果（Scientific Reports, 2016 doi:10.1038/srep33103）。基于大规模的匿名智能手机数据和网络科学的研究方法，该研究发现虽然人类在虚拟空间的注意力流动和现实空间的人类移动行为具有相关性，但是二者属于两类不同的人类行为:物理世界的人类移动行为具有明显小世界特征，而虚拟世界的注意力流动则具有分形特征。在此基础上，研究者基于人类在物理世界的移动网络将城市划分为不同的功能区域，发现了基于空间位置的在线行为，如网络购物、在线约会、手机打车。通过改进现有的几何网络模型，这个研究较好揭示了线上注意力流动和线下移动行为的机制。因采用大规模的手机通信数据同时构建注意力网络和移动网络、发现并分析二者在标度特征和自相似特性方面存在明显差异，该研究结果获得了本领域内知名学者的高度评价。
+据统计，该研究成果是国内新闻传播学者在注意力网络方向上的第一篇正式研究成果，引领了国内新闻传播学界在本领域/方向的研究趋势。同时，该论文也是南大新闻传播学院在自然出版集团旗下刊物首次发表工作。2015年南京大学新闻传播学院建立了计算传播学实验中心（http://ccc.nju.edu.cn）。实验中心致力于采用计算社会科学的理论视角和方法分析人类传播行为，关于计算传播学的一系列研究成果发表于Scientific Reports、PloS ONE、Physica A、Journal of Social and Personal Relationship、Telematics and Informatics等国际期刊。这项针对注意力网络的研究不仅是计算传播学实验中心在国际主流学术舞台的一次成功亮相，也是南大新闻传播学科的一次有意义的突破。近年来，南京大学人文社会学者主动融入国际学术主流，用世界通行的学术语言和标准与国外同行平等有效对话。新闻学院在自然出版集团旗下刊物发表论文，是南大各人文学科跨学科国际化努力的又一例证。
+Tracing the Attention of Moving Citizens Lingfei Wu &amp;amp; Cheng-Jun Wang*
+With the widespread use of mobile computing devices in contemporary society, our trajectories in the physical space and virtual world are increasingly closely connected. Using the anonymous smartphone data of 1 × 10^5 users in a major city of China, we study the interplay between online and offline human behaviors by constructing the mobility network (offline) and the attention network (online).</description>
+    </item>
+    
+    <item>
+      <title>巢乃鹏等关于互联网生态认知的研究发表于Telematics and Informatics</title>
+      <link>https://computational-communication.com/collaboratory/blog/2016/08/30/20160830-informatics/</link>
+      <pubDate>Tue, 30 Aug 2016 21:49:20 +0200</pubDate>
+      
+      <guid>https://computational-communication.com/collaboratory/blog/2016/08/30/20160830-informatics/</guid>
+      <description>计算传播学实验中心主任巢乃鹏老师关于中国网民政治认知的研究2016年发表于Telematics and Informatics。作为一个SSCI索引的重要期刊，Telematics and Informatics的影响因子2015年为2.261，主要发表分析信息和传播技术在社会、政治、经济、政治和文化多个维度影响力的实证研究。
+这个研究采用问卷调查的方法，分析了中国网民在因特网生态认知、政治信任、政治效能等方面的模式。研究发现中国网民的言论尺度和政治参与方式在很大程度上依赖于其对中国互联网生态的认知，后者对于网民的政治信任和外部政治效能具有显著影响，而政治信任对于内部和外部政治效能均具有显著影响。
+Naipeng Chao, Guangfeng Yuan, Yonggang Li, Qian Yao. (2016) The internet ecological perception, political trust and political efficacy of Chinese netizens. Telematics and Informatics. doi: 10.1016/j.tele.2016.05.014
+Abstract Political efficacy is an important indicator of political democracy. As the Internet, especially social media, has grown and evolved, it has greatly changed the Chinese public’s political perceptions. Chinese Internet governance has shifted the mode of “vague governance” and “subsequent punishment” from traditional political governance into the Internet ecology.</description>
+    </item>
+    
+  </channel>
+</rss>

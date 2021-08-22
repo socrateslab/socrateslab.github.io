@@ -1,0 +1,10 @@
+weight: 3
+title: "workshops"
+description: >
+  <ul class="list-style-none">
+    <li>Introduction to Computational Communication</li>
+    <li>Data Journalism</li>
+    <li>Computational Advertising</li>
+    <li>Big Data Analysis</li>
+  </ul>
+image: "img/carousel/dj.png"
