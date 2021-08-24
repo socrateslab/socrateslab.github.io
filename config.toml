@@ -179,7 +179,7 @@ paginate = 20
 
 [params.see_more]
     enable = true
-    icon = "fa fa-file-code-o"
+    icon = "fa fa-file-alt"
     title = "Read More News"
     subtitle = ""
     link_url = "/blog/"
