@@ -117,6 +117,7 @@ paginate = 20
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
+    logo_small = "img/logo.png"
     address = """<p><strong>Computational Communication Collaboratory</strong>
         <br>307 Zijin Building, Nanjing University (Xianlin Campus)
         <br>163 Xianlin Road, Qixia District
