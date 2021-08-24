@@ -35,7 +35,7 @@ paginate = 20
 
 [[menu.main]]
     name = "News"
-    url  = "/blog/"
+    url  = "/news/"
     weight = 3
 
 [[menu.main]]
@@ -43,11 +43,16 @@ paginate = 20
     identifier = "Publication"
     url  = "/publication/"
     weight = 4
+    
+[[menu.main]]
+    name = "Blog"
+    url  = "/handbook/"
+    weight = 5
 
 [[menu.main]]
     name = "Contact"
     url  = "/contact/"
-    weight = 5
+    weight = 6
 
 
 
