@@ -1,5 +1,5 @@
 +++
-title= "第谷读书会成功举办87期"
+title= "第谷读书会成功举办85期"
 date = "2021-07-01T13:07:31+02:00"
 tags = ["会议"]
 categories = ["会议"]
@@ -23,7 +23,6 @@ author = "chengjun"
 
   20902021-06-23[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i2.hdslb.com/bfs/archive/1e04e80f2fd5eeb0990dd4950ae9c645de571aba.jpg@640w_400h_1c.webp)
 
   01:09:48
 
@@ -35,7 +34,6 @@ author = "chengjun"
 
   18402021-06-19[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i1.hdslb.com/bfs/archive/2c26bafbb6229a863818411921eaab3d32a1c9e6.jpg@640w_400h_1c.webp)
 
   12:56
 
@@ -47,7 +45,6 @@ author = "chengjun"
 
   22402021-06-13[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i2.hdslb.com/bfs/archive/2f8777dce8c04ccb9b134979a969cf31899e664d.jpg@640w_400h_1c.webp)
 
   01:25:20
 
@@ -59,7 +56,6 @@ author = "chengjun"
 
   18002021-06-02[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i0.hdslb.com/bfs/archive/7c57064f27c5d95dc8219c1b1e8c545081e63632.jpg@640w_400h_1c.webp)
 
   54:28
 
@@ -69,7 +65,6 @@ author = "chengjun"
 
   26702021-05-26[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i0.hdslb.com/bfs/archive/f2d98fa393aeabf04bc582a0463871feb03fdd92.jpg@640w_400h_1c.webp)
 
   22:12
 
@@ -79,7 +74,6 @@ author = "chengjun"
 
   31402021-05-20[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i2.hdslb.com/bfs/archive/93315312a8dd8a512fc865dd1312530c479b7978.jpg@640w_400h_1c.webp)
 
   01:46:44
 
@@ -89,7 +83,6 @@ author = "chengjun"
 
   21502021-05-19[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i2.hdslb.com/bfs/archive/8b95e4bf81038764c41ba54dc8dfc757203e1c7a.jpg@640w_400h_1c.webp)
 
   01:03:32
 
@@ -99,7 +92,6 @@ author = "chengjun"
 
   49802021-04-08[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i0.hdslb.com/bfs/archive/efd28915cdac87b7f234eedac1eb1971997e5753.jpg@640w_400h_1c.webp)
 
   52:50
 
@@ -109,7 +101,6 @@ author = "chengjun"
 
   34502021-03-31[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i1.hdslb.com/bfs/archive/4d3c5bd7d3a4584eaea1a80ad806a23e76ab0375.jpg@640w_400h_1c.webp)
 
   01:35:04
 
@@ -121,7 +112,6 @@ author = "chengjun"
 
   27102021-03-24[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i0.hdslb.com/bfs/archive/98c0551316a08ba50d072f8980c1927a16660dd5.jpg@640w_400h_1c.webp)
 
   22:56
 
@@ -131,7 +121,6 @@ author = "chengjun"
 
   32322021-03-17[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i2.hdslb.com/bfs/archive/2250a96160ea316ca83aeeb279ad9e9ee878d817.jpg@640w_400h_1c.webp)
 
   11:04
 
@@ -141,7 +130,6 @@ author = "chengjun"
 
   19502021-03-10[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i1.hdslb.com/bfs/archive/75c2d4930805b70f58048aaec0d4045c4bb1fb14.jpg@640w_400h_1c.webp)
 
   31:48
 
@@ -151,7 +139,6 @@ author = "chengjun"
 
   77612020-12-24[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i1.hdslb.com/bfs/archive/2e6e484e61cdf24f5392d10cde00f78f268e7e77.jpg@640w_400h_1c.webp)
 
   39:24
 
@@ -163,7 +150,6 @@ author = "chengjun"
 
   35902020-12-16[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i0.hdslb.com/bfs/archive/620f87d6d6565c49f2319b3faa9707df24619bdf.jpg@640w_400h_1c.webp)
 
   01:21:57
 
@@ -175,7 +161,6 @@ author = "chengjun"
 
   63812020-12-09[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i0.hdslb.com/bfs/archive/17e368a188847461828bf7213c738c3797cd4dae.jpg@640w_400h_1c.webp)
 
   41:33
 
@@ -187,7 +172,6 @@ author = "chengjun"
 
   51122020-12-02[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i1.hdslb.com/bfs/archive/a770ed5f16c33aec6fd4c7369a4db36ef7b12f4a.jpg@640w_400h_1c.webp)
 
   28:28
 
@@ -199,7 +183,6 @@ author = "chengjun"
 
   34232020-11-28[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i1.hdslb.com/bfs/archive/b95a7674ea6e63b9bb30997c859dc4c5d9a10a47.jpg@640w_400h_1c.webp)
 
   17:35
 
@@ -211,7 +194,6 @@ author = "chengjun"
 
   34802020-11-21[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i0.hdslb.com/bfs/archive/b792bc966a3700d1c3e61528a63ad729f1618180.jpg@640w_400h_1c.webp)
 
   33:21
 
@@ -223,7 +205,6 @@ author = "chengjun"
 
   54602020-11-11[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i1.hdslb.com/bfs/archive/5eb46e4cdba971ede8c47568ced47653ab9d48cd.jpg@640w_400h_1c.webp)
 
   30:37
 
@@ -235,7 +216,6 @@ author = "chengjun"
 
   34402020-11-04[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i0.hdslb.com/bfs/archive/91c70b49611f2b285ce2003786ea46727faf1588.jpg@640w_400h_1c.webp)
 
 - 21:30
 
@@ -249,7 +229,6 @@ author = "chengjun"
 
   34022020-10-28[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i2.hdslb.com/bfs/archive/343c11d530253f65eee0993f3bc5e6ec91f0b916.jpg@640w_400h_1c.webp)
 
   36:39
 
@@ -261,7 +240,6 @@ author = "chengjun"
 
   95812020-10-21[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i2.hdslb.com/bfs/archive/de9d605abf3c69643f9448c87b63afca2546c4ab.jpg@640w_400h_1c.webp)
 
   20:18
 
@@ -273,7 +251,6 @@ author = "chengjun"
 
   41602020-09-30[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i2.hdslb.com/bfs/archive/8b30635865e3dafc694b5d30313c639d88d1cf9f.jpg@640w_400h_1c.webp)
 
   27:02
 
@@ -285,7 +262,6 @@ author = "chengjun"
 
   47002020-09-28[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i1.hdslb.com/bfs/archive/8a08f42fa2b0fade3a5ff197cbccbbbe06cbf2e8.jpg@640w_400h_1c.webp)
 
   23:55
 
@@ -295,7 +271,6 @@ author = "chengjun"
 
   68702020-06-19[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i0.hdslb.com/bfs/archive/b3bba85e53d5d95ca4ccb4eab71fe96d34768535.jpg@640w_400h_1c.webp)
 
   35:27
 
@@ -305,7 +280,6 @@ author = "chengjun"
 
   75022020-06-03[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i1.hdslb.com/bfs/archive/b7fb17acda8c947088befd592d586cd63ae40912.jpg@640w_400h_1c.webp)
 
   38:15
 
@@ -315,7 +289,6 @@ author = "chengjun"
 
   39602020-05-27[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i2.hdslb.com/bfs/archive/a74d9503fbe3e244bd637ae9bf9c705ae4ade07a.jpg@640w_400h_1c.webp)
 
   01:06:46
 
@@ -325,7 +298,6 @@ author = "chengjun"
 
   120102020-05-20[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i1.hdslb.com/bfs/archive/ae5e79eb3405d61ffd0ec241a1cef4f796af294b.jpg@640w_400h_1c.webp)
 
   48:46
 
@@ -337,7 +309,6 @@ author = "chengjun"
 
   52502020-04-29[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i0.hdslb.com/bfs/archive/07b5ed28eb7be3b310c353101d769473e7878767.jpg@640w_400h_1c.webp)
 
   46:04
 
@@ -349,7 +320,6 @@ author = "chengjun"
 
   91842020-04-23[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i0.hdslb.com/bfs/archive/c9f23a302010fb3d3964708bd7f56adc65869bd5.jpg@640w_400h_1c.webp)
 
   01:04:39
 
@@ -361,7 +331,6 @@ author = "chengjun"
 
   83492020-04-08[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i1.hdslb.com/bfs/archive/789ab5bf344ffa8e59a8d7695a0f136e9bc3667d.jpg@640w_400h_1c.webp)
 
   01:20:30
 
@@ -373,7 +342,6 @@ author = "chengjun"
 
   64202020-04-08[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i2.hdslb.com/bfs/archive/9bad2e801edd45c02f331dea94595db6e14d1e60.jpg@640w_400h_1c.webp)
 
   33:10
 
@@ -385,7 +353,6 @@ author = "chengjun"
 
   140742020-03-28[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i2.hdslb.com/bfs/archive/7f0c1b50e321fd0719fa3e960efd02e11b7e882a.jpg@640w_400h_1c.webp)
 
   58:22
 
@@ -395,7 +362,6 @@ author = "chengjun"
 
   40712019-12-17[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i2.hdslb.com/bfs/archive/20b6146f373717ad0ccc0561b4a956d0ba3d4b28.jpg@640w_400h_1c.webp)
 
   27:07
 
@@ -405,7 +371,6 @@ author = "chengjun"
 
   87202019-12-10[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i0.hdslb.com/bfs/archive/7f4a6c79088d3aa8288969ec120d62ae069fde6e.jpg@640w_400h_1c.webp)
 
   39:36
 
@@ -415,7 +380,6 @@ author = "chengjun"
 
   30402019-12-05[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i2.hdslb.com/bfs/archive/2e3622fd9d5209091aab847369b1abcb804e079b.jpg@640w_400h_1c.webp)
 
   01:27:19
 
@@ -425,7 +389,6 @@ author = "chengjun"
 
   42912019-11-27[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i1.hdslb.com/bfs/archive/3957d45c2c8b2eb626ca1b299321189f2692d87f.jpg@640w_400h_1c.webp)
 
   37:57
 
@@ -435,7 +398,6 @@ author = "chengjun"
 
   166252019-11-20[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i0.hdslb.com/bfs/archive/68d334c8939afe39623531e2a1e423c52ca9d688.jpg@640w_400h_1c.webp)
 
   46:11
 
@@ -447,7 +409,6 @@ author = "chengjun"
 
   93602019-11-12[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i0.hdslb.com/bfs/archive/0ff065256fa970e23416178db904d0874b106184.jpg@640w_400h_1c.webp)
 
   01:15:51
 
@@ -461,7 +422,6 @@ author = "chengjun"
 
 收起
 
-- ![img](https://i2.hdslb.com/bfs/archive/3962d72feb58a262e2f2c3ed550a53b0dae1fdca.jpg@640w_400h_1c.webp)
 
   01:14:48
 
@@ -471,7 +431,6 @@ author = "chengjun"
 
   318142019-10-29[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i1.hdslb.com/bfs/archive/a7ed276362b1fb2d81712b0fba8ae139f0ed099e.jpg@640w_400h_1c.webp)
 
   29:44
 
@@ -483,7 +442,6 @@ author = "chengjun"
 
   43212019-10-08[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i2.hdslb.com/bfs/archive/a38a6d77bde8578ede7b4e72d2ab6a8d771b03f6.jpg@640w_400h_1c.webp)
 
   55:57
 
@@ -495,7 +453,6 @@ author = "chengjun"
 
   30302019-09-24[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i2.hdslb.com/bfs/archive/5ff98e162bcc49aea06c95a620ce48f8c30f52f5.jpg@640w_400h_1c.webp)
 
   01:12:44
 
@@ -505,7 +462,6 @@ author = "chengjun"
 
   26112019-09-17[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i2.hdslb.com/bfs/archive/c6abac27c44bc0804674f806ee5b087c5f881977.jpg@640w_400h_1c.webp)
 
   01:11:59
 
@@ -517,7 +473,6 @@ author = "chengjun"
 
   104502019-09-09[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i0.hdslb.com/bfs/archive/3de340878d218755331d08873c1eefde0f0681a7.jpg@640w_400h_1c.webp)
 
   46:27
 
@@ -529,7 +484,6 @@ author = "chengjun"
 
   48022019-06-28[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i1.hdslb.com/bfs/archive/4a41f311fdb343714c86ae1aca8d1fad9411d28c.jpg@640w_400h_1c.webp)
 
   35:10
 
@@ -541,7 +495,6 @@ author = "chengjun"
 
   37212019-06-21[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i1.hdslb.com/bfs/archive/ace4a0d090ab85988fda2017811764e35ff60361.jpg@640w_400h_1c.webp)
 
   01:01:20
 
@@ -553,7 +506,6 @@ author = "chengjun"
 
   38332019-06-14[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i0.hdslb.com/bfs/archive/7a4a4b285b241d79f784cc3af97041ca302c8bc1.jpg@640w_400h_1c.webp)
 
   58:46
 
@@ -565,7 +517,6 @@ author = "chengjun"
 
   24312019-06-06[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i0.hdslb.com/bfs/archive/57036b8a31e3c52e089e08d051a6875fbc9dd3d5.jpg@640w_400h_1c.webp)
 
   53:44
 
@@ -577,7 +528,6 @@ author = "chengjun"
 
   25002019-05-24[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i1.hdslb.com/bfs/archive/2e77e088601a0c4e14a322cd9647e8765570274e.jpg@640w_400h_1c.webp)
 
   46:36
 
@@ -589,7 +539,6 @@ author = "chengjun"
 
   21302019-05-19[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i2.hdslb.com/bfs/archive/82027ab62f8cb51ee95320f148a4a0d26ed910ec.jpg@640w_400h_1c.webp)
 
   48:20
 
@@ -601,7 +550,6 @@ author = "chengjun"
 
   17302019-05-10[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i0.hdslb.com/bfs/archive/772495e55cc265a3b4869cb80cfcca25d0c90384.jpg@640w_400h_1c.webp)
 
   01:17:48
 
@@ -611,7 +559,6 @@ author = "chengjun"
 
   25842019-04-26[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i1.hdslb.com/bfs/archive/f51517a0fdcbee03dab3a3d05816e018890b1ff1.jpg@640w_400h_1c.webp)
 
   01:14:32
 
@@ -623,7 +570,6 @@ author = "chengjun"
 
   50202019-04-19[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i2.hdslb.com/bfs/archive/a25c8062a7ab5994d284caf39ce4e4359349b6ca.jpg@640w_400h_1c.webp)
 
   57:16
 
@@ -635,7 +581,6 @@ author = "chengjun"
 
   21802019-04-15[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i0.hdslb.com/bfs/archive/2909bf509ef4ffa0d4c63381050eeda647e8508a.jpg@640w_400h_1c.webp)
 
   53:03
 
@@ -647,7 +592,6 @@ author = "chengjun"
 
   21402019-04-05[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i1.hdslb.com/bfs/archive/277ac65b5b3508ee12b5fb0ee1134cad7bb0d8ce.jpg@640w_400h_1c.webp)
 
   01:08:30
 
@@ -659,7 +603,6 @@ author = "chengjun"
 
   65202019-03-29[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i1.hdslb.com/bfs/archive/afb9e10515bd642e6bd49cfdd261a22635023751.jpg@640w_400h_1c.webp)
 
   01:26:42
 
@@ -671,7 +614,6 @@ author = "chengjun"
 
   16402019-03-29[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i2.hdslb.com/bfs/archive/22b28a83b71fb7ff65464a23d637a5b495d4993e.jpg@640w_400h_1c.webp)
 
   01:37:33
 
@@ -683,7 +625,6 @@ author = "chengjun"
 
   43102019-03-15[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i1.hdslb.com/bfs/archive/b0f7c667dbf1f9aabf9b46e2fe5b38ff0f89716d.jpg@640w_400h_1c.webp)
 
   53:33
 
@@ -697,7 +638,6 @@ author = "chengjun"
 
 收起
 
-- ![img](https://i2.hdslb.com/bfs/archive/86a51bf4b3e2e83690f3900bd323130a04364050.jpg@640w_400h_1c.webp)
 
   15:14
 
@@ -709,7 +649,6 @@ author = "chengjun"
 
   12812019-01-04[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i0.hdslb.com/bfs/archive/2d9b6d93d2cd1b3d9b3e9490143751ed681a8749.jpg@640w_400h_1c.webp)
 
   41:08
 
@@ -721,7 +660,6 @@ author = "chengjun"
 
   23802018-12-21[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i2.hdslb.com/bfs/archive/9ab88cb4d0462b2bb6d8cd4c93a54e72934aeced.jpg@640w_400h_1c.webp)
 
   01:16:59
 
@@ -733,7 +671,6 @@ author = "chengjun"
 
   27202018-12-21[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i0.hdslb.com/bfs/archive/e0120b39e17a1d5bfdead2a4af91c167e786200c.jpg@640w_400h_1c.webp)
 
   53:56
 
@@ -745,7 +682,6 @@ author = "chengjun"
 
   27802018-12-17[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i1.hdslb.com/bfs/archive/e0605bd0f1f21680df087b7936db177e4153da00.jpg@640w_400h_1c.webp)
 
   53:18
 
@@ -755,7 +691,6 @@ author = "chengjun"
 
   10302018-12-09[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i2.hdslb.com/bfs/archive/fbfbb03b89b3852f1af20a044b8000eb24aca04c.jpg@640w_400h_1c.webp)
 
   26:33
 
@@ -765,7 +700,6 @@ author = "chengjun"
 
   7602018-12-08[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i2.hdslb.com/bfs/archive/e646181a8a585837a34ad8df32b14dfdbc737e0b.jpg@640w_400h_1c.webp)
 
   37:00
 
@@ -777,7 +711,6 @@ author = "chengjun"
 
   10902018-12-06[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i0.hdslb.com/bfs/archive/34eba49c2a2984c3b3659bd4c8f2efeed86b24c1.jpg@640w_400h_1c.webp)
 
   31:55
 
@@ -789,7 +722,6 @@ author = "chengjun"
 
   16212018-12-05[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i2.hdslb.com/bfs/archive/704d62e3e2983b1988a125a8ae0fddafc5ffe26c.jpg@640w_400h_1c.webp)
 
   02:12:42
 
@@ -801,7 +733,6 @@ author = "chengjun"
 
   14402018-11-16[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i2.hdslb.com/bfs/archive/d662f09268da9d0aec13b675b5c0eee882e036c6.jpg@640w_400h_1c.webp)
 
   01:49:08
 
@@ -813,7 +744,6 @@ author = "chengjun"
 
   13702018-11-15[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i0.hdslb.com/bfs/archive/0a9038236d942e495a32f1929e8c243bfd1e6cce.jpg@640w_400h_1c.webp)
 
   01:27:15
 
@@ -825,7 +755,6 @@ author = "chengjun"
 
   35602018-11-15[集智俱乐部](https://space.bilibili.com/233204821?from=search&seid=8495624073082600239)
 
-- ![img](https://i0.hdslb.com/bfs/archive/31ab4c9a3cb6509360bab405bc0aa0e7d61d9870.jpg@640w_400h_1c.webp)
 
   39:37
 
