@@ -47,7 +47,7 @@ paginate = 20
     
 [[menu.main]]
     name = "Forum"
-    url  = "/handbook/"
+    url  = "/forum/"
     weight = 5
 
 [[menu.main]]
