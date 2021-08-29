@@ -36,7 +36,7 @@
                         </div>
 
                         <div class="content">
-                            <h4><a href="{{ .Permalink }}">{{ .Title | truncatewords: 20}}</a></h4>
+                            <h4><a href="{{ .Permalink }}">{{ .Title | truncate 20}}</a></h4>
                             <p class="author-category">
 			    {{ if isset .Params "authors" }}
 			      {{ i18n "authorBy" }} {{ range $index, $author := .Params.authors }}{{ if $index }}, {{ end }}<a href="{{ (printf "%s/%s" ("authors" | relURL) ($author | urlize)) }}">{{ $author }}</a>{{ end }}
