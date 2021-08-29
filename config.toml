@@ -3,7 +3,7 @@ title = "Computational Communication Collaboratroy"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 hasCJKLanguage=true
-summaryLength= 70
+summaryLength= 35
 relativeURLs = true
 canonifyURLs=true
 
