@@ -7,9 +7,9 @@ banner = "img/banners/banner-5.jpg"
 author = "chengjun"
 +++
 
-It is our great pleasure to open the **Gutenberg Fiction Dataset**. You can get the dataset by participating the [2021 Chinese Contest of Digital Humanities](https://www.heywhale.com/org/art_nju/competition/area/612a4eff39efe300170cdaf2/content/2). Learn more about this dataset from its [Github repository](https://github.com/socrateslab/gutenberg-story).
+> It is our great pleasure to open the **Gutenberg Fiction Dataset**. You can get the dataset by participating the [2021 Chinese Contest of Digital Humanities](https://www.heywhale.com/org/art_nju/competition/area/612a4eff39efe300170cdaf2/content/2). Learn more about this dataset from its [Github repository](https://github.com/socrateslab/gutenberg-story).
 
-![]("img/banners/banner-5.jpg")
+![]("/img/banners/banner-5.jpg")
 
 # 识别故事中隐藏的社会偏见
 
