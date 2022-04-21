@@ -1,2 +1,3 @@
 # lab-hugo-source
-source code of the center
+
+https://github.com/devcows/hugo-universal-theme
