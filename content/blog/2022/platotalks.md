@@ -3,7 +3,7 @@ title= "柏拉图说 PlatoTalks 第一期组会活动"
 date = "2022-04-20T13:07:31+02:00"
 tags = ["论文"]
 categories = ["组会"]
-banner = "img/banners/banner-6.jpg"
+banner = "img/banners/banner-8.jpg"
 author = "chengjun"
 +++
 
