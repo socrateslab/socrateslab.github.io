@@ -45,6 +45,6 @@ author = "chengjun"
 
 > Zhang Y., Feng M., Shang K.K. *, Ran Y., Wang C.J. * (2022) Peeking strategy for Online News Diffusion Prediction via Machine Learning. Physica A: Statistical Mechanics and its Applications.598:127357. http://dx.doi.org/10.1016/j.physa.2022.127357 
 
-本研究使用的数据来自于Vosoughi等人的研究The spread of true and false news online（https://www.science.org/doi/abs/10.1126/science.aap9559），数据的使用需要提交申请；所有绘图代码见：https://github.com/yaotianzhang/Peeking-Strategy。
+本研究使用的数据来自于Vosoughi等人的研究The spread of true and false news online（[https://www.science.org/doi/abs/10.1126/science.aap9559](https://www.science.org/doi/abs/10.1126/science.aap9559)），数据的使用需要提交申请；所有绘图代码见：[https://github.com/yaotianzhang/Peeking-Strategy](https://github.com/yaotianzhang/Peeking-Strategy)。
 
 
