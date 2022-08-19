@@ -7,7 +7,7 @@ banner = "img/banners/banner-11.jpg"
 author = "chengjun"
 +++
 
-![image](https://user-images.githubusercontent.com/543384/185629911-d3511ff8-09e0-4136-b60d-678fae2d6b40.png)
+![image](https://user-images.githubusercontent.com/543384/185631250-ec7dd614-6dda-49f9-bdeb-f28df09a2eab.png)
 
 
 > 王成军（2022）《跨越网络的门槛：社交媒体上的信息扩散》（即将出版）. 北京：科学出版社.
@@ -41,21 +41,21 @@ author = "chengjun"
 ### Slides
 下载链接: https://pan.baidu.com/s/1FmQK3w2hzT9yhfVJ14RjeQ 提取码: 2nks
 
-## Video
+### Video
 https://campus.swarma.org/course/4700
 
-## Github
+### Github
 https://github.com/chengjun/thresholdbook
 
-## Douban
+### Douban
 
 https://book.douban.com/subject/36017047/
 
-## Afterwords
+### Afterwords
 
 https://www.douban.com/group/topic/272005231/
 
-## References
+### References
 https://www.zotero.org/wangchj2020/collections/AEYS2R5X
 
 ![](https://user-images.githubusercontent.com/543384/178952701-6e595809-3059-41d4-9d88-356a9b339445.png)
