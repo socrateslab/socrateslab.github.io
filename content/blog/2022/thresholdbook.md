@@ -7,8 +7,7 @@ banner = "img/banners/banner-11.jpg"
 author = "chengjun"
 +++
 
-
-<img width="508" alt="thresholdbook" src="https://user-images.githubusercontent.com/543384/182100753-38f36b90-8ec8-40b8-9b42-07adbe382ab8.png">
+![](https://user-images.githubusercontent.com/543384/182100753-38f36b90-8ec8-40b8-9b42-07adbe382ab8.png)
 
 
 
