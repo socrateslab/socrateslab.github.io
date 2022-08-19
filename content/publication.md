@@ -45,7 +45,7 @@ keywords = ["SSCI","SCI","CSSCI","Conference"]
 - Lingfei Wu, Jiang Zhang, Marco Janssen, Cheng-Jun Wang, Min Zhao (2014). Attention Balls. The 6th International Conference on Social Informatics. Barcelona, 10-13 November 2014.
 
 # Book
-
+- 王成军（2022）《跨越网络的门槛：社交媒体上的信息扩散》. 北京：科学出版社.
 - 张伦、**王成军**、许小可（2018）《计算传播学导论》. 北京：北京师范大学出版社.
 - 许小可、胡海波、张伦、**王成军** （2015）社交网络上的计算传播学. 北京：中国科学出版社.
 
