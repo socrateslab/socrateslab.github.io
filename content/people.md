@@ -12,7 +12,8 @@ keywords = ["SSCI","SCI","CSSCI","Conference"]
 - [王成军](http://chengjunwang.com/)，实验中心主任，副教授，南京大学新闻传播学院
 - [尚可可](https://kekeshang.github.io/)，副教授，南京大学新闻传播学院
 - 马志浩，助理研究员，南京大学新闻传播学院
-- 周奕欣，助理研究员，南京大学新闻传播学院
+- [周奕欣](https://zhouyixin.xyz/)，助理研究员，南京大学新闻传播学院
+- [陈志聪](https://zhicongchen.github.io/)，助理研究员，南京大学新闻传播学院
 
 ### 隶属成员
 
