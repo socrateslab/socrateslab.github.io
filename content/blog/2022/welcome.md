@@ -19,7 +19,7 @@ Yan Lihan: https://yan-lihan.github.io/
 
 Master students:
 
-![-121x169](https://user-images.githubusercontent.com/13479560/189923094-adb8c596-aaf5-4468-9c7d-d85a2e02bb4b.png)
+![-1256x1760](https://user-images.githubusercontent.com/13479560/189924702-e4651d80-1998-4ac3-bdf9-dcabf23aa866.jpg)
 
 Sun Yixiao: https://sun-yixiao.github.io
 
