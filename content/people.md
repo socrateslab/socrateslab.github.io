@@ -7,36 +7,32 @@ keywords = ["SSCI","SCI","CSSCI","Conference"]
 ![](/img/carousel/dj.png)
 
 
-### 现任成员
+### Current Members
 
-- [王成军](http://chengjunwang.com/)，实验中心主任，副教授，南京大学新闻传播学院
-- [尚可可](https://kekeshang.github.io/)，副教授，南京大学新闻传播学院
-- 马志浩，助理研究员，南京大学新闻传播学院
-- [周奕欣](https://zhouyixin.xyz/)，助理研究员，南京大学新闻传播学院
-- [陈志聪](https://zhicongchen.github.io/)，助理研究员，南京大学新闻传播学院
+- [Cheng-Jun Wang](http://chengjunwang.com/), Director, Associate Professor, School of Journalism and Communication, Nanjing University
+- [Ke-Ke Shang](https://kekeshang.github.io/), Associate Professor, School of Journalism and Communication, Nanjing University
+- [Zhihao Ma](https://scholar.google.com/citations?user=qscxWlUAAAAJ&hl=en), Assistant Research Fellow, School of Journalism and Communication, Nanjing University
+- [Yi-Xin Zhou](https://zhouyixin.xyz/), Assistant Research Fellow, School of Journalism and Communication, Nanjing University
+- [Zhicong Chen](https://zhicongchen.github.io/), Assistant Research Fellow, School of Journalism and Communication, Nanjing University
 
-### 隶属成员
+### Graduates
 
-- 巢乃鹏，教授，南京大学新闻传播学院
-- 吴令飞，兼职研究员，芝加哥大学计算所知识实验室
-- 党明辉，高级工程师，西北大学新闻传播学院
+- Wei Zhou, Master Student (Class 2017), School of Journalism and Communication, Nanjing University
+- Qiang Qin, Master Student (Class 2018), School of Journalism and Communication, Nanjing University
+- [Zhicong Chen](https://zhicongchen.github.io/), Master Student (Class 2018), School of Journalism and Communication, Nanjing University
+- [Xiaoyu Zhang](https://mysticazhang.github.io/), Master Student (Class 2019), School of Journalism and Communication, Nanjing University
+- [Tiewei Li](https://tieweill.github.io/), Master Student (Class 2021), School of Journalism and Communication, Nanjing University
+- [Huimin Xu](http://xuhuimin2017.github.io/), Master Student (Class 2021), School of Journalism and Communication, Nanjing University
 
-### 毕业生
+### Past Members
 
-- [李铁薇](https://tieweill.github.io/)，学生研究员，南京大学新闻传播学院
-- [徐绘敏](http://xuhuimin2017.github.io)，学生研究员，南京大学新闻传播学院
-- [陈志聪](https://zhicongchen.github.io/)，学生研究员，南京大学新闻传播学院
-- [张晓雨](https://mysticazhang.github.io/)，学生研究员，南京大学新闻传播学院
-- 秦强，学生研究员，南京大学新闻传播学院
-- 周纬， 学生研究员， 南京大学新闻传播学院
+- Jiaojiao Ji, Assistant Research Fellow, School of Journalism and Communication, Nanjing University
+- Lei Liu, Research Assistant, School of Software, Nanjing University
+- Jingyi Zhu, Research Assistant, School of Software, Nanjing University
 
-### 往期成员
+### Academic Committee
 
-- 纪娇娇，助理研究员，南京大学新闻传播学院
-- 刘磊， 学生研究员， 南京大学软件学院
-- 朱静怡， 学生研究员，南京大学软件学院
-
-### 学术委员会
-
-- 学术委员会主席：**祝建华**，计算社会科学**讲座教授**，香港城市大学。
-
+- Chair: **Jonathan J. H. Zhu**, **Chair Professor** of Computational Social Science, City University of Hong Kong
+- Members:
+   - Naipeng Chao, Professor, Shenzhen University
+   - Lingfei Wu, Assistant Professor, University of Pittsburgh
