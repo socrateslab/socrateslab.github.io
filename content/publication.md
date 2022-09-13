@@ -8,7 +8,17 @@ keywords = ["SSCI","SCI","CSSCI","Conference"]
 
 # Journal Articles
 ## 英文论文
-- Wang, C.J. * , Zhu, J.J.H.(2019) Jumping onto the Bandwagon of Collective Gatekeepers: Testing the Bandwagon Effect of Information Diffusion on Social News Website, Telematics and Informatics. 41:34-45, doi:10.1016/j.tele.2019.03.001
+- Zhou, Y., Zhu, J. J. H. (2022). The Impact of Digital Media on Daily Rhythms: Intrapersonal Diversification and Interpersonal Differentiation. *International Journal of Communication*.
+- Hou, L., Guan, L; Zhou, Y., Shen, A., Wang, W., Luo, A., Lu, H., Zhu, J,  J, H. (2022). Staying, Switching, and Multiplatforming of User-Generated Content Activities: A 12-Year Panel Study. *Internet Research*
+- Zhang Y., Feng M., Shang K.K.*, Ran Y., Wang C.J.* (2022) Peeking strategy for Online News Diffusion Prediction via Machine Learning. Physica A: Statistical Mechanics and its Applications.598:127357. doi: 10.1016/j.physa.2022.127357.
+- Zhicong Chen, Eric Jardine, Xiao-Fan Liu, Jonathan J. H. Zhu. (2022) Seeking Anonymity on the Internet: The Knowledge Accumulation Process and Global Usage of the Tor Network. New Media & Society. https://doi.org/10.1177/14614448211072201 
+- Zhou, Y., Zhu, J. J. H. (2022). How online health groups help you lose weight: The role of group composition and social contact. *Digital Health*.
+- Wang C.J. * , Zhu, J.J.H.(2021) Jumping over the Network Threshold of Information Diffusion: Testing the Threshold Hypothesis of Social Influence. Internet Research. 31(5):1677-1694 doi:10.1108/INTR-08-2019-0313
+- Yan X.F., Wang C.J.* (2021) With Greater Popularity Comes Less Responsibility: The Popularity Fallacy of Big Vs' Public Participation on Sina Weibo. Chinese Journal of Communication. 14(4):430-450. doi:10.1080/17544750.2021.1915833
+- Wen N, Chao N *, Wang C.J. (2021) Predicting the Intention of Sustainable Commuting among Chinese Commuters: The Role of Media and Morality, Environmental Communication. 15(3):401-417 doi: 10.1080/17524032.2020.1855222
+- Meng F., Sun H., Xie J., Wang C.J., Wu, J., Hu Y.* (2021) Preference for Number of Friends in Online Social Networks. Future Internet. 13(9): 236. doi:10.3390/fi13090236.
+- Xu H, Zhang Z, Wu L*, Wang C.J.* (2019) The Cinderella Complex: Word embeddings reveal gender stereotypes in movies and books. PLoS ONE. 14(11): e0225385. doi:10.1371/journal.pone.0225385
+- Wang, C.J.* , Zhu, J.J.H.(2019) Jumping onto the Bandwagon of Collective Gatekeepers: Testing the Bandwagon Effect of Information Diffusion on Social News Website, Telematics and Informatics. 41:34-45, doi:10.1016/j.tele.2019.03.001
 - Ji, J. , Barnett, G. A., & Chu, J. (2019). Global networks of genetically modified crops technology: a patent citation network analysis. Scientometrics, 118(3), 737–762. https://doi.org/10.1007/s11192-019-03006-1[SSCI]  
 - Ji, J. , Chao, N., & Ding, J. (2019). Rumormongering of Genetically Modified (GM) Food on Chinese Social Network. Telematics and Informatics, 37, 1–12. https://doi.org/10.1016/j.tele.2019.01.005  [SSCI]  
 - MA Z, XIA Y, LIN Z. Curvilinear Relationship Between Disaster Exposure and Psychological Growth:10 Years After the Wenchuan Earthquake[J]. Psychiatry Research, 2019, 274(132): 280–286.   
@@ -38,8 +48,8 @@ keywords = ["SSCI","SCI","CSSCI","Conference"]
 - 王成军（2015）“今日头条”的技术逻辑：网络爬虫+矩阵筛选.传媒评论,10: 34-37
 
 # Conference Paper
-- Zhi-Cong Chen, Lingfei Wu, Naipeng Chao, Cheng-Jun Wang * (2018) The Poor Read for Entertainment and the Rich Read for Education: Poverty, Fragmentation, and Knowledge Homogeneity. Poster to be presented at The 4th Annual International Conference on Computational Social Science (ic2s2), July 12–15, 2018. Evanston, Illinois, United States.
-- Hui-Min Xu, Zhi-Cong Chen, Cheng-Jun Wang * (2018) Social Classes Shapes Our Trajectories in Both Online and Offline Space. Paper To be presented at The 4th Annual International Conference on Computational Social Science (ic2s2), July 12–15, 2018. Evanston, Illinois, United States.
+- Zhicong Chen, Lingfei Wu, Naipeng Chao, Cheng-Jun Wang * (2018) The Poor Read for Entertainment and the Rich Read for Education: Poverty, Fragmentation, and Knowledge Homogeneity. Poster to be presented at The 4th Annual International Conference on Computational Social Science (ic2s2), July 12–15, 2018. Evanston, Illinois, United States.
+- Huimin Xu, Zhicong Chen, Cheng-Jun Wang * (2018) Social Classes Shapes Our Trajectories in Both Online and Offline Space. Paper To be presented at The 4th Annual International Conference on Computational Social Science (ic2s2), July 12–15, 2018. Evanston, Illinois, United States.
 - Wang, C.J. (2015). Information diffusion on Microblogs: Testing the threshold hypothesis of interpersonal effects. Conference on Complex System (CCS’15), Tempe, Arizona, USA. Sep 28-Oct 2
 - Wang, C.J., Chen, H.X., Zhang, X.(2015) The Landscape of Information Diffusion on Sina Weibo: Investigating the Rich-Club Effect. Paper to be presented to the 65th Annual Conference of International Communication Association (ICA), San Juan, Puerto Rico, 21-25 May 2015.
 - Lingfei Wu, Jiang Zhang, Marco Janssen, Cheng-Jun Wang, Min Zhao (2014). Attention Balls. The 6th International Conference on Social Informatics. Barcelona, 10-13 November 2014.
