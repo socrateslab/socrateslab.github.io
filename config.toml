@@ -114,7 +114,7 @@ paginate = 20
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "computational.communication@gmail.com"
+    # email = "computational.communication@gmail.com"
 
     about_us = "<p>Computational Communication Collaboratory (CCC, C-Cube, or C3) was established in February 2015 by the School of Journalism and Communication, Nanjing University.</p>"
     copyright = "Copyright (c) 2015-now, Computational Communication Collaboratory, All rights reserved."
@@ -153,8 +153,8 @@ paginate = 20
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
-    categories = true
-    tags = true
+    categories = false
+    tags = false
     search = true
 
 [params.carousel]
