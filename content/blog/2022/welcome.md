@@ -1,7 +1,7 @@
 +++
 title= "Welcome New Research Students"
 date = "2022-09-12T13:07:31+02:00"
-banner = "img/banners/banner-10.jpg"
+banner = "img/banners/banner-12.jpg"
 author = "zhicong"
 +++
 
