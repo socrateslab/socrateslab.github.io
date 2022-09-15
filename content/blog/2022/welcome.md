@@ -23,5 +23,7 @@ Master students:
 
 Sun Yixiao: https://sun-yixiao.github.io
 
+![IMG_2229](https://user-images.githubusercontent.com/13479560/190349040-a843d857-9b64-4a0d-bb5a-c2af666e6771.JPG)
+
 Fei Yunjie: https://yunjiefei.github.io
 
