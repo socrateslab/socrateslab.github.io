@@ -5,19 +5,14 @@ keywords = ["Tycho Reading Club", "Courses"]
 +++
 
 
-![](https://raw.githubusercontent.com/chengjun/chengjun/main/tt.gif)
-
-> Education is not the filling of a pail, but the lighting of a fire 🔥
-
-![](https://raw.githubusercontent.com/SocratesAcademy/css/master/assets/torch.gif)
+<!-- ![](https://raw.githubusercontent.com/chengjun/chengjun/main/tt.gif) -->
 
 ## Courses
 
-![image](https://user-images.githubusercontent.com/543384/130743455-4a21f129-20b3-4fca-847e-aabf7a366f56.png)
-
-The first textbook for computational communication research (in Chinese)
+<!-- ![image](https://user-images.githubusercontent.com/543384/130743455-4a21f129-20b3-4fca-847e-aabf7a366f56.png) -->
 
 张伦, 王成军, 许小可 2018 《计算传播学导论》北京师范大学出版社
+- The very first textbook for computational communication research (in Chinese)
 
 Courses at Nanjing University
 - Undergraduate Course [Computational Social Science](https://github.com/SocratesAcademy/css/) (2020-Now)
@@ -29,7 +24,7 @@ Python codes and PPT: https://github.com/SocratesAcademy/ccrbook
 
 ## Lecture Notes
 
-![image](https://user-images.githubusercontent.com/543384/130742980-f3ccd04c-bc46-4a24-b43d-c45af1eadd81.png)
+<!-- ![image](https://user-images.githubusercontent.com/543384/130742980-f3ccd04c-bc46-4a24-b43d-c45af1eadd81.png) -->
 
 Elements of Computational Communication Powered by Jupyter Book
 
@@ -37,7 +32,7 @@ Elements of Computational Communication Powered by Jupyter Book
 
 ## Tycho Journal Club
 
-![image](https://user-images.githubusercontent.com/543384/130742346-7d437402-0122-49c9-a991-c2747d5c4580.png)
+<!-- ![image](https://user-images.githubusercontent.com/543384/130742346-7d437402-0122-49c9-a991-c2747d5c4580.png) -->
 
 Tycho Journal Club is a weekly activity initiated by members of Computational Communication Collaboratory, Nanjing University in September 2018. We read cutting-edge research papers and promote the collision of ideas through the interaction and communication of members, so as to obtain new research inspiration and breed new scientific research ideas.
 
@@ -48,3 +43,7 @@ https://www.douban.com/group/webmining/
 ## Podcast (in Chinese)
 
 https://www.ximalaya.com/zhubo/180153441
+
+![](https://raw.githubusercontent.com/SocratesAcademy/css/master/assets/torch.gif)
+
+> Education is not the filling of a pail, but the lighting of a fire 🔥
