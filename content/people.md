@@ -4,8 +4,6 @@ description = "People"
 keywords = ["SSCI","SCI","CSSCI","Conference"]
 +++
 
-![](/img/carousel/dj.png)
-
 ### Current Researchers
 
 - [Cheng-Jun Wang](http://chengjunwang.com/), Director, Associate Professor
@@ -47,7 +45,7 @@ keywords = ["SSCI","SCI","CSSCI","Conference"]
 - Lei Liu, Research Assistant (2015-2016), School of Software, Nanjing University
 - Jingyi Zhu, Research Assistant (2015-2016), School of Software, Nanjing University
 
-
+![](/img/carousel/dj.png)
 
 
 
