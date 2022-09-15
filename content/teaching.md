@@ -4,15 +4,11 @@ description = "Teaching"
 keywords = ["Tycho Reading Club", "Courses"]
 +++
 
-
 <!-- ![](https://raw.githubusercontent.com/chengjun/chengjun/main/tt.gif) -->
 
 ## Courses
 
 <!-- ![image](https://user-images.githubusercontent.com/543384/130743455-4a21f129-20b3-4fca-847e-aabf7a366f56.png) -->
-
-张伦, 王成军, 许小可 2018 《计算传播学导论》北京师范大学出版社
-- The very first textbook for computational communication research (in Chinese)
 
 Courses at Nanjing University
 - Undergraduate Course [Computational Social Science](https://github.com/SocratesAcademy/css/) (2020-Now)
@@ -20,7 +16,9 @@ Courses at Nanjing University
 - Undergraduate Course [Data Journalism](https://github.com/data-journalism/data-journalism.github.io/discussions) (2015-Now)
 - Undergraduate Course [Python Programming Basics For Data Science](https://github.com/socratesacademy/datascience/) (2017-2019)
 
-Python codes and PPT: https://github.com/SocratesAcademy/ccrbook
+The very first textbook for computational communication research (in Chinese)
+- 张伦, 王成军, 许小可 2018 《计算传播学导论》北京师范大学出版社
+- Python codes and PPT: https://github.com/SocratesAcademy/ccrbook
 
 ## Lecture Notes
 
