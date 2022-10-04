@@ -33,7 +33,7 @@ keywords = ["SSCI","SCI","CSSCI","Conference"]
 
 ### Alumni
 - [Jiaojiao Ji](https://www.researchgate.net/profile/Jiaojiao-Ji), Assistant Research Fellow (2017-2020), now: Research Fellow at University of Science and Technology of China
-- Gongjing Luu, Master Student (2019-2022), now: Data Analyst at Huya
+- Gongjing Lu, Master Student (2019-2022), now: Data Analyst at Huya
 - Linyan Lu, Master Student (2019-2022), now: Product Manager at Aliyun
 - Yuanyuan Li, Master Student (2019-2022)
 - [Huimin Xu](http://xuhuimin2017.github.io/), Master Student (2018-2021), now: Ph.D. student in Information Science at University of Texas at Austin 
