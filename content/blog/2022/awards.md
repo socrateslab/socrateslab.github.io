@@ -1,6 +1,6 @@
 +++
 title= "Lab Students Won Highly-Competitive Awards"
-date = "2022-10-19"
+date = "2022-10-18"
 banner = "img/banners/banner-13.jpg"
 author = "zhicong"
 +++
