@@ -126,7 +126,7 @@ description = "People"
     </td>
     <td style="text-align: center; vertical-align: middle; padding:10px">
         <div>
-            <img src="https://18005176298.github.io/assets/images/c2cf716f-4015-4bed-b1fb-cc3e48e6f9b6-1646x602.jpg" width = 100px height = 100px><br>
+            <img src="https://user-images.githubusercontent.com/13479560/199470472-63395efc-23d3-4a8d-ad1b-57301201145b.jpg" width = 100px height = 100px><br>
             <a href="https://18005176298.github.io/">Yu Zhou</a><br>
             (2020 - )
         </div>
