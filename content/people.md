@@ -1,10 +1,9 @@
 +++
 title = "People"
 description = "People"
-<!-- keywords = ["SSCI","SCI","CSSCI","Conference"] -->
 +++
 
-### Current Researchers
+### Faculty Members
 
 <table>
   <tr>
