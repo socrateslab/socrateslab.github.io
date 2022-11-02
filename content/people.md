@@ -5,13 +5,13 @@ description = "People"
 
 ### Faculty Members
 
-<table>
+<table style="table-layout: auto">
   <tr>
-    <td style="text-align: center; vertical-align: middle; padding: 10px"><img src="" width = 200px height = 200px></td>
-    <td style="text-align: center; vertical-align: middle; padding: 10px"><img src="" width = 200px height = 200px></td>
-    <td style="text-align: center; vertical-align: middle; padding: 10px"><img src="" width = 200px height = 200px></td>
-    <td style="text-align: center; vertical-align: middle; padding: 10px"><img src="" width = 200px height = 200px></td>
-    <td style="text-align: center; vertical-align: middle; padding: 10px"><img src="" width = 200px height = 200px></td>
+    <td style="text-align: center; vertical-align: middle"><img src="https://chengjun.github.io/authors/admin/avatar_hucdc0c36df1d51621c381efb87a23e0c7_43703_270x270_fill_q75_lanczos_center.jpg" width = 200px height = 200px></td>
+    <td style="text-align: center; vertical-align: middle"><img src="" width = 100px height = 100px></td>
+    <td style="text-align: center; vertical-align: middle"><img src="" width = 100px height = 100px></td>
+    <td style="text-align: center; vertical-align: middle"><img src="" width = 100px height = 100px></td>
+    <td style="text-align: center; vertical-align: middle"><img src="https://zhicongchen.github.io/images/czc.png" width = 100px height = 100px></td>
   </tr>
   <tr>
     <td style="text-align: center; vertical-align: middle"><a href="http://chengjunwang.com/">Cheng-Jun Wang</a><br>Associate Professor</td>
@@ -53,24 +53,24 @@ description = "People"
 
 <table>
    <tr>
-    <td style="text-align: center; vertical-align: middle; padding: 10px"><img src="" width = 200px height = 200px></td>
-    <td style="text-align: center; vertical-align: middle; padding: 10px"><img src="" width = 200px height = 200px></td>
+    <td style="text-align: center; vertical-align: middle; padding: 10px"><img src="https://user-images.githubusercontent.com/13479560/199432377-9a4467cb-7ff2-4113-b652-bd7cd8a445d0.jpg" width = 100px height = 100px></td>
+    <td style="text-align: center; vertical-align: middle; padding: 10px"><img src="https://user-images.githubusercontent.com/13479560/199432347-13e36927-8433-4a18-98b3-09d38d4d81a1.jpg" width = 100px height = 100px></td>
   </tr>  
   <tr>
     <td style="text-align: center; vertical-align: middle"><a href="https://sun-yixiao.github.io/">Yixiao Sun</a><br>(2022 - ) </td>
     <td style="text-align: center; vertical-align: middle"><a href="https://yunjiefei.github.io">Yunjie Fei</a><br>(2022 - ) </td>
   </tr> 
    <tr>
-    <td style="text-align: center; vertical-align: middle; padding: 10px"><img src="" width = 200px height = 200px></td>
+    <td style="text-align: center; vertical-align: middle; padding: 10px"><img src="https://user-images.githubusercontent.com/13479560/199432362-c01bec2c-b86c-4bd0-9635-21a34e6cec0c.jpg" width = 100px height = 100px></td>
   </tr>  
   <tr>
     <td style="text-align: center; vertical-align: middle"><a href="https://alexandrajiang.github.io/">Xinya Jiang</a><br>(2021 - ) </td>
   </tr> 
   <tr>
-    <td style="text-align: center; vertical-align: middle; padding: 10px"><img src="https://user-images.githubusercontent.com/13479560/199375692-6f002149-9cf5-46b0-b266-340f6adeb5c9.jpg" width = 200px height = 200px></td>
-    <td style="text-align: center; vertical-align: middle; padding: 10px"><img src="https://user-images.githubusercontent.com/13479560/199377889-f621221c-dbeb-408e-b145-ef58efa72d7f.png" width = 200px height = 200px></td>
-    <td style="text-align: center; vertical-align: middle; padding: 10px"><img src="" width = 200px height = 200px></td>
-    <td style="text-align: center; vertical-align: middle; padding: 10px"><img src="" width = 200px height = 200px></td>
+    <td style="text-align: center; vertical-align: middle; padding: 10px"><img src="https://user-images.githubusercontent.com/13479560/199375692-6f002149-9cf5-46b0-b266-340f6adeb5c9.jpg" width = 100px height = 100px></td>
+    <td style="text-align: center; vertical-align: middle; padding: 10px"><img src="https://user-images.githubusercontent.com/13479560/199377889-f621221c-dbeb-408e-b145-ef58efa72d7f.png" width = 100px height = 100px></td>
+    <td style="text-align: center; vertical-align: middle; padding: 10px"><img src="" width = 100px height = 100px></td>
+    <td style="text-align: center; vertical-align: middle; padding: 10px"><img src="" width = 100px height = 100px></td>
   </tr>  
   <tr>
       <td style="text-align: center; vertical-align: middle"><a href="https://yaotianzhang.github.io/">Yaotian Zhang</a><br>(2020 - ) </td>
