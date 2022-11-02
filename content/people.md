@@ -15,11 +15,11 @@ description = "People"
     <td style="text-align: center; vertical-align: middle; padding: 10px"><img src="" width = 200px height = 200px></td>
   </tr>
   <tr>
-    <td style="text-align: center; vertical-align: middle"><a href="http://chengjunwang.com/">Cheng-Jun Wang</a></td>
-    <td style="text-align: center; vertical-align: middle"><a href="https://kekeshang.github.io/">Ke-Ke Shang</a></td>
-    <td style="text-align: center; vertical-align: middle"><a href="https://scholar.google.com/citations?user=qscxWlUAAAAJ&hl=en">Zhihao Ma</a></td>
-    <td style="text-align: center; vertical-align: middle"><a href="https://zhouyixin.xyz/">Yixin Zhou</a></td>
-    <td style="text-align: center; vertical-align: middle"><a href="https://zhicongchen.github.io/">Zhicong Chen</a></td>
+    <td style="text-align: center; vertical-align: middle"><a href="http://chengjunwang.com/">Cheng-Jun Wang</a><br>Associate Professor</td>
+    <td style="text-align: center; vertical-align: middle"><a href="https://kekeshang.github.io/">Ke-Ke Shang</a><br>Associate Professor</td>
+    <td style="text-align: center; vertical-align: middle"><a href="https://scholar.google.com/citations?user=qscxWlUAAAAJ&amp;hl=en">Zhihao Ma</a><br>Assistant Research Fellow</td>
+    <td style="text-align: center; vertical-align: middle"><a href="https://zhouyixin.xyz/">Yixin Zhou</a><br>Assistant Research Fellow</td>
+    <td style="text-align: center; vertical-align: middle"><a href="https://zhicongchen.github.io/">Zhicong Chen</a><br>Assistant Research Fellow</td>
   </tr>  
 </table>
 
@@ -39,8 +39,8 @@ description = "People"
     <td style="text-align: center; vertical-align: middle; padding: 10px"><img src="https://user-images.githubusercontent.com/13479560/199376455-10d0082f-fec2-44a0-853f-20d637194473.jpg" width = 200px height = 200px></td>
   </tr>
   <tr>
-      <td style="text-align: center; vertical-align: middle"><a href="https://xuefei-yan.github.io/">Xuefei Yan</a> (2022 - ) </td>
-      <td style="text-align: center; vertical-align: middle"><a href="https://yan-lihan.github.io/">Lihan Yan</a> (2022 - ) </td>
+      <td style="text-align: center; vertical-align: middle"><a href="https://xuefei-yan.github.io/">Xuefei Yan</a><br>(2022 - ) </td>
+      <td style="text-align: center; vertical-align: middle"><a href="https://yan-lihan.github.io/">Lihan Yan</a><br>(2022 - ) </td>
   </tr>  
 </table>
 
@@ -58,14 +58,14 @@ description = "People"
     <td style="text-align: center; vertical-align: middle; padding: 10px"><img src="" width = 200px height = 200px></td>
   </tr>  
   <tr>
-    <td style="text-align: center; vertical-align: middle"><a href="https://sun-yixiao.github.io/">Yixiao Sun</a> (2022 - ) </td>
-    <td style="text-align: center; vertical-align: middle"><a href="https://yunjiefei.github.io">Yunjie Fei</a> (2022 - ) </td>
+    <td style="text-align: center; vertical-align: middle"><a href="https://sun-yixiao.github.io/">Yixiao Sun</a><br>(2022 - ) </td>
+    <td style="text-align: center; vertical-align: middle"><a href="https://yunjiefei.github.io">Yunjie Fei</a><br>(2022 - ) </td>
   </tr> 
    <tr>
     <td style="text-align: center; vertical-align: middle; padding: 10px"><img src="" width = 200px height = 200px></td>
   </tr>  
   <tr>
-      <td style="text-align: center; vertical-align: middle"><a href="https://alexandrajiang.github.io/">Xinya Jiang</a> (2021 - ) </td>
+    <td style="text-align: center; vertical-align: middle"><a href="https://alexandrajiang.github.io/">Xinya Jiang</a><br>(2021 - ) </td>
   </tr> 
   <tr>
     <td style="text-align: center; vertical-align: middle; padding: 10px"><img src="https://user-images.githubusercontent.com/13479560/199375692-6f002149-9cf5-46b0-b266-340f6adeb5c9.jpg" width = 200px height = 200px></td>
@@ -74,10 +74,10 @@ description = "People"
     <td style="text-align: center; vertical-align: middle; padding: 10px"><img src="" width = 200px height = 200px></td>
   </tr>  
   <tr>
-      <td style="text-align: center; vertical-align: middle"><a href="https://yaotianzhang.github.io/">Yaotian Zhang</a> (2020 - ) </td>
-      <td style="text-align: center; vertical-align: middle"><a href="https://liyuduan817.github.io/">Yuduan Li</a> (2020 - ) </td>
-      <td style="text-align: center; vertical-align: middle"><a href="https://18005176298.github.io/">Yu Zhou</a> (2020 - ) </td>
-      <td style="text-align: center; vertical-align: middle"><a href="https://pennygou.github.io/">Zepeng Gou</a> (2020 - ) </td>
+      <td style="text-align: center; vertical-align: middle"><a href="https://yaotianzhang.github.io/">Yaotian Zhang</a><br>(2020 - ) </td>
+      <td style="text-align: center; vertical-align: middle"><a href="https://liyuduan817.github.io/">Yuduan Li</a><br>(2020 - ) </td>
+      <td style="text-align: center; vertical-align: middle"><a href="https://18005176298.github.io/">Yu Zhou</a><br>(2020 - ) </td>
+      <td style="text-align: center; vertical-align: middle"><a href="https://pennygou.github.io/">Zepeng Gou</a><br>(2020 - ) </td>
   </tr>  
 </table>
 
