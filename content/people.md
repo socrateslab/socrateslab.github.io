@@ -5,7 +5,7 @@ description = "People"
 
 ### Faculty Members
 
-<table style="table-layout: auto">
+<table style="table-layout: auto; cellpadding: 10px">
   <tr>
     <td style="text-align: center; vertical-align: middle">
         <div>
@@ -58,7 +58,7 @@ description = "People"
 
 ### Ph.D. Students
 
-<table style="table-layout: auto">
+<table style="table-layout: auto; cellpadding: 10px">
   <tr>
     <td style="text-align: center; vertical-align: middle">
         <div>
@@ -85,7 +85,7 @@ description = "People"
 
 ### Master Students
 
-<table style="table-layout: auto">
+<table style="table-layout: auto; cellpadding: 10px">
   <tr>
     <td style="text-align: center; vertical-align: middle">
         <div>
