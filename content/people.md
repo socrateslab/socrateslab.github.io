@@ -14,9 +14,22 @@ keywords = ["SSCI","SCI","CSSCI","Conference"]
 
 ### Ph.D Students
 
+<!-- 
 | [Xuefei Yan](https://xuefei-yan.github.io/) (2022-) | [Lihan Yan](https://yan-lihan.github.io/) (2022-) |
 |-----|-----|
 | ![1f3fb33dba719da5ed954031d626152](https://user-images.githubusercontent.com/13479560/199376777-c6bcbbcf-fd3e-43ba-b22c-c086a3b0ebf9.jpg) | ![af0db54a7e67e25f3c10b510b8ce624](https://user-images.githubusercontent.com/13479560/199376455-10d0082f-fec2-44a0-853f-20d637194473.jpg) |
+ -->
+
+<table>
+  <tr>
+      <td style="text-align: center; vertical-align: middle"> <a href="https://xuefei-yan.github.io/">Xuefei Yan</a> (2022-) </td>
+      <td style="text-align: center; vertical-align: middle"> <a href="https://yan-lihan.github.io/">Lihan Yan</a> (2022-) </td>
+  </tr>  
+  <tr>
+    <td style="text-align: center; vertical-align: middle"><img src="https://user-images.githubusercontent.com/13479560/199376777-c6bcbbcf-fd3e-43ba-b22c-c086a3b0ebf9.jpg" width = 400px height = 400px></td>
+    <td style="text-align: center; vertical-align: middle"><img src="https://user-images.githubusercontent.com/13479560/199376455-10d0082f-fec2-44a0-853f-20d637194473.jpg" width = 400px height = 400px></td>
+  </tr>  
+</table>
 
 ### Master Students
 
@@ -28,9 +41,28 @@ keywords = ["SSCI","SCI","CSSCI","Conference"]
 |-----|
 | https://alexandrajiang.github.io/ |
 
+<!--
 | [Yaotian Zhang](https://yaotianzhang.github.io/) (2020-) | [Yuduan Li](https://liyuduan817.github.io/) (2020-) | [Yu Zhou](https://18005176298.github.io/) (2020-) | [Zepeng Gou](https://pennygou.github.io/) (2020-) |
 |-----|-----|-----|-----|
 | ![5688cace5bf58fc057dbfc7dad9422c](https://user-images.githubusercontent.com/13479560/199375692-6f002149-9cf5-46b0-b266-340f6adeb5c9.jpg) | ![593eebbdc227b1ebd3d5fb4981dd081](https://user-images.githubusercontent.com/13479560/199377889-f621221c-dbeb-408e-b145-ef58efa72d7f.png) | https://18005176298.github.io/ | https://pennygou.github.io/ |
+-->
+
+<table>
+  <tr>
+      <td style="text-align: center; vertical-align: middle"> <a href="https://yaotianzhang.github.io/">Yaotian Zhang</a> (2020-) </td>
+      <td style="text-align: center; vertical-align: middle"> <a href="https://liyuduan817.github.io/">Yuduan Li</a> (2020-) </td>
+      <td style="text-align: center; vertical-align: middle"> <a href="https://18005176298.github.io/">Yu Zhou</a> (2020-) </td>
+      <td style="text-align: center; vertical-align: middle"> <a href="https://pennygou.github.io/">Zepeng Gou</a> (2020-) </td>
+  </tr>  
+  <tr>
+    <td style="text-align: center; vertical-align: middle"><img src="https://user-images.githubusercontent.com/13479560/199375692-6f002149-9cf5-46b0-b266-340f6adeb5c9.jpg" width = 400px height = 400px></td>
+    <td style="text-align: center; vertical-align: middle"><img src="https://user-images.githubusercontent.com/13479560/199377889-f621221c-dbeb-408e-b145-ef58efa72d7f.png" width = 400px height = 400px></td>
+    <td style="text-align: center; vertical-align: middle"><img src="" width = 400px height = 400px></td>
+    <td style="text-align: center; vertical-align: middle"><img src="" width = 400px height = 400px></td>
+  </tr>  
+</table>
+
+
 
 ### Academic Committee
 
