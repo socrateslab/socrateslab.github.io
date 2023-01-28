@@ -1,7 +1,7 @@
 +++
 title= "Six papers are accepted by ICA 2023"
 date = "2023-01-25T13:07:31+02:00"
-banner = "img/banners/banner-13.jpg"
+banner = "img/banners/banner-14.jpg"
 author = "chengjun"
 +++
 
