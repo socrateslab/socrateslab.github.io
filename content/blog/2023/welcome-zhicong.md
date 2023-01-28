@@ -1,6 +1,6 @@
 +++
 title= "Welcome Zhicong to Join the Lab"
-date = "2023-01-01"
+date = "2023-01-01T13:07:31+02:00"
 banner = "img/banners/banner-15.jpg"
 author = "zhicong"
 +++
