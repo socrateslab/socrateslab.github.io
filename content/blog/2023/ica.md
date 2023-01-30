@@ -6,9 +6,7 @@ author = "chengjun"
 +++
 
 
-The hybrid 73rd Annual ICA Conference will take place both in Toronto, Ontario (Canada) and online, with synchronous sessions that incorporate both audiences. The dates of the conference are from Thursday, 25 May to Monday, 29 May 2023.
-
-We have six papers being acceptecd, among wich five paper are led by students. 
+During 25 May-29 May 2023, the hybrid 73rd Annual ICA Conference will take place both in Toronto, Ontario (Canada) and online, with synchronous sessions that incorporate both audience. We have six papers being acceptecd, among wich five papers are led by students. 
 
 1. Yixiao Sun; Xue-Fei Yan; Yaotian Zhang; Zhicong Chen; Cheng-Jun Wang * (2023) From Imperialism to Cultural Imperialism: Localized Versus Globalized Advertisements of Imported Commodities in China (1932–1937). 
 2. Lihan Yan; Yiwei Ni; Xiangling Tan; Xinya Jiang; Zhicong Chen;Cheng-Jun Wang * (2023) The Narrative Gene of Collective Gatekeeping: Pandemic, Government Regularization, Economic Development, and the Publicness of Weibo Hot Search (2020-2021).
