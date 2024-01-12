@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>腾讯研究院 on Computational Communication Collaboratroy</title><link>https://computational-communication.com/tags/%E8%85%BE%E8%AE%AF%E7%A0%94%E7%A9%B6%E9%99%A2/</link><description>Recent content in 腾讯研究院 on Computational Communication Collaboratroy</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 16 Dec 2018 13:07:31 +0200</lastBuildDate><atom:link href="https://computational-communication.com/tags/%E8%85%BE%E8%AE%AF%E7%A0%94%E7%A9%B6%E9%99%A2/index.xml" rel="self" type="application/rss+xml"/><item><title>2018S-Tech学术支持计划互联网传播学项目公告</title><link>https://computational-communication.com/blog/2018/12/16/20181216-stech/</link><pubDate>Sun, 16 Dec 2018 13:07:31 +0200</pubDate><guid>https://computational-communication.com/blog/2018/12/16/20181216-stech/</guid><description>2018年S-Tech学术支持计划——“腾讯-南京大学-中国新闻史学会</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>腾讯研究院 on Computational Communication Collaboratroy</title>
+    <link>https://computational-communication.com/collaboratory/tags/%E8%85%BE%E8%AE%AF%E7%A0%94%E7%A9%B6%E9%99%A2/</link>
+    <description>Recent content in 腾讯研究院 on Computational Communication Collaboratroy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Dec 2018 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="https://computational-communication.com/collaboratory/tags/%E8%85%BE%E8%AE%AF%E7%A0%94%E7%A9%B6%E9%99%A2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2018S-Tech学术支持计划互联网传播学项目公告</title>
+      <link>https://computational-communication.com/collaboratory/blog/2018/12/16/20181216-stech/</link>
+      <pubDate>Sun, 16 Dec 2018 13:07:31 +0200</pubDate>
+      
+      <guid>https://computational-communication.com/collaboratory/blog/2018/12/16/20181216-stech/</guid>
+      <description>2018年S-Tech学术支持计划——“腾讯-南京大学-中国新闻史学会计算传播学研究委员会互联网传播学项目”自启动以来收到来自新加坡、香港和</description>
+    </item>
+    
+  </channel>
+</rss>
