@@ -1,6 +1,6 @@
 +++
 title= "Lab organizes a work expereince sharing event"
-date = "2024-05-04T13:07:31+02:00"
+date = "2024-05-01T13:07:31+02:00"
 banner = "img/banners/banner-11.jpg"
 author = "chengjun"
 +++
