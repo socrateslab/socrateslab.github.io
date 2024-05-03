@@ -196,7 +196,7 @@ paginate = 20
     icon = "fa fa-file-alt"
     title = "Read More News"
     subtitle = ""
-    link_url = "/blog/"
+    link_url = "/en/blog/"
     link_text = "Check other news."
 
 [markup]
