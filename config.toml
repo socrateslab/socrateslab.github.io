@@ -30,7 +30,7 @@ paginate = 20
 
 [[menu.main]]
     name = "People"
-    url  = "/people/"
+    url  = "/en/people/"
     weight = 2
 
 [[menu.main]]
@@ -42,13 +42,13 @@ paginate = 20
 [[menu.main]]
     name = "PUBLICATION"
     identifier = "Publication"
-    url  = "/publication/"
+    url  = "/en/publication/"
     weight = 4
     
 [[menu.main]]
     name = "TEACHING"
     identifier = "Teaching"
-    url  = "/teaching/"
+    url  = "/en/teaching/"
     weight = 5
     
 [[menu.main]]
