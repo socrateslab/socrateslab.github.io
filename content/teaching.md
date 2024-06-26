@@ -24,7 +24,7 @@ The very first textbook for computational communication research (in Chinese)
 
 <!-- ![image](https://user-images.githubusercontent.com/543384/130742980-f3ccd04c-bc46-4a24-b43d-c45af1eadd81.png) -->
 
-Elements of Computational Communication Powered by Jupyter Book
+Elements of Computational Communication
 
 [https://chengjun.github.io/mybook/](https://chengjun.github.io/mybook/)
 
