@@ -1,4 +1,4 @@
-baseurl = "https://computational-communication.com/"
+baseurl = "https://socrateslab.github.io/"
 title = "Computational Communication Collaboratroy"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
