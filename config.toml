@@ -61,7 +61,10 @@ pagination.pagerSize = 20
     url  = "/contact/"
     weight = 7
 
-
+[[menu.main]]
+    name = "Admin"
+    url  = "https://github.com/socrateslab/socrateslab.github.io/tree/master/content/blog"
+    weight = 8
 
 # Top bar social links menu
 
