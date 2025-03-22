@@ -11,7 +11,7 @@ description = "People"
         <div>
             <img src="https://chengjun.github.io/authors/admin/avatar_hucdc0c36df1d51621c381efb87a23e0c7_43703_270x270_fill_q75_lanczos_center.jpg" width = 100px height = 100px><br>
             <a href="http://chengjunwang.com/">Cheng-Jun Wang</a><br>
-            Associate Professor
+            Professor
         </div>
     </td>
     <td style="text-align: center; vertical-align: middle; padding:10px">
@@ -25,7 +25,7 @@ description = "People"
         <div>
             <img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=qscxWlUAAAAJ&citpid=2" width = 100px height = 100px><br>
             <a href="https://scholar.google.com/citations?user=qscxWlUAAAAJ&amp;hl=en">Zhihao Ma</a><br>
-            Assistant Research Fellow
+            Assistant Professor
         </div>
     </td>
   </tr>
@@ -34,14 +34,14 @@ description = "People"
         <div>
             <img src="https://zhouyixin.xyz/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7ea1fe81-6cef-4dac-952c-3807fe426b98%2FIMG_1196_.jpg?table=block&id=3cb2fb58-19e4-4d51-be13-fc8b6089b258&spaceId=949b0961-e586-4e70-926a-3778ff946257&width=250&userId=&cache=v2" width = 100px height = 100px><br>
             <a href="https://zhouyixin.xyz/">Yixin Zhou</a><br>
-            Assistant Research Fellow
+            Associate Professor
         </div>
     </td>
     <td style="text-align: center; vertical-align: middle; padding:10px">
         <div>
             <img src="https://zhicongchen.github.io/images/czc.png" width = 100px height = 100px><br>
             <a href="https://zhicongchen.github.io/">Zhicong Chen</a><br>
-            Assistant Research Fellow
+            Assistant Professor
         </div>
     </td>
   </tr>
@@ -49,11 +49,11 @@ description = "People"
 </table>
 
 <!-- 
-- [Cheng-Jun Wang](http://chengjunwang.com/), Director, Associate Professor
+- [Cheng-Jun Wang](http://chengjunwang.com/), Director, Professor
 - [Ke-Ke Shang](https://kekeshang.github.io/), Associate Professor
-- [Zhihao Ma](https://scholar.google.com/citations?user=qscxWlUAAAAJ&hl=en), Assistant Research Fellow
-- [Yi-Xin Zhou](https://zhouyixin.xyz/), Assistant Research Fellow
-- [Zhicong Chen](https://zhicongchen.github.io/), Assistant Research Fellow
+- [Zhihao Ma](https://scholar.google.com/citations?user=qscxWlUAAAAJ&hl=en), Assistant Professor
+- [Yi-Xin Zhou](https://zhouyixin.xyz/), Associate Professor
+- [Zhicong Chen](https://zhicongchen.github.io/), Assistant Professor
 -->
 
 ### Ph.D. Students
@@ -179,4 +179,6 @@ description = "People"
 - [Lingfei Wu](https://lingfeiwu.github.io/), Assistant Professor, School of Computing and Information, University of Pittsburgh
 
 ![](/img/carousel/dj.png)
+
+![✏️](https://github.com/socrateslab/socrateslab.github.io/edit/master/content/people.md)
 
