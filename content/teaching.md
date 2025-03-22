@@ -45,3 +45,6 @@ https://www.ximalaya.com/zhubo/180153441
 ![](https://raw.githubusercontent.com/SocratesAcademy/css/master/assets/torch.gif)
 
 > Education is not the filling of a pail, but the lighting of a fire 🔥
+
+[🔥 Kindle the Fire in Your Heart!](https://github.com/socrateslab/socrateslab.github.io/edit/master/content/teaching.md)
+
