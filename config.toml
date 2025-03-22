@@ -52,7 +52,7 @@ pagination.pagerSize = 20
     weight = 5
     
 [[menu.main]]
-    name = "Forum"
+    name = "中文"
     url  = "/forum/"
     weight = 6
 
