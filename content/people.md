@@ -180,5 +180,5 @@ description = "People"
 
 ![](/img/carousel/dj.png)
 
-![✏️](https://github.com/socrateslab/socrateslab.github.io/edit/master/content/people.md)
+[✏️](https://github.com/socrateslab/socrateslab.github.io/edit/master/content/people.md)
 
