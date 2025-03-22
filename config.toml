@@ -63,7 +63,7 @@ pagination.pagerSize = 20
     
 [[menu.main]]
     name = "中文"
-    url  = "/forum/"
+    url  = "/zh/"
     weight = 8
     
 # Top bar social links menu
