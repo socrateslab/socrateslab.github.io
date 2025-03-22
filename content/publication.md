@@ -61,3 +61,6 @@ keywords = ["SSCI","SCI","CSSCI","Conference"]
 
 
 ![](/img/carousel/theorysmall.png)
+
+
+[🔥 Kindle the Fire in Your Heart!](https://github.com/socrateslab/socrateslab.github.io/edit/master/content/publication.md)
