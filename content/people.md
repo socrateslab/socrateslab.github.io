@@ -5,12 +5,12 @@ description = "People"
 
 ### Faculty Members
 
-<table style="table-layout: auto; width: 150px">
+<table style="table-layout: auto; width: 450px">
   <tr>
     <td style="text-align: center; vertical-align: middle; padding:10px">
         <div>
             <img src="https://chengjun.github.io/authors/admin/avatar_hucdc0c36df1d51621c381efb87a23e0c7_43703_270x270_fill_q75_lanczos_center.jpg" width = 100px height = 100px><br>
-            <a href="http://chengjunwang.com/">Cheng-Jun Wang</a><br>
+            <a href="http://chengjun.github.io/">Cheng-Jun Wang</a><br>
             Professor
         </div>
     </td>
