@@ -19,3 +19,6 @@ Computational Communication Collaboratory, School of Journalism and Communicatio
 
 
 <iframe src="https://j.map.baidu.com/2a3-2" width="700" height="500" frameborder="0" scrolling="yes"></iframe>
+
+
+[🔥 Kindle the Fire in Your Heart!](https://github.com/socrateslab/socrateslab.github.io/edit/master/content/contact.md)
