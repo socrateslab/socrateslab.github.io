@@ -50,22 +50,22 @@ pagination.pagerSize = 20
     identifier = "Teaching"
     url  = "/en/teaching/"
     weight = 5
-    
-[[menu.main]]
-    name = "中文"
-    url  = "/forum/"
-    weight = 6
 
 [[menu.main]]
     name = "Contact"
     url  = "/contact/"
-    weight = 7
+    weight = 6
 
 [[menu.main]]
     name = "Admin"
     url  = "https://github.com/socrateslab/socrateslab.github.io/tree/master/content/blog"
+    weight = 7
+    
+[[menu.main]]
+    name = "中文"
+    url  = "/forum/"
     weight = 8
-
+    
 # Top bar social links menu
 
 [[menu.topbar]]
