@@ -180,5 +180,5 @@ description = "People"
 
 ![](/img/carousel/dj.png)
 
-[✏️](https://github.com/socrateslab/socrateslab.github.io/edit/master/content/people.md)
+[🚀 Kindle the Fire in Your Heart!](https://github.com/socrateslab/socrateslab.github.io/edit/master/content/people.md)
 
