@@ -44,7 +44,6 @@ description = "People"
             Assistant Professor
         </div>
     </td>
-
     <td style="text-align: center; vertical-align: middle; padding:10px">
         <div>
             <img src="https://github.com/user-attachments/assets/3ce7a419-2390-4a59-b1a4-301cedc494f6" width = 100px height = 100px><br>
