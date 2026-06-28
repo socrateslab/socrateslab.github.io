@@ -27,25 +27,25 @@ pagination.pagerSize = 20
 
 [[menu.main]]
     name = "People"
-    url  = "/en/people/"
+    url  = "/people/"
     weight = 2
 
 [[menu.main]]
     name = "News"
-    url  = "/en/blog/"
+    url  = "/blog/"
     identifier = "News"
     weight = 3
 
 [[menu.main]]
     name = "PUBLICATION"
     identifier = "Publication"
-    url  = "/en/publication/"
+    url  = "/publication/"
     weight = 4
     
 [[menu.main]]
     name = "TEACHING"
     identifier = "Teaching"
-    url  = "/en/teaching/"
+    url  = "/teaching/"
     weight = 5
 
 [[menu.main]]
