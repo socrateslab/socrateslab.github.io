@@ -15,7 +15,6 @@ pagination.pagerSize = 20
 
 [languages.en]
   languageName = "English"
-  locale = "en-US"
 
 [menu]
 
