@@ -139,7 +139,7 @@ pagination.pagerSize = 20
     #longitude = ""
 
 [Permalinks]
-    blog = "/blog/:year/:month/:day/:slug/"
+    blog = "/blog/:year/:month/:day/:filename/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
