@@ -1,9 +1,7 @@
 baseurl = "https://socrateslab.github.io/"
 title = "Computational Communication Collaboratroy"
 theme = "hugo-universal-theme"
-[languages.en]
-  languageName = "English"
-  locale = "en-US"
+
 hasCJKLanguage=true
 summaryLength= 35
 relativeURLs = true
@@ -12,14 +10,12 @@ canonifyURLs=true
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
-
-# Enable comments by entering your Disqus shortname
-# disqusShortname = "computational-communication"
-# Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
-
-# Define the number of posts per page
 pagination.pagerSize = 20
+
+[languages.en]
+  languageName = "English"
+  locale = "en-US"
 
 [menu]
 
@@ -144,7 +140,7 @@ pagination.pagerSize = 20
     #longitude = ""
 
 [Permalinks]
-    blog = "/blog/:year/:month/:day/:contentbasename/"
+    blog = "/blog/:year/:month/:day/:slug/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
